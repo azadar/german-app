@@ -1,6 +1,6 @@
 # Deutsch 80/20 (PWA)
 Run locally: VS Code + "Live Server" extension -> right-click index.html -> Open with Live Server.
-Deploy: push to `main` to run the GitHub Actions workflow in `.github/workflows/pages.yml`. On first setup, confirm that GitHub Pages is enabled with the `GitHub Actions` source under Settings -> Pages. The project site URL is `https://azadar.github.io/german-app/`.
+Deploy: push to `main` to run the GitHub Actions workflow in `.github/workflows/pages.yml`. The workflow enables GitHub Pages and deploys the static site. The project site URL is `https://azadar.github.io/german-app/`; the app and its vocabulary/phrase data are publicly accessible.
 Install on Windows: open the Pages link in Edge -> ... -> Apps -> Install this site as an app.
 
 `words.json` combines `words-ori.json` and the existing vocabulary, removes duplicate German spellings (case-sensitive), and ranks entries using the German OpenSubtitles 2018 frequency list. Multi-word entries are estimated from their least-frequent word, with a 10× penalty for each additional word. Source: [FrequencyWords](https://github.com/hermitdave/FrequencyWords), content licensed CC BY-SA 4.0. Stable `id` values keep word progress attached to the right German entry when frequency sorting changes its position. The list currently has 1,500 entries.
