@@ -23,7 +23,10 @@
     <main>
       <header class="brand">
         <img src="icons/logo.svg" alt="" />
-        <h1>Deutsch 80/20</h1>
+        <div>
+          <p class="eyebrow">A little practice. Everyday confidence.</p>
+          <h1>Deutsch 80/20</h1>
+        </div>
       </header>
       <p class="sub">
         Useful everyday German for understanding, speaking, and keeping conversations going.
@@ -51,8 +54,10 @@
 
       <div class="voice-controls">
         <label for="voiceRate">Voice speed</label>
-        <input id="voiceRate" type="range" min="0.5" max="1" step="0.1" value="0.8" />
-        <output id="voiceRateValue" for="voiceRate">0.8x</output>
+        <div class="voice-slider">
+          <input id="voiceRate" type="range" min="0.5" max="1" step="0.1" value="0.8" />
+          <output id="voiceRateValue" for="voiceRate">0.8x</output>
+        </div>
         <button
           id="audioToggle"
           class="audio-toggle"

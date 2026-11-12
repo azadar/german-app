@@ -274,18 +274,15 @@ function renderWordCard(word) {
   const escapedGermanWord = escapeHtml(word.de);
 
   return `
-    <article class="card">
-      <div class="row">
+    <article class="card word-card">
+      <div class="word-header">
         <div class="de">${escapedGermanWord}</div>
-        <span class="sp"></span>
-        <button type="button" data-action="speak-word" data-word-id="${word.i}"
-          aria-label="Listen to ${escapedGermanWord}" title="Listen">🔊</button>
-        <button type="button" data-action="recognize-word" data-word-id="${word.i}"
-          aria-label="Practise saying ${escapedGermanWord}" title="Say it">🎤</button>
-        <button type="button" data-action="toggle-learned" data-word-id="${word.i}"
-          class="${isLearned ? "done" : ""}">
-          ${isLearned ? "✓ Learned" : "Mark learned"}
-        </button>
+        <div class="word-audio">
+          <button type="button" data-action="speak-word" data-word-id="${word.i}"
+            aria-label="Listen to ${escapedGermanWord}" title="Listen">🔊</button>
+          <button type="button" data-action="recognize-word" data-word-id="${word.i}"
+            aria-label="Practise saying ${escapedGermanWord}" title="Say it">🎤</button>
+        </div>
       </div>
       ${word.p ? `<div class="pr">[ ${escapeHtml(word.p)} ]</div>` : ""}
       <div class="tr">
@@ -293,6 +290,12 @@ function renderWordCard(word) {
         <span class="ur" dir="rtl" lang="ur">${escapeHtml(word.ur)}</span>
       </div>
       <div class="fb" id="feedback-${word.i}" aria-live="polite"></div>
+      <div class="word-footer">
+        <button type="button" data-action="toggle-learned" data-word-id="${word.i}"
+          aria-pressed="${isLearned}" class="${isLearned ? "done" : ""}">
+          ${isLearned ? "✓ Learned" : "Mark learned"}
+        </button>
+      </div>
     </article>
   `;
 }
@@ -342,12 +345,13 @@ function renderTodayView() {
   ).length;
 
   elements.view.innerHTML = `
-    <section class="card">
-      <div class="row">
+    <section class="card setup-card">
+      <h2>Your daily words</h2>
+      <div class="form-grid daily-controls">
         <label for="learningMode">
           Mode
           <select id="learningMode">
-            <option value="core">Core 80/20 (most frequent next)</option>
+            <option value="core">Most used first (80/20)</option>
             <option value="random">Random new words</option>
             <option value="review">Review learned</option>
           </select>
@@ -360,7 +364,6 @@ function renderTodayView() {
               .join("")}
           </select>
         </label>
-        <span class="sp"></span>
         <button type="button" data-action="refresh-plan">New set</button>
       </div>
       <div class="fb" role="status">
@@ -368,7 +371,9 @@ function renderTodayView() {
         ranked by everyday frequency, so a few hundred cover many conversations.
       </div>
     </section>
-    ${plannedWordIds.map((wordId) => renderWordCard(vocabularyWords[wordId])).join("")}
+    <div class="word-grid">
+      ${plannedWordIds.map((wordId) => renderWordCard(vocabularyWords[wordId])).join("")}
+    </div>
   `;
 
   document.querySelector("#learningMode").value = appState.mode;
@@ -395,7 +400,7 @@ function renderPhrasePractice() {
 
   if (phraseSession.currentIndex >= phraseSession.phraseIds.length) {
     elements.view.innerHTML = `
-      <section class="card">
+      <section class="card setup-card">
         <h2 class="de">Practice complete</h2>
         <p>You marked ${phraseSession.completedCount} phrase${phraseSession.completedCount === 1 ? "" : "s"} as comfortable in this round.</p>
         <p>Try saying the difficult phrases once more, then use one in a real conversation today.</p>
@@ -414,13 +419,13 @@ function renderPhrasePracticeSetup() {
   const categories = [...new Set(practicePhrases.map((phrase) => phrase.category))];
 
   elements.view.innerHTML = `
-    <section class="card">
+    <section class="card setup-card">
       <h2 class="de">Practise speaking from memory</h2>
       <p>
         Read the meaning, say the German out loud, then reveal and listen.
         Repeat the phrase until it feels easier to say without planning every word.
       </p>
-      <div class="row">
+      <div class="form-grid">
         <label for="phraseCategory">
           Situation
           <select id="phraseCategory">
@@ -507,7 +512,7 @@ function renderCurrentPracticePhrase() {
 
 function renderWordList() {
   elements.view.innerHTML = `
-    <div class="row">
+    <div class="browse-controls">
       <input
         id="wordSearch"
         class="word-search"
@@ -524,7 +529,7 @@ function renderWordList() {
         </select>
       </label>
     </div>
-    <div id="wordList"></div>
+    <div id="wordList" class="word-grid"></div>
   `;
 
   renderFilteredWordList();
@@ -552,8 +557,10 @@ function renderFilteredWordList() {
 function renderFlashcards() {
   if (!flashcardSession) {
     elements.view.innerHTML = `
-      <section class="card">
-        <div class="row">
+      <section class="card setup-card">
+        <h2>Review at your own pace</h2>
+        <p>Recall the meaning, flip the card, and keep building your confidence.</p>
+        <div class="form-grid">
           <label for="flashcardCount">
             Cards
             <select id="flashcardCount">

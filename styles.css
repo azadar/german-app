@@ -1,6 +1,7 @@
 /* Design tokens and components adapted from the Skylearn design system. */
 :root {
   --background: #ffffff;
+  --page-background: #f1f5f9;
   --foreground: #0f172a;
   --muted: #475569;
   --subtle: #64748b;
@@ -30,6 +31,7 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --background: #0f172a;
+    --page-background: #0f172a;
     --foreground: #f8fafc;
     --muted: #cbd5e1;
     --subtle: #94a3b8;
@@ -55,6 +57,7 @@
 
 :root[data-theme="dark"] {
   --background: #0f172a;
+  --page-background: #0f172a;
   --foreground: #f8fafc;
   --muted: #cbd5e1;
   --subtle: #94a3b8;
@@ -88,16 +91,16 @@ html {
 
 body {
   margin: 0;
-  background: var(--background);
+  background: var(--page-background);
   color: var(--foreground);
   font: 1.125rem/1.55 "Atkinson Hyperlegible", "Nunito Sans", system-ui, sans-serif;
   letter-spacing: 0.01em;
 }
 
 main {
-  width: min(100%, 1000px);
+  width: min(100%, 1120px);
   margin: 0 auto;
-  padding: 20px;
+  padding: 40px 32px 64px;
 }
 
 h1,
@@ -109,12 +112,35 @@ h2,
 
 h1 {
   margin: 4px 0;
-  font-size: 2rem;
-  line-height: 1.08;
+  font-size: clamp(1.75rem, 4vw, 2.5rem);
+  line-height: 1.2;
+  letter-spacing: -0.035em;
+}
+
+h2 {
+  margin: 0 0 12px;
+  font-size: 1.5rem;
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+}
+
+.eyebrow {
+  margin: 0 0 6px;
+  color: var(--muted);
+  font-size: 1rem;
+}
+
+.setup-card > p {
+  max-width: 68ch;
+  margin: 0 0 24px;
+}
+
+.setup-card > p:last-child {
+  margin: 24px 0 0;
 }
 
 .sub {
-  margin: 0 0 16px;
+  margin: 0 0 28px;
   color: var(--muted);
   font-size: 1rem;
 }
@@ -123,7 +149,7 @@ h1 {
   display: flex;
   align-items: center;
   gap: 16px;
-  margin: 4px 0 12px;
+  margin: 0 0 16px;
 }
 
 .brand img {
@@ -137,10 +163,14 @@ h1 {
 }
 
 nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin: 16px 0;
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 6px;
+  margin: 28px 0 16px;
+  padding: 6px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: var(--surface-elevated);
 }
 
 button,
@@ -154,6 +184,7 @@ input {
   color: var(--foreground);
   font: inherit;
   letter-spacing: inherit;
+  font-size: 1rem;
 }
 
 button {
@@ -197,6 +228,9 @@ button.primary:hover {
 }
 
 nav button {
+  padding: 12px;
+  border-color: transparent;
+  background: transparent;
   font-weight: 700;
 }
 
@@ -214,6 +248,38 @@ select {
   background-repeat: no-repeat;
   background-position: right 18px center;
   background-size: 16px;
+}
+
+.form-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: end;
+  gap: 20px;
+}
+
+.form-grid > label,
+.browse-controls > label {
+  display: grid;
+  min-width: 0;
+  gap: 8px;
+}
+
+.form-grid select,
+.browse-controls select {
+  width: 100%;
+  min-width: 0;
+}
+
+.daily-controls {
+  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr) auto;
+}
+
+.browse-controls {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 280px);
+  align-items: end;
+  gap: 20px;
+  margin: 24px 0;
 }
 
 input[type="search"],
@@ -237,12 +303,33 @@ input[type="range"]:focus-visible {
 
 .voice-controls {
   display: grid;
-  grid-template-columns: max-content minmax(160px, 260px) 48px;
+  grid-template-columns: max-content minmax(160px, 300px) minmax(0, 1fr);
   align-items: center;
   gap: 14px;
-  width: fit-content;
+  width: 100%;
   max-width: 100%;
-  margin: 16px 0 20px;
+  margin: 0 0 24px;
+  padding: 16px 20px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface-elevated);
+}
+
+.audio-toggle {
+  justify-self: end;
+}
+
+.voice-slider {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 44px;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.voice-controls input {
+  width: 100%;
+  min-width: 0;
 }
 
 .voice-controls label {
@@ -257,11 +344,11 @@ input[type="range"]:focus-visible {
 }
 
 .card {
-  margin: 16px 0;
-  padding: 20px;
+  margin: 0 0 24px;
+  padding: 28px;
   border: 1px solid var(--border);
   border-radius: 20px;
-  background: var(--surface);
+  background: var(--surface-elevated);
   box-shadow: 0 1px 2px rgb(15 23 42 / 3%);
 }
 
@@ -272,7 +359,76 @@ input[type="range"]:focus-visible {
 .de {
   font-size: 1.75rem;
   font-weight: 700;
-  line-height: 1.08;
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+}
+
+.word-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.word-card {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  margin: 0;
+  padding: 24px;
+}
+
+.word-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.word-header > .de {
+  min-width: 0;
+  padding-top: 8px;
+}
+
+.word-audio {
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+}
+
+.word-audio button {
+  width: 48px;
+  min-height: 48px;
+  padding: 8px;
+  background: var(--surface);
+}
+
+.word-footer {
+  margin-top: auto;
+  padding-top: 20px;
+}
+
+.word-footer button {
+  width: 100%;
+  background: var(--surface);
+  font-weight: 700;
+}
+
+.word-footer button.done {
+  border-color: var(--leaf);
+  background: var(--leaf-soft);
+}
+
+.word-card .fb:empty {
+  display: none;
+}
+
+.word-card .tr {
+  overflow-wrap: anywhere;
+}
+
+.setup-card .fb {
+  margin-top: 20px;
 }
 
 .pr {
@@ -325,25 +481,28 @@ input[type="range"]:focus-visible {
 }
 
 .stats {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 12px;
-  margin: 12px 0;
+  margin: 0 0 16px;
 }
 
 .stats div {
-  flex: 1;
-  min-width: 120px;
-  padding: 12px;
+  min-width: 0;
+  padding: 20px 12px;
   border: 1px solid var(--border);
   border-radius: 16px;
-  background: var(--surface);
+  background: var(--surface-elevated);
+  color: var(--muted);
+  font-size: 1rem;
   text-align: center;
 }
 
 .stats b {
   display: block;
-  font-size: 1.5rem;
+  margin-bottom: 6px;
+  color: var(--foreground);
+  font-size: clamp(1.25rem, 3vw, 1.75rem);
   font-variant-numeric: tabular-nums;
   line-height: 1.08;
 }
@@ -457,9 +616,24 @@ hr {
   }
 }
 
+@media (max-width: 760px) {
+  nav {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .form-grid,
+  .browse-controls {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .word-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
 @media (max-width: 560px) {
   main {
-    padding: 16px;
+    padding: 24px 16px 40px;
   }
 
   h1 {
@@ -471,8 +645,20 @@ hr {
     height: 48px;
   }
 
-  nav button {
-    flex: 1 1 calc(50% - 10px);
+  .brand {
+    gap: 12px;
+  }
+
+  .eyebrow {
+    line-height: 1.4;
+  }
+
+  .stats {
+    gap: 8px;
+  }
+
+  .stats div {
+    padding: 16px 4px;
   }
 
   .row > * {
@@ -489,9 +675,28 @@ hr {
   }
 
   .voice-controls {
-    grid-template-columns: max-content minmax(100px, 1fr) 44px;
+    grid-template-columns: minmax(0, 1fr) auto;
     gap: 10px;
     width: 100%;
+    padding: 16px;
+  }
+
+  .voice-controls label {
+    grid-column: 1;
+  }
+
+  .voice-slider {
+    grid-row: 2;
+    grid-column: 1 / -1;
+  }
+
+  .audio-toggle {
+    grid-row: 1;
+    grid-column: 2;
+    min-height: 44px;
+    padding: 8px 12px;
+    white-space: nowrap;
+    justify-self: end;
   }
 
   .voice-controls input {
@@ -499,6 +704,18 @@ hr {
   }
 
   .card {
-    padding: 16px;
+    padding: 20px;
+  }
+
+  .form-grid {
+    gap: 16px;
+  }
+
+  .setup-card .primary {
+    width: 100%;
+  }
+
+  .word-grid {
+    gap: 16px;
   }
 }
