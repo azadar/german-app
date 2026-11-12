@@ -7,7 +7,7 @@ Install on Windows: open the Pages link in Edge -> ... -> Apps -> Install this s
 
 The first 135 curated additions used the ACoLi [DBnary German-English and English-Urdu dictionaries](https://github.com/acoli-repo/acoli-dicts), licensed CC BY-SA 3.0. Because matching translations across two dictionaries can select the wrong sense, their meanings were reviewed/corrected. Later everyday additions were manually curated. Entries with an empty `p` use the app's German speech playback instead of a respelling.
 
-Add words as objects with stable `id`, `de`, `p`, `en`, and `ur` fields, keeping the list in frequency order. `p` may be empty when no learner-friendly pronunciation is available. Increment the cache name in `sw.js` after changing app assets (currently `deutsch-v12`).
+Add words as objects with stable `id`, `de`, `p`, `en`, and `ur` fields, keeping the list in frequency order. `p` may be empty when no learner-friendly pronunciation is available. Increment the cache name in `sw.js` after changing app assets (currently `deutsch-v13`).
 
 `phrases.json` contains 166 curated phrases across common situations. The Speak tab prompts with the English and Urdu meaning before revealing and speaking the German phrase, so practise retrieving and saying the phrase before looking. Phrase progress is saved separately from word progress; it is a practice aid, not a fluency score.
 
