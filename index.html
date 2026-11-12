@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="theme-color" content="#3b82f6" />
+    <title>Deutsch 80/20 - Daily German</title>
+    <link rel="manifest" href="manifest.json" />
+    <link rel="icon" type="image/svg+xml" href="icons/logo.svg" />
+    <link rel="apple-touch-icon" sizes="192x192" href="icons/icon-192.png" />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;600;700&family=Nunito:wght@600;700;800&family=Noto+Naskh+Arabic:wght@500&display=swap"
+      rel="stylesheet"
+    />
+    <script src="app.js" defer></script>
+  </head>
+  <body>
+    <main>
+      <header class="brand">
+        <img src="icons/logo.svg" alt="" />
+        <h1>Deutsch 80/20</h1>
+      </header>
+      <p class="sub">
+        Useful everyday German for understanding, speaking, and keeping conversations going.
+      </p>
+
+      <div class="stats" id="stats" role="status" aria-live="polite"></div>
+      <div
+        class="bar"
+        id="progressBar"
+        role="progressbar"
+        aria-label="Vocabulary learned"
+        aria-valuemin="0"
+        aria-valuemax="100"
+        aria-valuenow="0"
+      >
+        <i id="progressFill"></i>
+      </div>
+
+      <nav id="nav" aria-label="Learning sections">
+        <button type="button" data-tab="today" class="on">Today</button>
+        <button type="button" data-tab="speak">Speak</button>
+        <button type="button" data-tab="all">All words</button>
+        <button type="button" data-tab="flash">Flashcards</button>
+      </nav>
+
+      <div class="voice-controls">
+        <label for="voiceRate">Voice speed</label>
+        <input id="voiceRate" type="range" min="0.5" max="1" step="0.1" value="0.8" />
+        <output id="voiceRateValue" for="voiceRate">0.8x</output>
+      </div>
+
+      <section id="view" aria-live="polite" aria-busy="true"></section>
+    </main>
+  </body>
+</html>

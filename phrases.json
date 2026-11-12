@@ -1,0 +1,998 @@
+[
+  {
+    "category": "Everyday",
+    "de": "Einen Moment bitte.",
+    "en": "One moment, please.",
+    "ur": "ایک لمحہ، براہِ کرم۔"
+  },
+  {
+    "category": "Everyday",
+    "de": "Das passt mir gut.",
+    "en": "That works well for me.",
+    "ur": "یہ میرے لیے ٹھیک ہے۔"
+  },
+  {
+    "category": "Everyday",
+    "de": "Ich bin gerade unterwegs.",
+    "en": "I'm on my way right now.",
+    "ur": "میں ابھی راستے میں ہوں۔"
+  },
+  {
+    "category": "Everyday",
+    "de": "Kein Problem, das mache ich gern.",
+    "en": "No problem, I'd be happy to do that.",
+    "ur": "کوئی مسئلہ نہیں، میں خوشی سے یہ کر دوں گا/گی۔"
+  },
+  {
+    "category": "Everyday",
+    "de": "Vielen Dank für Ihre Hilfe.",
+    "en": "Thank you very much for your help.",
+    "ur": "آپ کی مدد کے لیے بہت شکریہ۔"
+  },
+  {
+    "category": "Everyday",
+    "de": "Ich melde mich später bei Ihnen.",
+    "en": "I'll get back to you later.",
+    "ur": "میں بعد میں آپ سے رابطہ کروں گا/گی۔"
+  },
+  {
+    "category": "Understanding",
+    "de": "Können Sie das bitte wiederholen?",
+    "en": "Could you repeat that, please?",
+    "ur": "کیا آپ یہ دوبارہ کہہ سکتے ہیں؟"
+  },
+  {
+    "category": "Understanding",
+    "de": "Könnten Sie bitte etwas langsamer sprechen?",
+    "en": "Could you speak a little more slowly, please?",
+    "ur": "کیا آپ براہِ کرم ذرا آہستہ بول سکتے ہیں؟"
+  },
+  {
+    "category": "Understanding",
+    "de": "Ich habe das nicht ganz verstanden.",
+    "en": "I didn't quite understand that.",
+    "ur": "مجھے یہ پوری طرح سمجھ نہیں آیا۔"
+  },
+  {
+    "category": "Understanding",
+    "de": "Meinen Sie, dass ich hier warten soll?",
+    "en": "Do you mean that I should wait here?",
+    "ur": "کیا آپ کا مطلب ہے کہ مجھے یہاں انتظار کرنا چاہیے؟"
+  },
+  {
+    "category": "Understanding",
+    "de": "Wie sagt man das auf Deutsch?",
+    "en": "How do you say that in German?",
+    "ur": "اسے جرمن میں کیسے کہتے ہیں؟"
+  },
+  {
+    "category": "Understanding",
+    "de": "Mir fällt das Wort gerade nicht ein.",
+    "en": "I can't think of the word right now.",
+    "ur": "مجھے ابھی وہ لفظ یاد نہیں آ رہا۔"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Ich möchte einen Termin vereinbaren.",
+    "en": "I'd like to make an appointment.",
+    "ur": "میں ملاقات کا وقت لینا چاہتا/چاہتی ہوں۔"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Ich habe einen Termin um zehn Uhr.",
+    "en": "I have an appointment at ten.",
+    "ur": "میری دس بجے ملاقات طے ہے۔"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Ich muss meinen Termin leider verschieben.",
+    "en": "Unfortunately, I need to reschedule my appointment.",
+    "ur": "مجھے افسوس ہے، مجھے اپنی ملاقات کا وقت بدلنا ہوگا۔"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Welche Unterlagen brauche ich dafür?",
+    "en": "Which documents do I need for that?",
+    "ur": "اس کے لیے مجھے کون سے کاغذات چاہییں؟"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Können Sie mir bitte sagen, was ich als Nächstes tun soll?",
+    "en": "Could you tell me what I should do next?",
+    "ur": "کیا آپ مجھے بتا سکتے ہیں کہ مجھے اگلا کیا کرنا چاہیے؟"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Wie lange dauert die Bearbeitung?",
+    "en": "How long does the processing take?",
+    "ur": "اس کارروائی میں کتنا وقت لگتا ہے؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Ich hätte gern das hier, bitte.",
+    "en": "I'd like this one, please.",
+    "ur": "مجھے یہ چاہیے، براہِ کرم۔"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Haben Sie das auch in einer anderen Größe?",
+    "en": "Do you also have this in another size?",
+    "ur": "کیا یہ کسی اور سائز میں بھی ہے؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Kann ich das kurz anprobieren?",
+    "en": "Can I try this on quickly?",
+    "ur": "کیا میں اسے پہن کر دیکھ سکتا/سکتی ہوں؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Kann ich mit Karte bezahlen?",
+    "en": "Can I pay by card?",
+    "ur": "کیا میں کارڈ سے ادائیگی کر سکتا/سکتی ہوں؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Könnte ich bitte den Kassenbon bekommen?",
+    "en": "Could I have the receipt, please?",
+    "ur": "کیا مجھے رسید مل سکتی ہے؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Ich würde das gern umtauschen.",
+    "en": "I'd like to exchange this.",
+    "ur": "میں اسے تبدیل کرنا چاہتا/چاہتی ہوں۔"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Einen Tisch für zwei Personen, bitte.",
+    "en": "A table for two, please.",
+    "ur": "دو افراد کے لیے ایک میز، براہِ کرم۔"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Was können Sie empfehlen?",
+    "en": "What can you recommend?",
+    "ur": "آپ کیا تجویز کر سکتے ہیں؟"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Ich nehme das Gleiche wie sie.",
+    "en": "I'll have the same as her.",
+    "ur": "میں بھی وہی لوں گا/گی جو وہ لے رہی ہیں۔"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Könnte ich bitte die Speisekarte haben?",
+    "en": "Could I have the menu, please?",
+    "ur": "کیا مجھے کھانے کا مینو مل سکتا ہے؟"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Könnten wir bitte zahlen?",
+    "en": "Could we pay, please?",
+    "ur": "کیا ہم بل ادا کر سکتے ہیں؟"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Könnten Sie das bitte zum Mitnehmen einpacken?",
+    "en": "Could you pack this to take away, please?",
+    "ur": "کیا آپ یہ ساتھ لے جانے کے لیے پیک کر سکتے ہیں؟"
+  },
+  {
+    "category": "Getting around",
+    "de": "Wie komme ich zum Bahnhof?",
+    "en": "How do I get to the train station?",
+    "ur": "میں ریلوے اسٹیشن کیسے پہنچوں؟"
+  },
+  {
+    "category": "Getting around",
+    "de": "Fährt dieser Bus ins Stadtzentrum?",
+    "en": "Does this bus go to the city centre?",
+    "ur": "کیا یہ بس شہر کے مرکز تک جاتی ہے؟"
+  },
+  {
+    "category": "Getting around",
+    "de": "Wo muss ich umsteigen?",
+    "en": "Where do I need to change?",
+    "ur": "مجھے کہاں ٹرین یا بس بدلنی ہوگی؟"
+  },
+  {
+    "category": "Getting around",
+    "de": "Können Sie mir sagen, wo ich aussteigen muss?",
+    "en": "Could you tell me where I need to get off?",
+    "ur": "کیا آپ بتا سکتے ہیں کہ مجھے کہاں اترنا ہے؟"
+  },
+  {
+    "category": "Getting around",
+    "de": "Ist das noch weit von hier?",
+    "en": "Is it still far from here?",
+    "ur": "کیا یہاں سے ابھی کافی دور ہے؟"
+  },
+  {
+    "category": "Getting around",
+    "de": "Ich glaube, ich bin in den falschen Zug gestiegen.",
+    "en": "I think I got on the wrong train.",
+    "ur": "میرا خیال ہے کہ میں غلط ٹرین میں سوار ہو گیا/گئی ہوں۔"
+  },
+  {
+    "category": "Work",
+    "de": "Ich kümmere mich darum.",
+    "en": "I'll take care of it.",
+    "ur": "میں اس کا خیال رکھوں گا/گی۔"
+  },
+  {
+    "category": "Work",
+    "de": "Können wir das kurz besprechen?",
+    "en": "Can we discuss this briefly?",
+    "ur": "کیا ہم اس پر مختصر بات کر سکتے ہیں؟"
+  },
+  {
+    "category": "Work",
+    "de": "Bis wann brauchen Sie das?",
+    "en": "By when do you need it?",
+    "ur": "آپ کو یہ کب تک چاہیے؟"
+  },
+  {
+    "category": "Work",
+    "de": "Ich bin damit fast fertig.",
+    "en": "I'm nearly finished with it.",
+    "ur": "میں یہ کام تقریباً مکمل کر چکا/چکی ہوں۔"
+  },
+  {
+    "category": "Work",
+    "de": "Könnten Sie mir das bitte kurz zeigen?",
+    "en": "Could you quickly show me that, please?",
+    "ur": "کیا آپ مجھے یہ ذرا دکھا سکتے ہیں؟"
+  },
+  {
+    "category": "Work",
+    "de": "Ich bin heute leider nicht verfügbar.",
+    "en": "Unfortunately, I'm not available today.",
+    "ur": "افسوس، میں آج دستیاب نہیں ہوں۔"
+  },
+  {
+    "category": "Health",
+    "de": "Ich brauche einen Termin beim Arzt.",
+    "en": "I need an appointment with a doctor.",
+    "ur": "مجھے ڈاکٹر سے ملاقات کا وقت چاہیے۔"
+  },
+  {
+    "category": "Health",
+    "de": "Seit gestern habe ich starke Kopfschmerzen.",
+    "en": "I've had a bad headache since yesterday.",
+    "ur": "مجھے کل سے شدید سر درد ہے۔"
+  },
+  {
+    "category": "Health",
+    "de": "Ich nehme dieses Medikament regelmäßig.",
+    "en": "I take this medication regularly.",
+    "ur": "میں یہ دوا باقاعدگی سے لیتا/لیتی ہوں۔"
+  },
+  {
+    "category": "Health",
+    "de": "Könnten Sie mir das bitte aufschreiben?",
+    "en": "Could you write that down for me, please?",
+    "ur": "کیا آپ براہِ کرم یہ میرے لیے لکھ سکتے ہیں؟"
+  },
+  {
+    "category": "Health",
+    "de": "Wo ist die nächste Apotheke?",
+    "en": "Where is the nearest pharmacy?",
+    "ur": "قریب ترین دواخانہ کہاں ہے؟"
+  },
+  {
+    "category": "Health",
+    "de": "Ich habe eine Allergie gegen Nüsse.",
+    "en": "I'm allergic to nuts.",
+    "ur": "مجھے گری دار میووں سے الرجی ہے۔"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Die Heizung funktioniert nicht.",
+    "en": "The heating isn't working.",
+    "ur": "ہیٹنگ کام نہیں کر رہی۔"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Seit heute Morgen gibt es kein warmes Wasser.",
+    "en": "There has been no hot water since this morning.",
+    "ur": "آج صبح سے گرم پانی نہیں آ رہا۔"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Könnten Sie bitte jemanden vorbeischicken?",
+    "en": "Could you send someone over, please?",
+    "ur": "کیا آپ براہِ کرم کسی کو یہاں بھیج سکتے ہیں؟"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Wann kann ich die Wohnung besichtigen?",
+    "en": "When can I view the apartment?",
+    "ur": "میں فلیٹ دیکھنے کب آ سکتا/سکتی ہوں؟"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Wie hoch sind die Nebenkosten?",
+    "en": "How much are the additional housing costs?",
+    "ur": "اضافی رہائشی اخراجات کتنے ہیں؟"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Ich würde gern einen Besichtigungstermin vereinbaren.",
+    "en": "I'd like to arrange a viewing.",
+    "ur": "میں فلیٹ دیکھنے کا وقت طے کرنا چاہتا/چاہتی ہوں۔"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Ich glaube, da ist etwas schiefgelaufen.",
+    "en": "I think something went wrong.",
+    "ur": "میرا خیال ہے کہ کچھ غلط ہو گیا ہے۔"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Das habe ich so nicht gemeint.",
+    "en": "That's not what I meant.",
+    "ur": "میرا مطلب یہ نہیں تھا۔"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Können Sie mir bitte weiterhelfen?",
+    "en": "Could you please help me?",
+    "ur": "کیا آپ براہِ کرم میری مدد کر سکتے ہیں؟"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Ich habe meine Tasche verloren.",
+    "en": "I've lost my bag.",
+    "ur": "میرا بیگ گم ہو گیا ہے۔"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Könnten Sie mir bitte erklären, was passiert ist?",
+    "en": "Could you explain to me what happened, please?",
+    "ur": "کیا آپ مجھے سمجھا سکتے ہیں کہ کیا ہوا؟"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Es ist dringend. Können Sie mir sofort helfen?",
+    "en": "It's urgent. Can you help me right away?",
+    "ur": "یہ فوری معاملہ ہے۔ کیا آپ ابھی میری مدد کر سکتے ہیں؟"
+  },
+  {
+    "category": "Social",
+    "de": "Hast du am Wochenende schon etwas vor?",
+    "en": "Do you have any plans for the weekend?",
+    "ur": "کیا تم نے ہفتے کے آخر کے لیے کچھ طے کیا ہے؟"
+  },
+  {
+    "category": "Social",
+    "de": "Das klingt richtig gut.",
+    "en": "That sounds really good.",
+    "ur": "یہ واقعی اچھا لگتا ہے۔"
+  },
+  {
+    "category": "Social",
+    "de": "Ich bin gern dabei.",
+    "en": "I'd be happy to join.",
+    "ur": "میں خوشی سے ساتھ چلوں گا/گی۔"
+  },
+  {
+    "category": "Social",
+    "de": "Leider schaffe ich es heute nicht.",
+    "en": "Unfortunately, I can't make it today.",
+    "ur": "افسوس، میں آج نہیں آ سکوں گا/گی۔"
+  },
+  {
+    "category": "Social",
+    "de": "Lass uns nächste Woche etwas ausmachen.",
+    "en": "Let's arrange something for next week.",
+    "ur": "آؤ اگلے ہفتے ملنے کا کچھ طے کرتے ہیں۔"
+  },
+  {
+    "category": "Social",
+    "de": "Wie war dein Wochenende?",
+    "en": "How was your weekend?",
+    "ur": "تمہارا ہفتہ وار تعطیل کا وقت کیسا گزرا؟"
+  },
+  {
+    "category": "Everyday",
+    "de": "Ich bin gleich zurück.",
+    "en": "I'll be right back.",
+    "ur": "میں ابھی واپس آتا/آتی ہوں۔"
+  },
+  {
+    "category": "Everyday",
+    "de": "Ich komme in fünf Minuten.",
+    "en": "I'll be there in five minutes.",
+    "ur": "میں پانچ منٹ میں پہنچ جاؤں گا/گی۔"
+  },
+  {
+    "category": "Everyday",
+    "de": "Das ist eine gute Idee.",
+    "en": "That's a good idea.",
+    "ur": "یہ اچھا خیال ہے۔"
+  },
+  {
+    "category": "Everyday",
+    "de": "Es kommt darauf an.",
+    "en": "It depends.",
+    "ur": "یہ حالات پر منحصر ہے۔"
+  },
+  {
+    "category": "Everyday",
+    "de": "Ich bin mir noch nicht sicher.",
+    "en": "I'm not sure yet.",
+    "ur": "مجھے ابھی یقین نہیں ہے۔"
+  },
+  {
+    "category": "Everyday",
+    "de": "Können wir später darüber sprechen?",
+    "en": "Can we talk about it later?",
+    "ur": "کیا ہم اس بارے میں بعد میں بات کر سکتے ہیں؟"
+  },
+  {
+    "category": "Everyday",
+    "de": "Ich habe gerade keine Zeit.",
+    "en": "I don't have time right now.",
+    "ur": "میرے پاس ابھی وقت نہیں ہے۔"
+  },
+  {
+    "category": "Everyday",
+    "de": "Das habe ich nicht erwartet.",
+    "en": "I didn't expect that.",
+    "ur": "مجھے اس کی توقع نہیں تھی۔"
+  },
+  {
+    "category": "Understanding",
+    "de": "Habe ich das richtig verstanden?",
+    "en": "Did I understand that correctly?",
+    "ur": "کیا میں نے یہ صحیح سمجھا؟"
+  },
+  {
+    "category": "Understanding",
+    "de": "Was genau meinen Sie damit?",
+    "en": "What exactly do you mean by that?",
+    "ur": "اس سے آپ کی بالکل کیا مراد ہے؟"
+  },
+  {
+    "category": "Understanding",
+    "de": "Könnten Sie mir ein Beispiel geben?",
+    "en": "Could you give me an example?",
+    "ur": "کیا آپ مجھے ایک مثال دے سکتے ہیں؟"
+  },
+  {
+    "category": "Understanding",
+    "de": "Ich wollte nur kurz nachfragen.",
+    "en": "I just wanted to check.",
+    "ur": "میں بس ایک بات پوچھنا چاہتا/چاہتی تھا/تھی۔"
+  },
+  {
+    "category": "Understanding",
+    "de": "Können Sie das anders erklären?",
+    "en": "Can you explain that another way?",
+    "ur": "کیا آپ اسے کسی اور طرح سمجھا سکتے ہیں؟"
+  },
+  {
+    "category": "Understanding",
+    "de": "Ich bin nicht sicher, ob ich das richtig verstanden habe.",
+    "en": "I'm not sure I understood that correctly.",
+    "ur": "مجھے یقین نہیں کہ میں نے یہ صحیح سمجھا ہے۔"
+  },
+  {
+    "category": "Understanding",
+    "de": "Was ist der Unterschied zwischen den beiden?",
+    "en": "What's the difference between the two?",
+    "ur": "ان دونوں میں کیا فرق ہے؟"
+  },
+  {
+    "category": "Understanding",
+    "de": "Ich verstehe den ersten Teil, aber nicht den Rest.",
+    "en": "I understand the first part, but not the rest.",
+    "ur": "مجھے پہلا حصہ سمجھ آیا، لیکن باقی نہیں۔"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Ich habe alle Unterlagen dabei.",
+    "en": "I have all the documents with me.",
+    "ur": "میرے پاس تمام کاغذات موجود ہیں۔"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Muss ich das persönlich abgeben?",
+    "en": "Do I have to submit this in person?",
+    "ur": "کیا مجھے یہ خود آ کر جمع کرانا ہوگا؟"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Bis wann muss ich den Antrag einreichen?",
+    "en": "By when do I have to submit the application?",
+    "ur": "مجھے درخواست کب تک جمع کرانی ہے؟"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Könnte ich bitte eine schriftliche Bestätigung bekommen?",
+    "en": "Could I get written confirmation, please?",
+    "ur": "کیا مجھے تحریری تصدیق مل سکتی ہے؟"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Ich habe den Brief gestern erhalten.",
+    "en": "I received the letter yesterday.",
+    "ur": "مجھے کل خط موصول ہوا۔"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Ist noch ein Termin frei?",
+    "en": "Is there still an appointment available?",
+    "ur": "کیا ابھی ملاقات کا کوئی وقت خالی ہے؟"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Welche Unterlagen fehlen noch?",
+    "en": "Which documents are still missing?",
+    "ur": "ابھی کون سے کاغذات درکار ہیں؟"
+  },
+  {
+    "category": "Appointments & offices",
+    "de": "Kann ich den Antrag online stellen?",
+    "en": "Can I submit the application online?",
+    "ur": "کیا میں آن لائن درخواست دے سکتا/سکتی ہوں؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Kann ich das zurückgeben, wenn es nicht passt?",
+    "en": "Can I return this if it doesn't fit?",
+    "ur": "اگر یہ ٹھیک نہ آیا تو کیا میں اسے واپس کر سکتا/سکتی ہوں؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Haben Sie eine günstigere Alternative?",
+    "en": "Do you have a cheaper alternative?",
+    "ur": "کیا آپ کے پاس اس سے سستا متبادل ہے؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Ist das gerade im Angebot?",
+    "en": "Is this on sale right now?",
+    "ur": "کیا اس پر ابھی رعایت ہے؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Wo finde ich die Getränke?",
+    "en": "Where can I find the drinks?",
+    "ur": "مشروبات کہاں ملیں گے؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Wann kommt meine Bestellung an?",
+    "en": "When will my order arrive?",
+    "ur": "میرا آرڈر کب پہنچے گا؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Kann ich meine Bestellung hier abholen?",
+    "en": "Can I pick up my order here?",
+    "ur": "کیا میں اپنا آرڈر یہاں سے لے سکتا/سکتی ہوں؟"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Das ist leider beschädigt.",
+    "en": "Unfortunately, this is damaged.",
+    "ur": "افسوس، یہ خراب ہے۔"
+  },
+  {
+    "category": "Shopping & services",
+    "de": "Ich habe online bestellt, aber das Paket ist nicht angekommen.",
+    "en": "I ordered online, but the package hasn't arrived.",
+    "ur": "میں نے آن لائن آرڈر کیا تھا، لیکن پارسل نہیں پہنچا۔"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Ich hätte gern ein Glas Leitungswasser.",
+    "en": "I'd like a glass of tap water.",
+    "ur": "مجھے نلکے کے پانی کا ایک گلاس چاہیے۔"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Ist das Gericht vegetarisch?",
+    "en": "Is this dish vegetarian?",
+    "ur": "کیا یہ کھانا سبزی خور ہے؟"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Ohne Zwiebeln, bitte.",
+    "en": "No onions, please.",
+    "ur": "پیاز کے بغیر، براہِ کرم۔"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Ich esse kein Fleisch.",
+    "en": "I don't eat meat.",
+    "ur": "میں گوشت نہیں کھاتا/کھاتی۔"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Könnte ich noch etwas Brot bekommen?",
+    "en": "Could I have some more bread?",
+    "ur": "کیا مجھے کچھ اور روٹی مل سکتی ہے؟"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Könnten wir bitte getrennt zahlen?",
+    "en": "Could we pay separately, please?",
+    "ur": "کیا ہم الگ الگ ادائیگی کر سکتے ہیں؟"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Zum Mitnehmen, bitte.",
+    "en": "For takeaway, please.",
+    "ur": "ساتھ لے جانے کے لیے، براہِ کرم۔"
+  },
+  {
+    "category": "Food & restaurant",
+    "de": "Das schmeckt sehr gut.",
+    "en": "This tastes really good.",
+    "ur": "اس کا ذائقہ بہت اچھا ہے۔"
+  },
+  {
+    "category": "Getting around",
+    "de": "Wann fährt der nächste Zug?",
+    "en": "When does the next train leave?",
+    "ur": "اگلی ٹرین کب روانہ ہوگی؟"
+  },
+  {
+    "category": "Getting around",
+    "de": "Mein Zug hat Verspätung.",
+    "en": "My train is delayed.",
+    "ur": "میری ٹرین لیٹ ہے۔"
+  },
+  {
+    "category": "Getting around",
+    "de": "Wo kann ich eine Fahrkarte kaufen?",
+    "en": "Where can I buy a ticket?",
+    "ur": "میں ٹکٹ کہاں سے خرید سکتا/سکتی ہوں؟"
+  },
+  {
+    "category": "Getting around",
+    "de": "Ist dieser Platz noch frei?",
+    "en": "Is this seat still free?",
+    "ur": "کیا یہ نشست خالی ہے؟"
+  },
+  {
+    "category": "Getting around",
+    "de": "Ich muss am Hauptbahnhof umsteigen.",
+    "en": "I have to change at the central station.",
+    "ur": "مجھے مرکزی اسٹیشن پر سواری بدلنی ہے۔"
+  },
+  {
+    "category": "Getting around",
+    "de": "Können Sie mir das auf der Karte zeigen?",
+    "en": "Could you show me that on the map?",
+    "ur": "کیا آپ مجھے یہ نقشے پر دکھا سکتے ہیں؟"
+  },
+  {
+    "category": "Getting around",
+    "de": "Gibt es eine direkte Verbindung?",
+    "en": "Is there a direct connection?",
+    "ur": "کیا براہِ راست سواری موجود ہے؟"
+  },
+  {
+    "category": "Getting around",
+    "de": "Wo muss ich hier aussteigen?",
+    "en": "Where do I need to get off?",
+    "ur": "مجھے یہاں کہاں اترنا ہے؟"
+  },
+  {
+    "category": "Work",
+    "de": "Ich bin heute krank und kann nicht zur Arbeit kommen.",
+    "en": "I'm ill today and can't come to work.",
+    "ur": "میں آج بیمار ہوں اور کام پر نہیں آ سکتا/سکتی۔"
+  },
+  {
+    "category": "Work",
+    "de": "Ich schicke Ihnen die Datei gleich.",
+    "en": "I'll send you the file in a moment.",
+    "ur": "میں ابھی آپ کو فائل بھیجتا/بھیجتی ہوں۔"
+  },
+  {
+    "category": "Work",
+    "de": "Könnten Sie mir die Aufgabe noch einmal erklären?",
+    "en": "Could you explain the task to me once more?",
+    "ur": "کیا آپ مجھے کام ایک بار پھر سمجھا سکتے ہیں؟"
+  },
+  {
+    "category": "Work",
+    "de": "Ich bin mit dem Bericht fertig.",
+    "en": "I've finished the report.",
+    "ur": "میں رپورٹ مکمل کر چکا/چکی ہوں۔"
+  },
+  {
+    "category": "Work",
+    "de": "Könnten wir das auf morgen verschieben?",
+    "en": "Could we move this to tomorrow?",
+    "ur": "کیا ہم اسے کل کے لیے ملتوی کر سکتے ہیں؟"
+  },
+  {
+    "category": "Work",
+    "de": "Ich habe dazu noch eine Frage.",
+    "en": "I have another question about that.",
+    "ur": "اس بارے میں میرا ایک اور سوال ہے۔"
+  },
+  {
+    "category": "Work",
+    "de": "Ich bin für heute fertig.",
+    "en": "I'm done for today.",
+    "ur": "آج کے لیے میرا کام مکمل ہو گیا ہے۔"
+  },
+  {
+    "category": "Work",
+    "de": "Ich brauche dafür noch etwas Zeit.",
+    "en": "I need a little more time for that.",
+    "ur": "مجھے اس کے لیے کچھ اور وقت چاہیے۔"
+  },
+  {
+    "category": "Health",
+    "de": "Mir ist seit heute Morgen übel.",
+    "en": "I've felt nauseous since this morning.",
+    "ur": "مجھے آج صبح سے متلی ہو رہی ہے۔"
+  },
+  {
+    "category": "Health",
+    "de": "Ich habe seit zwei Tagen Fieber.",
+    "en": "I've had a fever for two days.",
+    "ur": "مجھے دو دن سے بخار ہے۔"
+  },
+  {
+    "category": "Health",
+    "de": "Wo genau tut es weh?",
+    "en": "Where exactly does it hurt?",
+    "ur": "بالکل کہاں درد ہو رہا ہے؟"
+  },
+  {
+    "category": "Health",
+    "de": "Ich brauche ein Rezept für dieses Medikament.",
+    "en": "I need a prescription for this medication.",
+    "ur": "مجھے اس دوا کے لیے نسخہ چاہیے۔"
+  },
+  {
+    "category": "Health",
+    "de": "Soll ich das vor oder nach dem Essen einnehmen?",
+    "en": "Should I take this before or after a meal?",
+    "ur": "کیا مجھے یہ کھانے سے پہلے لینی ہے یا بعد میں؟"
+  },
+  {
+    "category": "Health",
+    "de": "Hat das Nebenwirkungen?",
+    "en": "Does it have any side effects?",
+    "ur": "کیا اس کے کوئی ضمنی اثرات ہیں؟"
+  },
+  {
+    "category": "Health",
+    "de": "Ich bin allergisch gegen Penicillin.",
+    "en": "I'm allergic to penicillin.",
+    "ur": "مجھے پینسلین سے الرجی ہے۔"
+  },
+  {
+    "category": "Health",
+    "de": "Brauche ich dafür einen Termin?",
+    "en": "Do I need an appointment for that?",
+    "ur": "کیا اس کے لیے مجھے وقت لینا ہوگا؟"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Ich interessiere mich für die Wohnung.",
+    "en": "I'm interested in the apartment.",
+    "ur": "مجھے اس فلیٹ میں دلچسپی ہے۔"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Ist die Wohnung noch frei?",
+    "en": "Is the apartment still available?",
+    "ur": "کیا فلیٹ ابھی بھی دستیاب ہے؟"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Wann kann der Handwerker kommen?",
+    "en": "When can the repair person come?",
+    "ur": "کاریگر کب آ سکتا ہے؟"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Der Wasserhahn tropft.",
+    "en": "The tap is dripping.",
+    "ur": "نل ٹپک رہا ہے۔"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Ich habe mich ausgesperrt.",
+    "en": "I've locked myself out.",
+    "ur": "میں خود کو گھر سے باہر بند کر بیٹھا/بیٹھی ہوں۔"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Wann bekomme ich die Kaution zurück?",
+    "en": "When will I get my deposit back?",
+    "ur": "مجھے زرِ ضمانت کب واپس ملے گی؟"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Können Sie mir den Mietvertrag schicken?",
+    "en": "Could you send me the rental agreement?",
+    "ur": "کیا آپ مجھے کرایہ نامہ بھیج سکتے ہیں؟"
+  },
+  {
+    "category": "Home & housing",
+    "de": "Es gibt ein Problem mit der Heizung.",
+    "en": "There's a problem with the heating.",
+    "ur": "ہیٹنگ میں مسئلہ ہے۔"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Ich habe mein Portemonnaie verloren.",
+    "en": "I've lost my wallet.",
+    "ur": "میرا بٹوا گم ہو گیا ہے۔"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Ich finde den Weg nicht mehr.",
+    "en": "I can't find my way anymore.",
+    "ur": "مجھے اب راستہ نہیں مل رہا۔"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Das stimmt so nicht.",
+    "en": "That's not correct.",
+    "ur": "یہ بات درست نہیں ہے۔"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Können wir eine Lösung finden?",
+    "en": "Can we find a solution?",
+    "ur": "کیا ہم کوئی حل نکال سکتے ہیں؟"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Ich habe die falsche Rechnung bekommen.",
+    "en": "I received the wrong bill.",
+    "ur": "مجھے غلط بل ملا ہے۔"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Ich möchte mich über den Lärm beschweren.",
+    "en": "I'd like to complain about the noise.",
+    "ur": "میں شور کی شکایت کرنا چاہتا/چاہتی ہوں۔"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Rufen Sie bitte einen Krankenwagen.",
+    "en": "Please call an ambulance.",
+    "ur": "براہِ کرم ایمبولینس کو فون کریں۔"
+  },
+  {
+    "category": "Problems & emergencies",
+    "de": "Können Sie bitte die Polizei rufen?",
+    "en": "Could you call the police, please?",
+    "ur": "کیا آپ براہِ کرم پولیس کو فون کر سکتے ہیں؟"
+  },
+  {
+    "category": "Social",
+    "de": "Danke für die Einladung.",
+    "en": "Thanks for the invitation.",
+    "ur": "دعوت دینے کا شکریہ۔"
+  },
+  {
+    "category": "Social",
+    "de": "Ich komme vielleicht etwas später.",
+    "en": "I might arrive a little later.",
+    "ur": "شاید میں ذرا دیر سے پہنچوں۔"
+  },
+  {
+    "category": "Social",
+    "de": "Was machst du beruflich?",
+    "en": "What do you do for work?",
+    "ur": "تم کیا کام کرتے ہو؟"
+  },
+  {
+    "category": "Social",
+    "de": "Seit wann wohnst du hier?",
+    "en": "How long have you lived here?",
+    "ur": "تم یہاں کب سے رہ رہے ہو؟"
+  },
+  {
+    "category": "Social",
+    "de": "Wollen wir uns auf einen Kaffee treffen?",
+    "en": "Shall we meet for a coffee?",
+    "ur": "کیا ہم کافی پینے کے لیے ملیں؟"
+  },
+  {
+    "category": "Social",
+    "de": "Ich freue mich darauf.",
+    "en": "I'm looking forward to it.",
+    "ur": "مجھے اس کا انتظار رہے گا۔"
+  },
+  {
+    "category": "Social",
+    "de": "Wie lange bleibst du in Deutschland?",
+    "en": "How long are you staying in Germany?",
+    "ur": "تم جرمنی میں کتنے عرصے تک رہو گے؟"
+  },
+  {
+    "category": "Social",
+    "de": "Was machst du gern in deiner Freizeit?",
+    "en": "What do you like doing in your free time?",
+    "ur": "تم فارغ وقت میں کیا کرنا پسند کرتے ہو؟"
+  },
+  {
+    "category": "Phone & digital",
+    "de": "Können Sie mir den Link schicken?",
+    "en": "Could you send me the link?",
+    "ur": "کیا آپ مجھے لنک بھیج سکتے ہیں؟"
+  },
+  {
+    "category": "Phone & digital",
+    "de": "Ich kann mich nicht in mein Konto einloggen.",
+    "en": "I can't log in to my account.",
+    "ur": "میں اپنے اکاؤنٹ میں لاگ اِن نہیں کر پا رہا/رہی۔"
+  },
+  {
+    "category": "Phone & digital",
+    "de": "Wie lautet das WLAN-Passwort?",
+    "en": "What's the Wi-Fi password?",
+    "ur": "وائی فائی کا پاس ورڈ کیا ہے؟"
+  },
+  {
+    "category": "Phone & digital",
+    "de": "Mein Handy hat keinen Empfang.",
+    "en": "My phone has no signal.",
+    "ur": "میرے فون میں سگنل نہیں آ رہا۔"
+  },
+  {
+    "category": "Phone & digital",
+    "de": "Ich habe meine PIN vergessen.",
+    "en": "I've forgotten my PIN.",
+    "ur": "میں اپنا پن بھول گیا/گئی ہوں۔"
+  },
+  {
+    "category": "Phone & digital",
+    "de": "Können Sie mir die Rechnung per E-Mail schicken?",
+    "en": "Could you send me the bill by email?",
+    "ur": "کیا آپ مجھے بل ای میل کر سکتے ہیں؟"
+  },
+  {
+    "category": "Money & banking",
+    "de": "Die Zahlung wurde doppelt abgebucht.",
+    "en": "The payment was charged twice.",
+    "ur": "ادائیگی کی رقم دو بار کاٹی گئی ہے۔"
+  },
+  {
+    "category": "Money & banking",
+    "de": "Wann wird der Betrag zurückerstattet?",
+    "en": "When will the amount be refunded?",
+    "ur": "رقم کب واپس کی جائے گی؟"
+  },
+  {
+    "category": "Money & banking",
+    "de": "Könnte ich das in Raten bezahlen?",
+    "en": "Could I pay for this in instalments?",
+    "ur": "کیا میں اس کی قسطوں میں ادائیگی کر سکتا/سکتی ہوں؟"
+  },
+  {
+    "category": "Money & banking",
+    "de": "Wie hoch ist die Gebühr?",
+    "en": "How much is the fee?",
+    "ur": "فیس کتنی ہے؟"
+  },
+  {
+    "category": "Money & banking",
+    "de": "Ich möchte Geld auf mein Konto einzahlen.",
+    "en": "I'd like to deposit money into my account.",
+    "ur": "میں اپنے اکاؤنٹ میں رقم جمع کرانا چاہتا/چاہتی ہوں۔"
+  },
+  {
+    "category": "Money & banking",
+    "de": "Können Sie mir bitte einen Kontoauszug ausdrucken?",
+    "en": "Could you print a bank statement for me, please?",
+    "ur": "کیا آپ براہِ کرم میرے لیے اکاؤنٹ کی تفصیل پرنٹ کر سکتے ہیں؟"
+  }
+]

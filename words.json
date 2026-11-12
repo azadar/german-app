@@ -1,0 +1,10502 @@
+[
+  {
+    "de": "ich",
+    "p": "ikh",
+    "en": "I",
+    "ur": "میں",
+    "id": 0
+  },
+  {
+    "de": "sie",
+    "p": "zee",
+    "en": "she / they",
+    "ur": "وہ (عورت / سب)",
+    "id": 1
+  },
+  {
+    "de": "Sie",
+    "p": "zee",
+    "en": "you (formal)",
+    "ur": "آپ",
+    "id": 2
+  },
+  {
+    "de": "das",
+    "p": "dass",
+    "en": "that / the (neuter)",
+    "ur": "وہ / یہ",
+    "id": 3
+  },
+  {
+    "de": "du",
+    "p": "doo",
+    "en": "you (informal)",
+    "ur": "تم",
+    "id": 4
+  },
+  {
+    "de": "nicht",
+    "p": "nikht",
+    "en": "not",
+    "ur": "نہیں",
+    "id": 5
+  },
+  {
+    "de": "die",
+    "p": "dee",
+    "en": "the (feminine / plural)",
+    "ur": "جرمن آرٹیکل (مؤنث / جمع)",
+    "id": 6
+  },
+  {
+    "de": "es",
+    "p": "es",
+    "en": "it",
+    "ur": "یہ / وہ (بے جان)",
+    "id": 7
+  },
+  {
+    "de": "und",
+    "p": "oont",
+    "en": "and",
+    "ur": "اور",
+    "id": 8
+  },
+  {
+    "de": "der",
+    "p": "dair",
+    "en": "the (masculine)",
+    "ur": "جرمن آرٹیکل (مذکر)",
+    "id": 9
+  },
+  {
+    "de": "wir",
+    "p": "veer",
+    "en": "we",
+    "ur": "ہم",
+    "id": 10
+  },
+  {
+    "de": "was",
+    "p": "vas",
+    "en": "what",
+    "ur": "کیا",
+    "id": 11
+  },
+  {
+    "de": "zu",
+    "p": "tsoo",
+    "en": "to",
+    "ur": "کی طرف",
+    "id": 12
+  },
+  {
+    "de": "er",
+    "p": "air",
+    "en": "he",
+    "ur": "وہ (مرد)",
+    "id": 13
+  },
+  {
+    "de": "ein",
+    "p": "ine",
+    "en": "a / one",
+    "ur": "ایک",
+    "id": 14
+  },
+  {
+    "de": "in",
+    "p": "in",
+    "en": "in",
+    "ur": "میں",
+    "id": 15
+  },
+  {
+    "de": "ja",
+    "p": "yah",
+    "en": "yes",
+    "ur": "ہاں",
+    "id": 16
+  },
+  {
+    "de": "mir",
+    "p": "meer",
+    "en": "to me (dative)",
+    "ur": "مجھے",
+    "id": 17
+  },
+  {
+    "de": "mit",
+    "p": "mit",
+    "en": "with",
+    "ur": "ساتھ",
+    "id": 18
+  },
+  {
+    "de": "wie",
+    "p": "vee",
+    "en": "how",
+    "ur": "کیسے",
+    "id": 19
+  },
+  {
+    "de": "mich",
+    "p": "mikh",
+    "en": "me (accusative)",
+    "ur": "مجھے",
+    "id": 20
+  },
+  {
+    "de": "auf",
+    "p": "owf",
+    "en": "on",
+    "ur": "پر",
+    "id": 21
+  },
+  {
+    "de": "aber",
+    "p": "AH-ber",
+    "en": "but",
+    "ur": "لیکن",
+    "id": 22
+  },
+  {
+    "de": "eine",
+    "p": "INE-eh",
+    "en": "a / one (feminine)",
+    "ur": "ایک (مؤنث)",
+    "id": 23
+  },
+  {
+    "de": "hier",
+    "p": "heer",
+    "en": "here",
+    "ur": "یہاں",
+    "id": 24
+  },
+  {
+    "de": "haben",
+    "p": "HAH-ben",
+    "en": "to have",
+    "ur": "رکھنا",
+    "id": 25
+  },
+  {
+    "de": "für",
+    "p": "führ",
+    "en": "for",
+    "ur": "کے لیے",
+    "id": 26
+  },
+  {
+    "de": "von",
+    "p": "fon",
+    "en": "from / of",
+    "ur": "سے",
+    "id": 27
+  },
+  {
+    "de": "wenn",
+    "p": "ven",
+    "en": "if / when",
+    "ur": "اگر / جب",
+    "id": 28
+  },
+  {
+    "de": "dich",
+    "p": "dikh",
+    "en": "you (accusative)",
+    "ur": "تمہیں",
+    "id": 29
+  },
+  {
+    "de": "ihr",
+    "p": "eer",
+    "en": "you all",
+    "ur": "تم سب",
+    "id": 30
+  },
+  {
+    "de": "nein",
+    "p": "nine",
+    "en": "no",
+    "ur": "نہیں",
+    "id": 31
+  },
+  {
+    "de": "an",
+    "p": "an",
+    "en": "at / on (vertical)",
+    "ur": "پر / کے پاس",
+    "id": 32
+  },
+  {
+    "de": "noch",
+    "p": "nokh",
+    "en": "still, yet",
+    "ur": "ابھی تک",
+    "id": 33
+  },
+  {
+    "de": "nur",
+    "p": "noor",
+    "en": "only",
+    "ur": "صرف",
+    "id": 34
+  },
+  {
+    "de": "dir",
+    "p": "deer",
+    "en": "to you (dative)",
+    "ur": "تمہیں",
+    "id": 35
+  },
+  {
+    "de": "uns",
+    "p": "oons",
+    "en": "us",
+    "ur": "ہمیں",
+    "id": 36
+  },
+  {
+    "de": "gut",
+    "p": "goot",
+    "en": "good",
+    "ur": "اچھا",
+    "id": 37
+  },
+  {
+    "de": "auch",
+    "p": "owkh",
+    "en": "also",
+    "ur": "بھی",
+    "id": 38
+  },
+  {
+    "de": "schon",
+    "p": "shohn",
+    "en": "already",
+    "ur": "پہلے ہی",
+    "id": 39
+  },
+  {
+    "de": "als",
+    "p": "als",
+    "en": "when (past) / than",
+    "ur": "جب / سے (موازنہ)",
+    "id": 40
+  },
+  {
+    "de": "sein",
+    "p": "zine",
+    "en": "to be",
+    "ur": "ہونا",
+    "id": 41
+  },
+  {
+    "de": "mal",
+    "p": "mahl",
+    "en": "just / a little (softener)",
+    "ur": "ذرا / بس",
+    "id": 42
+  },
+  {
+    "de": "jetzt",
+    "p": "yetst",
+    "en": "now",
+    "ur": "اب",
+    "id": 43
+  },
+  {
+    "de": "ihn",
+    "p": "een",
+    "en": "him",
+    "ur": "اسے (مرد)",
+    "id": 44
+  },
+  {
+    "de": "dann",
+    "p": "dan",
+    "en": "then",
+    "ur": "پھر",
+    "id": 45
+  },
+  {
+    "de": "aus",
+    "p": "ows",
+    "en": "out of / from",
+    "ur": "سے",
+    "id": 46
+  },
+  {
+    "de": "um",
+    "p": "oom",
+    "en": "around / at (time)",
+    "ur": "کے گرد / بجے",
+    "id": 47
+  },
+  {
+    "de": "mein",
+    "p": "mine",
+    "en": "my",
+    "ur": "میرا",
+    "id": 48
+  },
+  {
+    "de": "doch",
+    "p": "dokh",
+    "en": "but / yes (contradicting a negative)",
+    "ur": "لیکن / ہاں (انکار کے جواب میں)",
+    "id": 49
+  },
+  {
+    "de": "oder",
+    "p": "OH-der",
+    "en": "or",
+    "ur": "یا",
+    "id": 50
+  },
+  {
+    "de": "nach",
+    "p": "nakh",
+    "en": "to / after",
+    "ur": "کی طرف / بعد",
+    "id": 51
+  },
+  {
+    "de": "nichts",
+    "p": "nikhts",
+    "en": "nothing",
+    "ur": "کچھ نہیں",
+    "id": 52
+  },
+  {
+    "de": "man",
+    "p": "man",
+    "en": "one / people in general",
+    "ur": "کوئی بھی / لوگ",
+    "id": 53
+  },
+  {
+    "de": "werden",
+    "p": "VAIR-den",
+    "en": "to become / will",
+    "ur": "بننا",
+    "id": 54
+  },
+  {
+    "de": "wo",
+    "p": "voh",
+    "en": "where",
+    "ur": "کہاں",
+    "id": 55
+  },
+  {
+    "de": "etwas",
+    "p": "ET-vas",
+    "en": "something",
+    "ur": "کچھ",
+    "id": 56
+  },
+  {
+    "de": "mehr",
+    "p": "mair",
+    "en": "more",
+    "ur": "زیادہ",
+    "id": 57
+  },
+  {
+    "de": "bei",
+    "p": "by",
+    "en": "at / near",
+    "ur": "پاس",
+    "id": 58
+  },
+  {
+    "de": "also",
+    "p": "AL-zoh",
+    "en": "so / therefore",
+    "ur": "تو / لہٰذا",
+    "id": 59
+  },
+  {
+    "de": "bitte",
+    "p": "BIT-teh",
+    "en": "please / you’re welcome",
+    "ur": "براہِ مہربانی",
+    "id": 60
+  },
+  {
+    "de": "immer",
+    "p": "IM-mer",
+    "en": "always",
+    "ur": "ہمیشہ",
+    "id": 61
+  },
+  {
+    "de": "warum",
+    "p": "va-ROOM",
+    "en": "why",
+    "ur": "کیوں",
+    "id": 62
+  },
+  {
+    "de": "vor",
+    "p": "fohr",
+    "en": "before / in front of",
+    "ur": "پہلے / سامنے",
+    "id": 63
+  },
+  {
+    "de": "können",
+    "p": "KUR-nen",
+    "en": "can, to be able to",
+    "ur": "سکنا",
+    "id": 64
+  },
+  {
+    "de": "wieder",
+    "p": "VEE-der",
+    "en": "again",
+    "ur": "دوبارہ",
+    "id": 65
+  },
+  {
+    "de": "sagen",
+    "p": "ZAH-gen",
+    "en": "to say",
+    "ur": "کہنا",
+    "id": 66
+  },
+  {
+    "de": "machen",
+    "p": "MAKH-en",
+    "en": "to do / make",
+    "ur": "کرنا / بنانا",
+    "id": 67
+  },
+  {
+    "de": "danke",
+    "p": "DAHN-keh",
+    "en": "thank you",
+    "ur": "شکریہ",
+    "id": 68
+  },
+  {
+    "de": "sehr",
+    "p": "zair",
+    "en": "very",
+    "ur": "بہت",
+    "id": 69
+  },
+  {
+    "de": "alle",
+    "p": "AL-leh",
+    "en": "all",
+    "ur": "سب",
+    "id": 70
+  },
+  {
+    "de": "denn",
+    "p": "den",
+    "en": "then / for (in questions)",
+    "ur": "پھر / کیونکہ (سوال میں)",
+    "id": 71
+  },
+  {
+    "de": "der Mann",
+    "p": "dair man",
+    "en": "man",
+    "ur": "آدمی",
+    "id": 72
+  },
+  {
+    "de": "ihm",
+    "p": "eem",
+    "en": "to him",
+    "ur": "اسے",
+    "id": 73
+  },
+  {
+    "de": "gehen",
+    "p": "GAY-en",
+    "en": "to go",
+    "ur": "جانا",
+    "id": 74
+  },
+  {
+    "de": "sehen",
+    "p": "ZAY-en",
+    "en": "to see",
+    "ur": "دیکھنا",
+    "id": 75
+  },
+  {
+    "de": "vielleicht",
+    "p": "fee-LYKHT",
+    "en": "maybe",
+    "ur": "شاید",
+    "id": 76
+  },
+  {
+    "de": "wer",
+    "p": "vair",
+    "en": "who",
+    "ur": "کون",
+    "id": 77
+  },
+  {
+    "de": "über",
+    "p": "Ü-ber",
+    "en": "over / about",
+    "ur": "اوپر / کے بارے میں",
+    "id": 78
+  },
+  {
+    "de": "nie",
+    "p": "nee",
+    "en": "never",
+    "ur": "کبھی نہیں",
+    "id": 79
+  },
+  {
+    "de": "wirklich",
+    "p": "VIRK-likh",
+    "en": "really",
+    "ur": "واقعی",
+    "id": 80
+  },
+  {
+    "de": "kein",
+    "p": "kine",
+    "en": "no / not any",
+    "ur": "کوئی نہیں",
+    "id": 81
+  },
+  {
+    "de": "viel",
+    "p": "feel",
+    "en": "much, many",
+    "ur": "بہت / زیادہ",
+    "id": 82
+  },
+  {
+    "de": "der Weg",
+    "p": "dair vayk",
+    "en": "way / path",
+    "ur": "راستہ",
+    "id": 83
+  },
+  {
+    "de": "einfach",
+    "p": "INE-fakh",
+    "en": "simple / easy",
+    "ur": "آسان / سادہ",
+    "id": 84
+  },
+  {
+    "de": "das Leben",
+    "p": "dass LAY-ben",
+    "en": "life",
+    "ur": "زندگی",
+    "id": 85
+  },
+  {
+    "de": "leben",
+    "p": "LAY-ben",
+    "en": "to live (be alive)",
+    "ur": "جینا / زندگی گزارنا",
+    "id": 86
+  },
+  {
+    "de": "die Zeit",
+    "p": "dee tsite",
+    "en": "time",
+    "ur": "وقت",
+    "id": 87
+  },
+  {
+    "de": "weil",
+    "p": "vile",
+    "en": "because",
+    "ur": "کیونکہ",
+    "id": 88
+  },
+  {
+    "de": "kommen",
+    "p": "KOM-men",
+    "en": "to come",
+    "ur": "آنا",
+    "id": 89
+  },
+  {
+    "de": "dein",
+    "p": "dine",
+    "en": "your (informal)",
+    "ur": "تمہارا",
+    "id": 90
+  },
+  {
+    "de": "heute",
+    "p": "HOY-teh",
+    "en": "today",
+    "ur": "آج",
+    "id": 91
+  },
+  {
+    "de": "wollen",
+    "p": "VOL-len",
+    "en": "to want",
+    "ur": "چاہنا",
+    "id": 92
+  },
+  {
+    "de": "damit",
+    "p": "DA-mit",
+    "en": "so that",
+    "ur": "تاکہ",
+    "id": 93
+  },
+  {
+    "de": "ganz",
+    "p": "gants",
+    "en": "whole / quite",
+    "ur": "پورا / بالکل",
+    "id": 94
+  },
+  {
+    "de": "sicher",
+    "p": "ZIKH-er",
+    "en": "sure / certainly",
+    "ur": "یقیناً / پکا",
+    "id": 95
+  },
+  {
+    "de": "die Frau",
+    "p": "dee frow",
+    "en": "woman",
+    "ur": "عورت",
+    "id": 96
+  },
+  {
+    "de": "bis",
+    "p": "biss",
+    "en": "until",
+    "ur": "تک",
+    "id": 97
+  },
+  {
+    "de": "dieser",
+    "p": "DEE-zer",
+    "en": "this",
+    "ur": "یہ",
+    "id": 98
+  },
+  {
+    "de": "hallo",
+    "p": "HAH-lo",
+    "en": "hello",
+    "ur": "ہیلو",
+    "id": 99
+  },
+  {
+    "de": "meinen",
+    "p": "MY-nen",
+    "en": "to mean / think",
+    "ur": "خیال کرنا",
+    "id": 100
+  },
+  {
+    "de": "zwei",
+    "p": "tsvy",
+    "en": "two",
+    "ur": "دو",
+    "id": 101
+  },
+  {
+    "de": "genau",
+    "p": "ge-NOW",
+    "en": "exactly",
+    "ur": "بالکل",
+    "id": 102
+  },
+  {
+    "de": "der Morgen",
+    "p": "dair MOR-gen",
+    "en": "morning",
+    "ur": "صبح",
+    "id": 103
+  },
+  {
+    "de": "morgen",
+    "p": "MOR-gen",
+    "en": "tomorrow / morning",
+    "ur": "کل / صبح",
+    "id": 104
+  },
+  {
+    "de": "die Leute",
+    "p": "dee LOY-teh",
+    "en": "people",
+    "ur": "لوگ",
+    "id": 105
+  },
+  {
+    "de": "der Vater",
+    "p": "dair FAH-ter",
+    "en": "father",
+    "ur": "والد",
+    "id": 106
+  },
+  {
+    "de": "schön",
+    "p": "shurn",
+    "en": "beautiful, nice",
+    "ur": "خوبصورت",
+    "id": 107
+  },
+  {
+    "de": "ab",
+    "p": "ap",
+    "en": "from (starting)",
+    "ur": "سے (آغاز)",
+    "id": 108
+  },
+  {
+    "de": "der Tag",
+    "p": "dair tahk",
+    "en": "day",
+    "ur": "دن",
+    "id": 109
+  },
+  {
+    "de": "wohl",
+    "p": "vohl",
+    "en": "probably / I guess",
+    "ur": "شاید / غالباً",
+    "id": 110
+  },
+  {
+    "de": "die Liebe",
+    "p": "dee LEE-beh",
+    "en": "love",
+    "ur": "محبت",
+    "id": 111
+  },
+  {
+    "de": "jemand",
+    "p": "YAY-mant",
+    "en": "someone",
+    "ur": "کوئی",
+    "id": 112
+  },
+  {
+    "de": "das Geld",
+    "p": "dass gelt",
+    "en": "money",
+    "ur": "پیسہ",
+    "id": 113
+  },
+  {
+    "de": "durch",
+    "p": "doorkh",
+    "en": "through",
+    "ur": "کے ذریعے",
+    "id": 114
+  },
+  {
+    "de": "ob",
+    "p": "op",
+    "en": "whether / if",
+    "ur": "آیا / کیا",
+    "id": 115
+  },
+  {
+    "de": "die Mutter",
+    "p": "dee MOOT-ter",
+    "en": "mother",
+    "ur": "والدہ",
+    "id": 116
+  },
+  {
+    "de": "das Paar",
+    "p": "dass pahr",
+    "en": "pair / couple",
+    "ur": "جوڑا",
+    "id": 117
+  },
+  {
+    "de": "wieso",
+    "p": "",
+    "en": "why",
+    "ur": "کیوں",
+    "id": 118
+  },
+  {
+    "de": "selbst",
+    "p": "zelpst",
+    "en": "self / even",
+    "ur": "خود",
+    "id": 119
+  },
+  {
+    "de": "ohne",
+    "p": "OH-neh",
+    "en": "without",
+    "ur": "بغیر",
+    "id": 120
+  },
+  {
+    "de": "helfen",
+    "p": "HEL-fen",
+    "en": "to help",
+    "ur": "مدد کرنا",
+    "id": 121
+  },
+  {
+    "de": "die Nacht",
+    "p": "dee nakht",
+    "en": "night",
+    "ur": "رات",
+    "id": 122
+  },
+  {
+    "de": "lange",
+    "p": "",
+    "en": "for a long time",
+    "ur": "کافی دیر تک",
+    "id": 123
+  },
+  {
+    "de": "Natürlich",
+    "p": "na-TÜR-likh",
+    "en": "Of course",
+    "ur": "بالکل",
+    "id": 124
+  },
+  {
+    "de": "gar",
+    "p": "gar",
+    "en": "at all / quite",
+    "ur": "بالکل",
+    "id": 125
+  },
+  {
+    "de": "dort",
+    "p": "dort",
+    "en": "there",
+    "ur": "وہاں",
+    "id": 126
+  },
+  {
+    "de": "geben",
+    "p": "GAY-ben",
+    "en": "to give",
+    "ur": "دینا",
+    "id": 127
+  },
+  {
+    "de": "seit",
+    "p": "zite",
+    "en": "since",
+    "ur": "سے (وقت)",
+    "id": 128
+  },
+  {
+    "de": "gleich",
+    "p": "glykh",
+    "en": "right away / same",
+    "ur": "ابھی / ایک جیسا",
+    "id": 129
+  },
+  {
+    "de": "das Recht",
+    "p": "dass rekht",
+    "en": "justice / right",
+    "ur": "انصاف / حق",
+    "id": 130
+  },
+  {
+    "de": "richtig",
+    "p": "RIKH-tikh",
+    "en": "correct",
+    "ur": "درست",
+    "id": 131
+  },
+  {
+    "de": "die Ordnung",
+    "p": "dee ORD-noong",
+    "en": "order / tidiness",
+    "ur": "ترتیب",
+    "id": 132
+  },
+  {
+    "de": "hören",
+    "p": "HUR-ren",
+    "en": "to hear / listen",
+    "ur": "سننا",
+    "id": 133
+  },
+  {
+    "de": "Haben Sie …?",
+    "p": "HAH-ben zee",
+    "en": "Do you have …?",
+    "ur": "کیا آپ کے پاس … ہے؟",
+    "id": 134
+  },
+  {
+    "de": "wegen",
+    "p": "VAY-gen",
+    "en": "because of",
+    "ur": "کی وجہ سے",
+    "id": 135
+  },
+  {
+    "de": "das Mädchen",
+    "p": "dass MAYT-khen",
+    "en": "girl",
+    "ur": "لڑکی",
+    "id": 136
+  },
+  {
+    "de": "sollen",
+    "p": "ZOL-len",
+    "en": "should / to be supposed to",
+    "ur": "کرنا چاہیے",
+    "id": 137
+  },
+  {
+    "de": "der Abend",
+    "p": "dair AH-bent",
+    "en": "evening",
+    "ur": "شام",
+    "id": 138
+  },
+  {
+    "de": "das Haus",
+    "p": "dass house",
+    "en": "house",
+    "ur": "گھر",
+    "id": 139
+  },
+  {
+    "de": "drei",
+    "p": "dry",
+    "en": "three",
+    "ur": "تین",
+    "id": 140
+  },
+  {
+    "de": "der Freund",
+    "p": "dair froynd",
+    "en": "friend",
+    "ur": "دوست",
+    "id": 141
+  },
+  {
+    "de": "unser",
+    "p": "OON-zer",
+    "en": "our",
+    "ur": "ہمارا",
+    "id": 142
+  },
+  {
+    "de": "essen",
+    "p": "ESS-en",
+    "en": "to eat",
+    "ur": "کھانا",
+    "id": 143
+  },
+  {
+    "de": "das Essen",
+    "p": "dass ESS-en",
+    "en": "food",
+    "ur": "کھانا",
+    "id": 144
+  },
+  {
+    "de": "die Angst",
+    "p": "dee angst",
+    "en": "fear",
+    "ur": "ڈر",
+    "id": 145
+  },
+  {
+    "de": "bleiben",
+    "p": "BLY-ben",
+    "en": "to stay",
+    "ur": "رکنا",
+    "id": 146
+  },
+  {
+    "de": "zusammen",
+    "p": "tsoo-ZAM-men",
+    "en": "together",
+    "ur": "ساتھ",
+    "id": 147
+  },
+  {
+    "de": "die Welt",
+    "p": "dee velt",
+    "en": "world",
+    "ur": "دنیا",
+    "id": 148
+  },
+  {
+    "de": "unter",
+    "p": "OON-ter",
+    "en": "under",
+    "ur": "نیچے",
+    "id": 149
+  },
+  {
+    "de": "schnell",
+    "p": "shnel",
+    "en": "fast",
+    "ur": "تیز",
+    "id": 150
+  },
+  {
+    "de": "andere",
+    "p": "AN-deh-reh",
+    "en": "other",
+    "ur": "دوسرا",
+    "id": 151
+  },
+  {
+    "de": "tot",
+    "p": "",
+    "en": "dead",
+    "ur": "مردہ",
+    "id": 152
+  },
+  {
+    "de": "erst",
+    "p": "airst",
+    "en": "only / first",
+    "ur": "ابھی / پہلے",
+    "id": 153
+  },
+  {
+    "de": "Das stimmt",
+    "p": "dass shtimt",
+    "en": "That’s right",
+    "ur": "یہ درست ہے",
+    "id": 154
+  },
+  {
+    "de": "nehmen",
+    "p": "NAY-men",
+    "en": "to take",
+    "ur": "لینا",
+    "id": 155
+  },
+  {
+    "de": "glauben",
+    "p": "GLOW-ben",
+    "en": "to believe / think",
+    "ur": "یقین کرنا",
+    "id": 156
+  },
+  {
+    "de": "bringen",
+    "p": "BRING-en",
+    "en": "to bring",
+    "ur": "لانا",
+    "id": 157
+  },
+  {
+    "de": "genug",
+    "p": "ge-NOOK",
+    "en": "enough",
+    "ur": "کافی",
+    "id": 158
+  },
+  {
+    "de": "brauchen",
+    "p": "BROW-khen",
+    "en": "to need",
+    "ur": "ضرورت ہونا",
+    "id": 159
+  },
+  {
+    "de": "gegen",
+    "p": "GAY-gen",
+    "en": "against",
+    "ur": "کے خلاف",
+    "id": 160
+  },
+  {
+    "de": "der Moment",
+    "p": "dair mo-MENT",
+    "en": "moment",
+    "ur": "لمحہ",
+    "id": 161
+  },
+  {
+    "de": "der Junge",
+    "p": "dair YOONG-eh",
+    "en": "boy",
+    "ur": "لڑکا",
+    "id": 162
+  },
+  {
+    "de": "sonst",
+    "p": "zonst",
+    "en": "otherwise",
+    "ur": "ورنہ",
+    "id": 163
+  },
+  {
+    "de": "die Musik",
+    "p": "dee moo-ZEEK",
+    "en": "music",
+    "ur": "موسیقی",
+    "id": 164
+  },
+  {
+    "de": "die Arbeit",
+    "p": "dee AR-bite",
+    "en": "work",
+    "ur": "کام",
+    "id": 165
+  },
+  {
+    "de": "fragen",
+    "p": "FRAH-gen",
+    "en": "to ask",
+    "ur": "پوچھنا",
+    "id": 166
+  },
+  {
+    "de": "der Herr",
+    "p": "dair hair",
+    "en": "gentleman / Mr.",
+    "ur": "صاحب / جناب",
+    "id": 167
+  },
+  {
+    "de": "dabei",
+    "p": "da-BY",
+    "en": "at the same time",
+    "ur": "اسی دوران",
+    "id": 168
+  },
+  {
+    "de": "die Familie",
+    "p": "dee fa-MEE-lee-eh",
+    "en": "family",
+    "ur": "خاندان",
+    "id": 169
+  },
+  {
+    "de": "warten",
+    "p": "VAR-ten",
+    "en": "to wait",
+    "ur": "انتظار کرنا",
+    "id": 170
+  },
+  {
+    "de": "sofort",
+    "p": "zo-FORT",
+    "en": "immediately",
+    "ur": "فوراً",
+    "id": 171
+  },
+  {
+    "de": "bevor",
+    "p": "be-FOHR",
+    "en": "before (conj.)",
+    "ur": "اس سے پہلے کہ",
+    "id": 172
+  },
+  {
+    "de": "einmal",
+    "p": "INE-mahl",
+    "en": "once",
+    "ur": "ایک بار",
+    "id": 173
+  },
+  {
+    "de": "das Problem",
+    "p": "dass pro-BLAME",
+    "en": "problem",
+    "ur": "مسئلہ",
+    "id": 174
+  },
+  {
+    "de": "der Sohn",
+    "p": "dair zohn",
+    "en": "son",
+    "ur": "بیٹا",
+    "id": 175
+  },
+  {
+    "de": "wann",
+    "p": "van",
+    "en": "when",
+    "ur": "کب",
+    "id": 176
+  },
+  {
+    "de": "fertig",
+    "p": "FAIR-tikh",
+    "en": "finished / ready",
+    "ur": "تیار / مکمل",
+    "id": 177
+  },
+  {
+    "de": "halt",
+    "p": "halt",
+    "en": "just / simply (resignation)",
+    "ur": "بس / صرف",
+    "id": 178
+  },
+  {
+    "de": "allein",
+    "p": "al-LINE",
+    "en": "alone",
+    "ur": "اکیلا",
+    "id": 179
+  },
+  {
+    "de": "sprechen",
+    "p": "SHPRE-khen",
+    "en": "to speak",
+    "ur": "بولنا",
+    "id": 180
+  },
+  {
+    "de": "beide",
+    "p": "BY-deh",
+    "en": "both",
+    "ur": "دونوں",
+    "id": 181
+  },
+  {
+    "de": "die Sache",
+    "p": "dee ZAKH-eh",
+    "en": "thing / matter",
+    "ur": "بات / معاملہ",
+    "id": 182
+  },
+  {
+    "de": "die Hilfe",
+    "p": "dee HIL-feh",
+    "en": "help",
+    "ur": "مدد",
+    "id": 183
+  },
+  {
+    "de": "Hilfe!",
+    "p": "HIL-feh",
+    "en": "Help!",
+    "ur": "مدد!",
+    "id": 184
+  },
+  {
+    "de": "jeder",
+    "p": "YAY-der",
+    "en": "every / each",
+    "ur": "ہر ایک",
+    "id": 185
+  },
+  {
+    "de": "halten",
+    "p": "HAL-ten",
+    "en": "to hold / stop",
+    "ur": "پکڑنا / روکنا",
+    "id": 186
+  },
+  {
+    "de": "das Kind",
+    "p": "dass kint",
+    "en": "child",
+    "ur": "بچہ",
+    "id": 187
+  },
+  {
+    "de": "der Bruder",
+    "p": "dair BROO-der",
+    "en": "brother",
+    "ur": "بھائی",
+    "id": 188
+  },
+  {
+    "de": "denken",
+    "p": "DEN-ken",
+    "en": "to think",
+    "ur": "سوچنا",
+    "id": 189
+  },
+  {
+    "de": "lieber",
+    "p": "LEE-ber",
+    "en": "rather / preferably",
+    "ur": "ترجیحاً",
+    "id": 190
+  },
+  {
+    "de": "der Fall",
+    "p": "dair fal",
+    "en": "case",
+    "ur": "معاملہ / صورت",
+    "id": 191
+  },
+  {
+    "de": "kennen",
+    "p": "",
+    "en": "know",
+    "ur": "جاننا",
+    "id": 192
+  },
+  {
+    "de": "vergessen",
+    "p": "fer-GES-sen",
+    "en": "to forget",
+    "ur": "بھولنا",
+    "id": 193
+  },
+  {
+    "de": "die Frage",
+    "p": "dee FRAH-geh",
+    "en": "question",
+    "ur": "سوال",
+    "id": 194
+  },
+  {
+    "de": "echt",
+    "p": "ekht",
+    "en": "real / genuine",
+    "ur": "اصلی",
+    "id": 195
+  },
+  {
+    "de": "eigentlich",
+    "p": "EYE-gent-likh",
+    "en": "actually / by the way",
+    "ur": "دراصل / ویسے",
+    "id": 196
+  },
+  {
+    "de": "die Uhr",
+    "p": "dee oor",
+    "en": "clock / watch",
+    "ur": "گھڑی",
+    "id": 197
+  },
+  {
+    "de": "die Stadt",
+    "p": "dee shtat",
+    "en": "city",
+    "ur": "شہر",
+    "id": 198
+  },
+  {
+    "de": "das Baby",
+    "p": "dass BAY-bee",
+    "en": "baby",
+    "ur": "شیر خوار بچہ",
+    "id": 199
+  },
+  {
+    "de": "fahren",
+    "p": "FAH-ren",
+    "en": "to drive / travel",
+    "ur": "سفر کرنا / گاڑی چلانا",
+    "id": 200
+  },
+  {
+    "de": "Ich auch",
+    "p": "ikh owkh",
+    "en": "Me too",
+    "ur": "میں بھی",
+    "id": 201
+  },
+  {
+    "de": "bekommen",
+    "p": "be-KOM-men",
+    "en": "to get / receive",
+    "ur": "ملنا / حاصل کرنا",
+    "id": 202
+  },
+  {
+    "de": "der Kopf",
+    "p": "dair kopf",
+    "en": "head",
+    "ur": "سر",
+    "id": 203
+  },
+  {
+    "de": "später",
+    "p": "SHPAY-ter",
+    "en": "later",
+    "ur": "بعد میں",
+    "id": 204
+  },
+  {
+    "de": "das Glück",
+    "p": "dass glük",
+    "en": "luck / happiness",
+    "ur": "قسمت / خوشی",
+    "id": 205
+  },
+  {
+    "de": "letzte",
+    "p": "LETS-teh",
+    "en": "last",
+    "ur": "آخری",
+    "id": 206
+  },
+  {
+    "de": "das Ende",
+    "p": "dass EN-deh",
+    "en": "end",
+    "ur": "اختتام",
+    "id": 207
+  },
+  {
+    "de": "bald",
+    "p": "balt",
+    "en": "soon",
+    "ur": "جلد",
+    "id": 208
+  },
+  {
+    "de": "eins",
+    "p": "ines",
+    "en": "one",
+    "ur": "ایک",
+    "id": 209
+  },
+  {
+    "de": "bereit",
+    "p": "be-RITE",
+    "en": "ready",
+    "ur": "تیار",
+    "id": 210
+  },
+  {
+    "de": "weit",
+    "p": "vite",
+    "en": "far",
+    "ur": "دور",
+    "id": 211
+  },
+  {
+    "de": "die Tür",
+    "p": "dee tür",
+    "en": "door",
+    "ur": "دروازہ",
+    "id": 212
+  },
+  {
+    "de": "das Auto",
+    "p": "dass OW-toh",
+    "en": "car",
+    "ur": "گاڑی",
+    "id": 213
+  },
+  {
+    "de": "die Polizei",
+    "p": "dee po-li-TSY",
+    "en": "police",
+    "ur": "پولیس",
+    "id": 214
+  },
+  {
+    "de": "stehen",
+    "p": "SHTAY-en",
+    "en": "to stand",
+    "ur": "کھڑا ہونا",
+    "id": 215
+  },
+  {
+    "de": "sterben",
+    "p": "SHTAIR-ben",
+    "en": "to die",
+    "ur": "مرنا",
+    "id": 216
+  },
+  {
+    "de": "fast",
+    "p": "fast",
+    "en": "almost",
+    "ur": "تقریباً",
+    "id": 217
+  },
+  {
+    "de": "runter",
+    "p": "",
+    "en": "down",
+    "ur": "نیچے",
+    "id": 218
+  },
+  {
+    "de": "treffen",
+    "p": "TREF-fen",
+    "en": "to meet",
+    "ur": "ملنا",
+    "id": 219
+  },
+  {
+    "de": "arbeiten",
+    "p": "AR-bye-ten",
+    "en": "to work",
+    "ur": "کام کرنا",
+    "id": 220
+  },
+  {
+    "de": "hinter",
+    "p": "HIN-ter",
+    "en": "behind",
+    "ur": "پیچھے",
+    "id": 221
+  },
+  {
+    "de": "die Tochter",
+    "p": "dee TOKH-ter",
+    "en": "daughter",
+    "ur": "بیٹی",
+    "id": 222
+  },
+  {
+    "de": "die Idee",
+    "p": "dee ee-DAY",
+    "en": "idea",
+    "ur": "خیال",
+    "id": 223
+  },
+  {
+    "de": "die Schwester",
+    "p": "dee SHVES-ter",
+    "en": "sister",
+    "ur": "بہن",
+    "id": 224
+  },
+  {
+    "de": "drin",
+    "p": "",
+    "en": "inside",
+    "ur": "اندر",
+    "id": 225
+  },
+  {
+    "de": "ruhig",
+    "p": "ROO-ikh",
+    "en": "calm",
+    "ur": "پرسکون",
+    "id": 226
+  },
+  {
+    "de": "spät",
+    "p": "shpayt",
+    "en": "late",
+    "ur": "دیر",
+    "id": 227
+  },
+  {
+    "de": "ziemlich",
+    "p": "TSEEM-likh",
+    "en": "quite / fairly",
+    "ur": "کافی",
+    "id": 228
+  },
+  {
+    "de": "der Name",
+    "p": "dair NAH-meh",
+    "en": "name",
+    "ur": "نام",
+    "id": 229
+  },
+  {
+    "de": "sogar",
+    "p": "zo-GAR",
+    "en": "even",
+    "ur": "یہاں تک کہ",
+    "id": 230
+  },
+  {
+    "de": "kurz",
+    "p": "koorts",
+    "en": "short",
+    "ur": "چھوٹا / مختصر",
+    "id": 231
+  },
+  {
+    "de": "suchen",
+    "p": "ZOO-khen",
+    "en": "to search",
+    "ur": "تلاش کرنا",
+    "id": 232
+  },
+  {
+    "de": "woher",
+    "p": "vo-HAIR",
+    "en": "where from",
+    "ur": "کہاں سے",
+    "id": 233
+  },
+  {
+    "de": "lang",
+    "p": "lang",
+    "en": "long",
+    "ur": "لمبا",
+    "id": 234
+  },
+  {
+    "de": "der Job",
+    "p": "dair dzhop",
+    "en": "job",
+    "ur": "نوکری",
+    "id": 235
+  },
+  {
+    "de": "verstehen",
+    "p": "fer-SHTAY-en",
+    "en": "to understand",
+    "ur": "سمجھنا",
+    "id": 236
+  },
+  {
+    "de": "spielen",
+    "p": "SHPEE-len",
+    "en": "to play",
+    "ur": "کھیلنا",
+    "id": 237
+  },
+  {
+    "de": "überhaupt",
+    "p": "ü-ber-HOWPT",
+    "en": "at all / actually",
+    "ur": "بالکل بھی / اصل میں",
+    "id": 238
+  },
+  {
+    "de": "die Hand",
+    "p": "dee hant",
+    "en": "hand",
+    "ur": "ہاتھ",
+    "id": 239
+  },
+  {
+    "de": "der Grund",
+    "p": "dair groont",
+    "en": "reason",
+    "ur": "وجہ",
+    "id": 240
+  },
+  {
+    "de": "das Jahr",
+    "p": "dass yahr",
+    "en": "year",
+    "ur": "سال",
+    "id": 241
+  },
+  {
+    "de": "die Ruhe",
+    "p": "dee ROO-eh",
+    "en": "quiet / calm",
+    "ur": "سکون / خاموشی",
+    "id": 242
+  },
+  {
+    "de": "der Tod",
+    "p": "dair toht",
+    "en": "death",
+    "ur": "موت",
+    "id": 243
+  },
+  {
+    "de": "oben",
+    "p": "OH-ben",
+    "en": "up / above",
+    "ur": "اوپر",
+    "id": 244
+  },
+  {
+    "de": "gestern",
+    "p": "GES-tern",
+    "en": "yesterday",
+    "ur": "گزشتہ کل",
+    "id": 245
+  },
+  {
+    "de": "versuchen",
+    "p": "fer-ZOO-khen",
+    "en": "to try",
+    "ur": "کوشش کرنا",
+    "id": 246
+  },
+  {
+    "de": "die Art",
+    "p": "dee art",
+    "en": "kind / way",
+    "ur": "قسم / طریقہ",
+    "id": 247
+  },
+  {
+    "de": "endlich",
+    "p": "ENT-likh",
+    "en": "finally",
+    "ur": "آخرکار",
+    "id": 248
+  },
+  {
+    "de": "etwa",
+    "p": "ET-vah",
+    "en": "about / roughly",
+    "ur": "تقریباً",
+    "id": 249
+  },
+  {
+    "de": "schwer",
+    "p": "shvair",
+    "en": "difficult / heavy",
+    "ur": "مشکل / بھاری",
+    "id": 250
+  },
+  {
+    "de": "anders",
+    "p": "AN-ders",
+    "en": "different",
+    "ur": "مختلف",
+    "id": 251
+  },
+  {
+    "de": "fünf",
+    "p": "fünf",
+    "en": "five",
+    "ur": "پانچ",
+    "id": 252
+  },
+  {
+    "de": "das Wasser",
+    "p": "dass VAS-ser",
+    "en": "water",
+    "ur": "پانی",
+    "id": 253
+  },
+  {
+    "de": "erste",
+    "p": "AIR-steh",
+    "en": "first",
+    "ur": "پہلا",
+    "id": 254
+  },
+  {
+    "de": "die Geschichte",
+    "p": "dee ge-SHIKH-teh",
+    "en": "story / history",
+    "ur": "کہانی / تاریخ",
+    "id": 255
+  },
+  {
+    "de": "wenig",
+    "p": "VAY-nikh",
+    "en": "little, few",
+    "ur": "تھوڑا",
+    "id": 256
+  },
+  {
+    "de": "holen",
+    "p": "HOH-len",
+    "en": "to fetch",
+    "ur": "لے آنا",
+    "id": 257
+  },
+  {
+    "de": "nett",
+    "p": "net",
+    "en": "nice / kind",
+    "ur": "اچھا / مہربان",
+    "id": 258
+  },
+  {
+    "de": "die Wahrheit",
+    "p": "dee VAR-hite",
+    "en": "truth",
+    "ur": "سچائی",
+    "id": 259
+  },
+  {
+    "de": "die Woche",
+    "p": "dee VOKH-eh",
+    "en": "week",
+    "ur": "ہفتہ",
+    "id": 260
+  },
+  {
+    "de": "deshalb",
+    "p": "DES-halp",
+    "en": "therefore",
+    "ur": "اس لیے",
+    "id": 261
+  },
+  {
+    "de": "bestimmt",
+    "p": "be-SHTIMT",
+    "en": "certainly",
+    "ur": "یقیناً",
+    "id": 262
+  },
+  {
+    "de": "hoch",
+    "p": "hohkh",
+    "en": "high",
+    "ur": "اونچا",
+    "id": 263
+  },
+  {
+    "de": "das Alter",
+    "p": "dass AL-ter",
+    "en": "age",
+    "ur": "عمر",
+    "id": 264
+  },
+  {
+    "de": "das Land",
+    "p": "dass lant",
+    "en": "country",
+    "ur": "ملک",
+    "id": 265
+  },
+  {
+    "de": "das Zimmer",
+    "p": "dass TSIM-mer",
+    "en": "room",
+    "ur": "کمرہ",
+    "id": 266
+  },
+  {
+    "de": "vier",
+    "p": "feer",
+    "en": "four",
+    "ur": "چار",
+    "id": 267
+  },
+  {
+    "de": "gefallen",
+    "p": "ge-FAL-len",
+    "en": "to please / be liked",
+    "ur": "پسند آنا",
+    "id": 268
+  },
+  {
+    "de": "niemals",
+    "p": "",
+    "en": "never",
+    "ur": "کبھی نہیں",
+    "id": 269
+  },
+  {
+    "de": "verlassen",
+    "p": "fer-LAS-sen",
+    "en": "to leave (a place)",
+    "ur": "چھوڑنا",
+    "id": 270
+  },
+  {
+    "de": "zeigen",
+    "p": "TSY-gen",
+    "en": "to show",
+    "ur": "دکھانا",
+    "id": 271
+  },
+  {
+    "de": "beste",
+    "p": "BES-teh",
+    "en": "best",
+    "ur": "بہترین",
+    "id": 272
+  },
+  {
+    "de": "manchmal",
+    "p": "MANKH-mahl",
+    "en": "sometimes",
+    "ur": "کبھی کبھی",
+    "id": 273
+  },
+  {
+    "de": "die Seite",
+    "p": "dee ZY-teh",
+    "en": "side / page",
+    "ur": "طرف / صفحہ",
+    "id": 274
+  },
+  {
+    "de": "zwischen",
+    "p": "TSVI-shen",
+    "en": "between",
+    "ur": "درمیان",
+    "id": 275
+  },
+  {
+    "de": "eben",
+    "p": "AY-ben",
+    "en": "just / precisely (resignation)",
+    "ur": "بالکل / بس",
+    "id": 276
+  },
+  {
+    "de": "während",
+    "p": "VAIR-rent",
+    "en": "while / during",
+    "ur": "دوران / جب کہ",
+    "id": 277
+  },
+  {
+    "de": "das Spiel",
+    "p": "dass shpeel",
+    "en": "game",
+    "ur": "کھیل",
+    "id": 278
+  },
+  {
+    "de": "der Krieg",
+    "p": "dair kreek",
+    "en": "war",
+    "ur": "جنگ",
+    "id": 279
+  },
+  {
+    "de": "erzählen",
+    "p": "er-TSAY-len",
+    "en": "to tell (a story)",
+    "ur": "سنانا / بتانا",
+    "id": 280
+  },
+  {
+    "de": "Es geht",
+    "p": "es gayt",
+    "en": "So-so",
+    "ur": "گزارہ ہے",
+    "id": 281
+  },
+  {
+    "de": "wichtig",
+    "p": "VIKH-tikh",
+    "en": "important",
+    "ur": "اہم",
+    "id": 282
+  },
+  {
+    "de": "das Bett",
+    "p": "dass bet",
+    "en": "bed",
+    "ur": "بستر",
+    "id": 283
+  },
+  {
+    "de": "Wo ist …?",
+    "p": "voh ist",
+    "en": "Where is …?",
+    "ur": "… کہاں ہے؟",
+    "id": 284
+  },
+  {
+    "de": "schlecht",
+    "p": "shlekht",
+    "en": "bad",
+    "ur": "برا",
+    "id": 285
+  },
+  {
+    "de": "die Schule",
+    "p": "dee SHOO-leh",
+    "en": "school",
+    "ur": "اسکول",
+    "id": 286
+  },
+  {
+    "de": "Entschuldigung",
+    "p": "ent-SHOOL-di-goong",
+    "en": "excuse me / sorry",
+    "ur": "معذرت",
+    "id": 287
+  },
+  {
+    "de": "das Wort",
+    "p": "dass vort",
+    "en": "word",
+    "ur": "لفظ",
+    "id": 288
+  },
+  {
+    "de": "der Typ",
+    "p": "",
+    "en": "guy; type",
+    "ur": "بندہ؛ قسم",
+    "id": 289
+  },
+  {
+    "de": "schlafen",
+    "p": "SHLAH-fen",
+    "en": "to sleep",
+    "ur": "سونا",
+    "id": 290
+  },
+  {
+    "de": "das Gesicht",
+    "p": "dass ge-ZIKHT",
+    "en": "face",
+    "ur": "چہرہ",
+    "id": 291
+  },
+  {
+    "id": 1373,
+    "de": "falls",
+    "p": "",
+    "en": "if; in case",
+    "ur": "اگر"
+  },
+  {
+    "de": "unten",
+    "p": "OON-ten",
+    "en": "down / below",
+    "ur": "نیچے",
+    "id": 292
+  },
+  {
+    "de": "der Teil",
+    "p": "dair tile",
+    "en": "part",
+    "ur": "حصہ",
+    "id": 293
+  },
+  {
+    "de": "der Mensch",
+    "p": "dair mensh",
+    "en": "person / human being",
+    "ur": "انسان",
+    "id": 294
+  },
+  {
+    "de": "stellen",
+    "p": "SHTEL-len",
+    "en": "to put (upright)",
+    "ur": "کھڑا رکھنا",
+    "id": 295
+  },
+  {
+    "de": "oft",
+    "p": "oft",
+    "en": "often",
+    "ur": "اکثر",
+    "id": 296
+  },
+  {
+    "de": "die Sorge",
+    "p": "dee ZOR-geh",
+    "en": "worry",
+    "ur": "فکر",
+    "id": 297
+  },
+  {
+    "de": "trinken",
+    "p": "TRIN-ken",
+    "en": "to drink",
+    "ur": "پینا",
+    "id": 298
+  },
+  {
+    "de": "einige",
+    "p": "INE-ni-geh",
+    "en": "some / several",
+    "ur": "کچھ / متعدد",
+    "id": 299
+  },
+  {
+    "de": "das Ding",
+    "p": "dass ding",
+    "en": "thing",
+    "ur": "چیز",
+    "id": 300
+  },
+  {
+    "de": "das Blut",
+    "p": "dass bloot",
+    "en": "blood",
+    "ur": "خون",
+    "id": 301
+  },
+  {
+    "de": "ehrlich",
+    "p": "AIR-likh",
+    "en": "honest",
+    "ur": "ایماندار",
+    "id": 302
+  },
+  {
+    "de": "die Eltern",
+    "p": "dee EL-tern",
+    "en": "parents",
+    "ur": "والدین",
+    "id": 303
+  },
+  {
+    "de": "Wie bitte?",
+    "p": "vee BIT-teh",
+    "en": "Pardon?",
+    "ur": "جی؟ کیا کہا؟",
+    "id": 304
+  },
+  {
+    "de": "das Herz",
+    "p": "dass herts",
+    "en": "heart",
+    "ur": "دل",
+    "id": 305
+  },
+  {
+    "de": "glücklich",
+    "p": "GLÜK-likh",
+    "en": "happy",
+    "ur": "خوش",
+    "id": 306
+  },
+  {
+    "de": "alt",
+    "p": "alt",
+    "en": "old",
+    "ur": "پرانا / بوڑھا",
+    "id": 307
+  },
+  {
+    "de": "frei",
+    "p": "fry",
+    "en": "free",
+    "ur": "آزاد",
+    "id": 308
+  },
+  {
+    "de": "möglich",
+    "p": "MUR-glikh",
+    "en": "possible",
+    "ur": "ممکن",
+    "id": 309
+  },
+  {
+    "de": "irgendwie",
+    "p": "IR-gent-vee",
+    "en": "somehow",
+    "ur": "کسی طرح",
+    "id": 310
+  },
+  {
+    "de": "das Fest",
+    "p": "dass fest",
+    "en": "celebration / festival",
+    "ur": "تہوار / جشن",
+    "id": 311
+  },
+  {
+    "de": "kaum",
+    "p": "kowm",
+    "en": "hardly",
+    "ur": "مشکل سے",
+    "id": 312
+  },
+  {
+    "de": "der Platz",
+    "p": "dair plats",
+    "en": "square / place",
+    "ur": "چوک / جگہ",
+    "id": 313
+  },
+  {
+    "de": "falsch",
+    "p": "falsh",
+    "en": "wrong",
+    "ur": "غلط",
+    "id": 314
+  },
+  {
+    "de": "sondern",
+    "p": "",
+    "en": "but rather",
+    "ur": "بلکہ",
+    "id": 315
+  },
+  {
+    "de": "die Nummer",
+    "p": "dee NOOM-mer",
+    "en": "number (phone etc.)",
+    "ur": "نمبر",
+    "id": 316
+  },
+  {
+    "de": "wohin",
+    "p": "vo-HIN",
+    "en": "where to",
+    "ur": "کہاں (کی طرف)",
+    "id": 317
+  },
+  {
+    "de": "früh",
+    "p": "frü",
+    "en": "early",
+    "ur": "جلدی / سویرے",
+    "id": 318
+  },
+  {
+    "de": "setzen",
+    "p": "ZET-sen",
+    "en": "to set / seat",
+    "ur": "بٹھانا",
+    "id": 319
+  },
+  {
+    "de": "zuerst",
+    "p": "tsoo-AIRST",
+    "en": "first (of all)",
+    "ur": "سب سے پہلے",
+    "id": 320
+  },
+  {
+    "de": "wahrscheinlich",
+    "p": "vahr-SHINE-likh",
+    "en": "probably",
+    "ur": "غالباً",
+    "id": 321
+  },
+  {
+    "de": "dürfen",
+    "p": "DÜR-fen",
+    "en": "to be allowed to",
+    "ur": "اجازت ہونا",
+    "id": 322
+  },
+  {
+    "de": "das Telefon",
+    "p": "dass te-le-FOHN",
+    "en": "telephone",
+    "ur": "فون",
+    "id": 323
+  },
+  {
+    "de": "Willkommen",
+    "p": "VIL-kom-men",
+    "en": "Welcome",
+    "ur": "خوش آمدید",
+    "id": 324
+  },
+  {
+    "de": "der Plan",
+    "p": "dair plahn",
+    "en": "plan",
+    "ur": "منصوبہ",
+    "id": 325
+  },
+  {
+    "de": "der Fehler",
+    "p": "dair FAY-ler",
+    "en": "mistake",
+    "ur": "غلطی",
+    "id": 326
+  },
+  {
+    "de": "der Dollar",
+    "p": "",
+    "en": "dollar",
+    "ur": "ڈالر",
+    "id": 327
+  },
+  {
+    "de": "zehn",
+    "p": "tsayn",
+    "en": "ten",
+    "ur": "دس",
+    "id": 328
+  },
+  {
+    "de": "nächste",
+    "p": "NAYKH-steh",
+    "en": "next",
+    "ur": "اگلا",
+    "id": 329
+  },
+  {
+    "de": "die Stunde",
+    "p": "dee SHTOON-deh",
+    "en": "hour",
+    "ur": "گھنٹہ",
+    "id": 330
+  },
+  {
+    "de": "Sehr gut",
+    "p": "zair goot",
+    "en": "Very good",
+    "ur": "بہت اچھا",
+    "id": 331
+  },
+  {
+    "de": "langsam",
+    "p": "LANG-zahm",
+    "en": "slow",
+    "ur": "آہستہ",
+    "id": 332
+  },
+  {
+    "de": "sechs",
+    "p": "zeks",
+    "en": "six",
+    "ur": "چھ",
+    "id": 333
+  },
+  {
+    "de": "lieben",
+    "p": "LEE-ben",
+    "en": "to love",
+    "ur": "محبت کرنا",
+    "id": 334
+  },
+  {
+    "de": "das Büro",
+    "p": "dass bü-ROH",
+    "en": "office",
+    "ur": "دفتر",
+    "id": 335
+  },
+  {
+    "de": "leider",
+    "p": "LY-der",
+    "en": "unfortunately",
+    "ur": "افسوس سے",
+    "id": 336
+  },
+  {
+    "de": "trotzdem",
+    "p": "TROTS-daym",
+    "en": "nevertheless",
+    "ur": "پھر بھی",
+    "id": 337
+  },
+  {
+    "de": "voll",
+    "p": "fol",
+    "en": "full",
+    "ur": "بھرا ہوا",
+    "id": 338
+  },
+  {
+    "de": "der Film",
+    "p": "dair film",
+    "en": "film / movie",
+    "ur": "فلم",
+    "id": 339
+  },
+  {
+    "de": "überall",
+    "p": "ü-ber-AL",
+    "en": "everywhere",
+    "ur": "ہر جگہ",
+    "id": 340
+  },
+  {
+    "de": "der Hund",
+    "p": "dair hoont",
+    "en": "dog",
+    "ur": "کتا",
+    "id": 341
+  },
+  {
+    "de": "direkt",
+    "p": "",
+    "en": "direct; straight",
+    "ur": "سیدھا",
+    "id": 342
+  },
+  {
+    "de": "danach",
+    "p": "da-NAKH",
+    "en": "afterwards",
+    "ur": "اس کے بعد",
+    "id": 343
+  },
+  {
+    "de": "lernen",
+    "p": "LAIR-nen",
+    "en": "to learn",
+    "ur": "سیکھنا",
+    "id": 344
+  },
+  {
+    "de": "deswegen",
+    "p": "DES-vay-gen",
+    "en": "that’s why",
+    "ur": "اسی وجہ سے",
+    "id": 345
+  },
+  {
+    "de": "nennen",
+    "p": "NEN-nen",
+    "en": "to name / call",
+    "ur": "نام لینا / پکارنا",
+    "id": 346
+  },
+  {
+    "de": "das Feuer",
+    "p": "dass FOY-er",
+    "en": "fire",
+    "ur": "آگ",
+    "id": 347
+  },
+  {
+    "de": "laufen",
+    "p": "LOW-fen",
+    "en": "to walk / run",
+    "ur": "چلنا / دوڑنا",
+    "id": 348
+  },
+  {
+    "de": "alleine",
+    "p": "",
+    "en": "alone",
+    "ur": "اکیلا",
+    "id": 349
+  },
+  {
+    "de": "erinnern",
+    "p": "er-IN-nern",
+    "en": "to remind",
+    "ur": "یاد دلانا",
+    "id": 350
+  },
+  {
+    "id": 1463,
+    "de": "die Stelle",
+    "p": "",
+    "en": "job; position",
+    "ur": "ملازمت؛ عہدہ"
+  },
+  {
+    "de": "verlieren",
+    "p": "fer-LEE-ren",
+    "en": "to lose",
+    "ur": "ہارنا / کھونا",
+    "id": 351
+  },
+  {
+    "de": "der Kaffee",
+    "p": "dair KAF-fay",
+    "en": "coffee",
+    "ur": "کافی",
+    "id": 352
+  },
+  {
+    "de": "die Luft",
+    "p": "dee looft",
+    "en": "air",
+    "ur": "ہوا",
+    "id": 353
+  },
+  {
+    "de": "Gibt es …?",
+    "p": "gipt es",
+    "en": "Is there …?",
+    "ur": "کیا … ہے؟",
+    "id": 354
+  },
+  {
+    "de": "ziehen",
+    "p": "TSEE-en",
+    "en": "to pull / move",
+    "ur": "کھینچنا",
+    "id": 355
+  },
+  {
+    "de": "aufhören",
+    "p": "OWF-hur-ren",
+    "en": "to stop / quit",
+    "ur": "رکنا / بند کرنا",
+    "id": 356
+  },
+  {
+    "de": "die Suche",
+    "p": "",
+    "en": "search",
+    "ur": "تلاش",
+    "id": 357
+  },
+  {
+    "de": "das Buch",
+    "p": "dass bookh",
+    "en": "book",
+    "ur": "کتاب",
+    "id": 358
+  },
+  {
+    "de": "krank",
+    "p": "krank",
+    "en": "sick",
+    "ur": "بیمار",
+    "id": 359
+  },
+  {
+    "de": "der Arzt",
+    "p": "dair artst",
+    "en": "doctor",
+    "ur": "ڈاکٹر",
+    "id": 360
+  },
+  {
+    "de": "froh",
+    "p": "froh",
+    "en": "glad",
+    "ur": "خوش",
+    "id": 361
+  },
+  {
+    "de": "rufen",
+    "p": "ROO-fen",
+    "en": "to call / shout",
+    "ur": "پکارنا",
+    "id": 362
+  },
+  {
+    "de": "heiraten",
+    "p": "HY-rah-ten",
+    "en": "to marry",
+    "ur": "شادی کرنا",
+    "id": 363
+  },
+  {
+    "de": "der Onkel",
+    "p": "dair ON-kel",
+    "en": "uncle",
+    "ur": "چچا / ماموں",
+    "id": 364
+  },
+  {
+    "de": "erklären",
+    "p": "er-KLAIR-en",
+    "en": "to explain",
+    "ur": "سمجھانا",
+    "id": 365
+  },
+  {
+    "de": "damals",
+    "p": "DAH-mahls",
+    "en": "back then",
+    "ur": "تب",
+    "id": 366
+  },
+  {
+    "de": "leicht",
+    "p": "lykht",
+    "en": "easy / light",
+    "ur": "آسان / ہلکا",
+    "id": 367
+  },
+  {
+    "de": "nachdem",
+    "p": "nakh-DAYM",
+    "en": "after (conj.)",
+    "ur": "اس کے بعد کہ",
+    "id": 368
+  },
+  {
+    "de": "kaufen",
+    "p": "KOW-fen",
+    "en": "to buy",
+    "ur": "خریدنا",
+    "id": 369
+  },
+  {
+    "de": "irgendwo",
+    "p": "IR-gent-voh",
+    "en": "somewhere",
+    "ur": "کہیں",
+    "id": 370
+  },
+  {
+    "de": "das Stück",
+    "p": "dass shtük",
+    "en": "piece",
+    "ur": "ٹکڑا",
+    "id": 371
+  },
+  {
+    "de": "die Zukunft",
+    "p": "dee TSOO-koonft",
+    "en": "future",
+    "ur": "مستقبل",
+    "id": 372
+  },
+  {
+    "de": "das Licht",
+    "p": "dass likht",
+    "en": "light",
+    "ur": "روشنی",
+    "id": 373
+  },
+  {
+    "de": "der Himmel",
+    "p": "dair HIM-mel",
+    "en": "sky",
+    "ur": "آسمان",
+    "id": 374
+  },
+  {
+    "de": "die Nachricht",
+    "p": "dee NAKH-rikht",
+    "en": "message / news",
+    "ur": "پیغام / خبر",
+    "id": 375
+  },
+  {
+    "de": "zu viel",
+    "p": "tsoo feel",
+    "en": "too much",
+    "ur": "بہت زیادہ",
+    "id": 376
+  },
+  {
+    "de": "wie viel",
+    "p": "vee feel",
+    "en": "how much",
+    "ur": "کتنا",
+    "id": 377
+  },
+  {
+    "de": "laut",
+    "p": "lowt",
+    "en": "loud",
+    "ur": "اونچی آواز والا",
+    "id": 378
+  },
+  {
+    "de": "sitzen",
+    "p": "ZIT-sen",
+    "en": "to sit",
+    "ur": "بیٹھنا",
+    "id": 379
+  },
+  {
+    "de": "dass",
+    "p": "dass",
+    "en": "that (conjunction)",
+    "ur": "کہ",
+    "id": 380
+  },
+  {
+    "de": "die Erde",
+    "p": "dee AIR-deh",
+    "en": "earth / soil",
+    "ur": "زمین / مٹی",
+    "id": 381
+  },
+  {
+    "de": "passieren",
+    "p": "pa-SEE-ren",
+    "en": "to happen",
+    "ur": "ہونا (واقعہ)",
+    "id": 382
+  },
+  {
+    "de": "der Körper",
+    "p": "dair KUR-per",
+    "en": "body",
+    "ur": "جسم",
+    "id": 383
+  },
+  {
+    "de": "Was ist das?",
+    "p": "vas ist dass",
+    "en": "What is that?",
+    "ur": "یہ کیا ہے؟",
+    "id": 384
+  },
+  {
+    "de": "schreiben",
+    "p": "SHRY-ben",
+    "en": "to write",
+    "ur": "لکھنا",
+    "id": 385
+  },
+  {
+    "de": "vorstellen",
+    "p": "FOHR-shtel-len",
+    "en": "to introduce",
+    "ur": "تعارف کروانا",
+    "id": 386
+  },
+  {
+    "id": 1372,
+    "de": "sobald",
+    "p": "",
+    "en": "as soon as",
+    "ur": "جیسے ہی"
+  },
+  {
+    "de": "die Wohnung",
+    "p": "dee VOH-noong",
+    "en": "apartment",
+    "ur": "فلیٹ",
+    "id": 387
+  },
+  {
+    "de": "das Krankenhaus",
+    "p": "dass KRANG-ken-house",
+    "en": "hospital",
+    "ur": "ہسپتال",
+    "id": 388
+  },
+  {
+    "de": "die Klasse",
+    "p": "dee KLAS-seh",
+    "en": "class",
+    "ur": "جماعت",
+    "id": 389
+  },
+  {
+    "de": "ändern",
+    "p": "EN-dern",
+    "en": "to change",
+    "ur": "بدلنا",
+    "id": 390
+  },
+  {
+    "de": "tragen",
+    "p": "TRAH-gen",
+    "en": "to carry / wear",
+    "ur": "اٹھانا / پہننا",
+    "id": 391
+  },
+  {
+    "de": "stolz",
+    "p": "shtolts",
+    "en": "proud",
+    "ur": "فخر کرنے والا",
+    "id": 392
+  },
+  {
+    "de": "stark",
+    "p": "shtark",
+    "en": "strong",
+    "ur": "مضبوط",
+    "id": 393
+  },
+  {
+    "de": "besonders",
+    "p": "be-ZON-ders",
+    "en": "especially",
+    "ur": "خاص طور پر",
+    "id": 394
+  },
+  {
+    "de": "schicken",
+    "p": "SHIK-ken",
+    "en": "to send",
+    "ur": "بھیجنا",
+    "id": 395
+  },
+  {
+    "de": "die Person",
+    "p": "",
+    "en": "person",
+    "ur": "شخص",
+    "id": 396
+  },
+  {
+    "de": "anrufen",
+    "p": "AN-roo-fen",
+    "en": "to phone",
+    "ur": "فون کرنا",
+    "id": 397
+  },
+  {
+    "de": "der Boden",
+    "p": "dair BOH-den",
+    "en": "floor / ground",
+    "ur": "فرش / زمین",
+    "id": 398
+  },
+  {
+    "de": "die Sicherheit",
+    "p": "dee ZIKH-er-hite",
+    "en": "safety / security",
+    "ur": "حفاظت",
+    "id": 399
+  },
+  {
+    "de": "der Mund",
+    "p": "dair moont",
+    "en": "mouth",
+    "ur": "منہ",
+    "id": 400
+  },
+  {
+    "de": "lachen",
+    "p": "LAKH-en",
+    "en": "to laugh",
+    "ur": "ہنسنا",
+    "id": 401
+  },
+  {
+    "de": "lustig",
+    "p": "LOOS-tikh",
+    "en": "funny",
+    "ur": "مزاحیہ",
+    "id": 402
+  },
+  {
+    "de": "führen",
+    "p": "FÜ-ren",
+    "en": "to lead",
+    "ur": "رہنمائی کرنا",
+    "id": 403
+  },
+  {
+    "de": "die Meinung",
+    "p": "dee MY-noong",
+    "en": "opinion",
+    "ur": "رائے",
+    "id": 404
+  },
+  {
+    "de": "lesen",
+    "p": "LAY-zen",
+    "en": "to read",
+    "ur": "پڑھنا",
+    "id": 405
+  },
+  {
+    "de": "das Geschäft",
+    "p": "dass ge-SHEFT",
+    "en": "shop / business",
+    "ur": "دکان",
+    "id": 406
+  },
+  {
+    "de": "das Team",
+    "p": "",
+    "en": "team",
+    "ur": "ٹیم",
+    "id": 407
+  },
+  {
+    "de": "vorher",
+    "p": "FOHR-hair",
+    "en": "beforehand",
+    "ur": "پہلے",
+    "id": 408
+  },
+  {
+    "de": "mögen",
+    "p": "MUR-gen",
+    "en": "to like",
+    "ur": "پسند کرنا",
+    "id": 409
+  },
+  {
+    "de": "das Handy",
+    "p": "dass HEN-dee",
+    "en": "mobile phone",
+    "ur": "موبائل فون",
+    "id": 410
+  },
+  {
+    "de": "hinten",
+    "p": "HIN-ten",
+    "en": "behind / at the back",
+    "ur": "پیچھے",
+    "id": 411
+  },
+  {
+    "de": "acht",
+    "p": "akht",
+    "en": "eight",
+    "ur": "آٹھ",
+    "id": 412
+  },
+  {
+    "de": "fallen",
+    "p": "FAL-len",
+    "en": "to fall",
+    "ur": "گرنا",
+    "id": 413
+  },
+  {
+    "de": "nötig",
+    "p": "NUR-tikh",
+    "en": "necessary",
+    "ur": "ضروری",
+    "id": 414
+  },
+  {
+    "de": "folgen",
+    "p": "FOL-gen",
+    "en": "to follow",
+    "ur": "پیچھا کرنا / پیروی کرنا",
+    "id": 415
+  },
+  {
+    "de": "bitten",
+    "p": "BIT-ten",
+    "en": "to ask / request",
+    "ur": "درخواست کرنا",
+    "id": 416
+  },
+  {
+    "de": "plötzlich",
+    "p": "PLURTS-likh",
+    "en": "suddenly",
+    "ur": "اچانک",
+    "id": 417
+  },
+  {
+    "de": "der Tisch",
+    "p": "dair tish",
+    "en": "table",
+    "ur": "میز",
+    "id": 418
+  },
+  {
+    "de": "liegen",
+    "p": "LEE-gen",
+    "en": "to lie (be located)",
+    "ur": "لیٹا ہونا / واقع ہونا",
+    "id": 419
+  },
+  {
+    "de": "verkaufen",
+    "p": "fer-KOW-fen",
+    "en": "to sell",
+    "ur": "بیچنا",
+    "id": 420
+  },
+  {
+    "de": "gefährlich",
+    "p": "ge-FAIR-likh",
+    "en": "dangerous",
+    "ur": "خطرناک",
+    "id": 421
+  },
+  {
+    "de": "anfangen",
+    "p": "AN-fang-en",
+    "en": "to start / begin",
+    "ur": "شروع کرنا",
+    "id": 422
+  },
+  {
+    "de": "das Hotel",
+    "p": "dass ho-TEL",
+    "en": "hotel",
+    "ur": "ہوٹل",
+    "id": 423
+  },
+  {
+    "de": "die Antwort",
+    "p": "dee ANT-vort",
+    "en": "answer",
+    "ur": "جواب",
+    "id": 424
+  },
+  {
+    "de": "obwohl",
+    "p": "op-VOHL",
+    "en": "although",
+    "ur": "اگرچہ",
+    "id": 425
+  },
+  {
+    "de": "sieben",
+    "p": "ZEE-ben",
+    "en": "seven",
+    "ur": "سات",
+    "id": 426
+  },
+  {
+    "de": "gewinnen",
+    "p": "ge-VIN-nen",
+    "en": "to win",
+    "ur": "جیتنا",
+    "id": 427
+  },
+  {
+    "de": "dumm",
+    "p": "doom",
+    "en": "stupid",
+    "ur": "بیوقوف",
+    "id": 428
+  },
+  {
+    "de": "der Ärger",
+    "p": "dair AIR-ger",
+    "en": "anger / trouble",
+    "ur": "غصہ / پریشانی",
+    "id": 429
+  },
+  {
+    "de": "das Bild",
+    "p": "dass bilt",
+    "en": "picture",
+    "ur": "تصویر",
+    "id": 430
+  },
+  {
+    "de": "neu",
+    "p": "noy",
+    "en": "new",
+    "ur": "نیا",
+    "id": 431
+  },
+  {
+    "de": "bezahlen",
+    "p": "be-TSAH-len",
+    "en": "to pay",
+    "ur": "ادائیگی کرنا",
+    "id": 432
+  },
+  {
+    "de": "das Auge",
+    "p": "dass OW-geh",
+    "en": "eye",
+    "ur": "آنکھ",
+    "id": 433
+  },
+  {
+    "de": "verheiratet",
+    "p": "fer-HY-rah-tet",
+    "en": "married",
+    "ur": "شادی شدہ",
+    "id": 434
+  },
+  {
+    "de": "der Traum",
+    "p": "dair trowm",
+    "en": "dream",
+    "ur": "خواب",
+    "id": 435
+  },
+  {
+    "de": "die Entscheidung",
+    "p": "dee ent-SHY-doong",
+    "en": "decision",
+    "ur": "فیصلہ",
+    "id": 436
+  },
+  {
+    "de": "das Fenster",
+    "p": "dass FEN-ster",
+    "en": "window",
+    "ur": "کھڑکی",
+    "id": 437
+  },
+  {
+    "de": "ständig",
+    "p": "SHTEN-dikh",
+    "en": "constantly",
+    "ur": "مسلسل",
+    "id": 438
+  },
+  {
+    "de": "der Augenblick",
+    "p": "dair OW-gen-blik",
+    "en": "instant / moment",
+    "ur": "پل",
+    "id": 439
+  },
+  {
+    "id": 1414,
+    "de": "der Bescheid",
+    "p": "",
+    "en": "official decision; notice",
+    "ur": "سرکاری اطلاع؛ فیصلہ"
+  },
+  {
+    "de": "das Ziel",
+    "p": "dass tseel",
+    "en": "goal / aim",
+    "ur": "ہدف / مقصد",
+    "id": 440
+  },
+  {
+    "de": "welcher",
+    "p": "VEL-kher",
+    "en": "which",
+    "ur": "کون سا",
+    "id": 441
+  },
+  {
+    "de": "der Anfang",
+    "p": "dair AN-fang",
+    "en": "beginning",
+    "ur": "آغاز",
+    "id": 442
+  },
+  {
+    "de": "legen",
+    "p": "LAY-gen",
+    "en": "to lay / put down",
+    "ur": "لٹانا / رکھنا",
+    "id": 443
+  },
+  {
+    "de": "der Anwalt",
+    "p": "dair AN-valt",
+    "en": "lawyer",
+    "ur": "وکیل",
+    "id": 444
+  },
+  {
+    "de": "offen",
+    "p": "OF-fen",
+    "en": "open",
+    "ur": "کھلا",
+    "id": 445
+  },
+  {
+    "de": "der Partner",
+    "p": "dair PART-ner",
+    "en": "partner",
+    "ur": "ساتھی",
+    "id": 446
+  },
+  {
+    "de": "klein",
+    "p": "kline",
+    "en": "small",
+    "ur": "چھوٹا",
+    "id": 447
+  },
+  {
+    "de": "der Finger",
+    "p": "dair FING-er",
+    "en": "finger",
+    "ur": "انگلی",
+    "id": 448
+  },
+  {
+    "de": "die Ehe",
+    "p": "dee AY-eh",
+    "en": "marriage",
+    "ur": "شادی",
+    "id": 449
+  },
+  {
+    "de": "der Monat",
+    "p": "dair MOH-nat",
+    "en": "month",
+    "ur": "مہینہ",
+    "id": 450
+  },
+  {
+    "de": "wach",
+    "p": "",
+    "en": "awake",
+    "ur": "بیدار",
+    "id": 451
+  },
+  {
+    "de": "der Arm",
+    "p": "dair arm",
+    "en": "arm",
+    "ur": "بازو",
+    "id": 452
+  },
+  {
+    "de": "arm",
+    "p": "arm",
+    "en": "poor",
+    "ur": "غریب",
+    "id": 453
+  },
+  {
+    "de": "der Chef",
+    "p": "dair shef",
+    "en": "boss",
+    "ur": "باس / مالک",
+    "id": 454
+  },
+  {
+    "de": "benutzen",
+    "p": "be-NOOT-sen",
+    "en": "to use",
+    "ur": "استعمال کرنا",
+    "id": 455
+  },
+  {
+    "de": "hoffentlich",
+    "p": "HOF-fent-likh",
+    "en": "hopefully",
+    "ur": "امید ہے کہ",
+    "id": 456
+  },
+  {
+    "de": "tanzen",
+    "p": "TAN-tsen",
+    "en": "to dance",
+    "ur": "ناچنا",
+    "id": 457
+  },
+  {
+    "de": "die Reise",
+    "p": "dee RY-zeh",
+    "en": "trip / journey",
+    "ur": "سفر",
+    "id": 458
+  },
+  {
+    "id": 1362,
+    "de": "jedenfalls",
+    "p": "",
+    "en": "in any case",
+    "ur": "بہرحال"
+  },
+  {
+    "de": "das Foto",
+    "p": "dass FOH-toh",
+    "en": "photo",
+    "ur": "تصویر",
+    "id": 459
+  },
+  {
+    "de": "kalt",
+    "p": "kalt",
+    "en": "cold",
+    "ur": "ٹھنڈا",
+    "id": 460
+  },
+  {
+    "id": 1364,
+    "de": "bisher",
+    "p": "",
+    "en": "until now",
+    "ur": "اب تک"
+  },
+  {
+    "de": "die Minute",
+    "p": "",
+    "en": "minute",
+    "ur": "منٹ",
+    "id": 461
+  },
+  {
+    "de": "der Zug",
+    "p": "dair tsook",
+    "en": "train",
+    "ur": "ریل گاڑی",
+    "id": 462
+  },
+  {
+    "de": "müde",
+    "p": "MÜ-deh",
+    "en": "tired",
+    "ur": "تھکا ہوا",
+    "id": 463
+  },
+  {
+    "de": "der Brief",
+    "p": "dair breef",
+    "en": "letter",
+    "ur": "خط",
+    "id": 464
+  },
+  {
+    "de": "bekannt",
+    "p": "be-KANT",
+    "en": "known / famous",
+    "ur": "معروف",
+    "id": 465
+  },
+  {
+    "de": "das Beispiel",
+    "p": "dass BY-shpeel",
+    "en": "example",
+    "ur": "مثال",
+    "id": 466
+  },
+  {
+    "de": "wütend",
+    "p": "VÜ-tent",
+    "en": "angry",
+    "ur": "غصے میں",
+    "id": 467
+  },
+  {
+    "de": "Alles klar",
+    "p": "AL-les klar",
+    "en": "All clear / okay",
+    "ur": "ٹھیک ہے",
+    "id": 468
+  },
+  {
+    "id": 1367,
+    "de": "zumindest",
+    "p": "",
+    "en": "at least",
+    "ur": "کم از کم"
+  },
+  {
+    "id": 1404,
+    "de": "die Verbindung",
+    "p": "",
+    "en": "connection; route",
+    "ur": "رابطہ؛ سفر کا راستہ"
+  },
+  {
+    "de": "tief",
+    "p": "teef",
+    "en": "deep",
+    "ur": "گہرا",
+    "id": 469
+  },
+  {
+    "id": 1406,
+    "de": "die Richtung",
+    "p": "",
+    "en": "direction",
+    "ur": "سمت"
+  },
+  {
+    "de": "sowieso",
+    "p": "zo-vee-ZOH",
+    "en": "anyway / anyhow",
+    "ur": "بہرحال",
+    "id": 470
+  },
+  {
+    "de": "Bis morgen",
+    "p": "biss MOR-gen",
+    "en": "See you tomorrow",
+    "ur": "کل ملتے ہیں",
+    "id": 471
+  },
+  {
+    "de": "normal",
+    "p": "nor-MAHL",
+    "en": "normal",
+    "ur": "معمولی",
+    "id": 472
+  },
+  {
+    "de": "das Geschenk",
+    "p": "dass ge-SHENK",
+    "en": "gift",
+    "ur": "تحفہ",
+    "id": 473
+  },
+  {
+    "de": "die Tasche",
+    "p": "dee TASH-eh",
+    "en": "bag / pocket",
+    "ur": "بیگ / جیب",
+    "id": 474
+  },
+  {
+    "de": "lügen",
+    "p": "LÜ-gen",
+    "en": "to lie (tell a lie)",
+    "ur": "جھوٹ بولنا",
+    "id": 475
+  },
+  {
+    "de": "die Beziehung",
+    "p": "dee be-TSEE-oong",
+    "en": "relationship",
+    "ur": "رشتہ",
+    "id": 476
+  },
+  {
+    "de": "der Preis",
+    "p": "dair price",
+    "en": "price",
+    "ur": "قیمت",
+    "id": 477
+  },
+  {
+    "de": "die Liste",
+    "p": "",
+    "en": "list",
+    "ur": "فہرست",
+    "id": 478
+  },
+  {
+    "de": "neben",
+    "p": "NAY-ben",
+    "en": "next to",
+    "ur": "کے ساتھ / پہلو میں",
+    "id": 479
+  },
+  {
+    "de": "die Firma",
+    "p": "dee FIR-mah",
+    "en": "company",
+    "ur": "کمپنی",
+    "id": 480
+  },
+  {
+    "de": "der Rücken",
+    "p": "dair RÜK-ken",
+    "en": "back",
+    "ur": "پیٹھ",
+    "id": 481
+  },
+  {
+    "de": "öffnen",
+    "p": "URF-nen",
+    "en": "to open",
+    "ur": "کھولنا",
+    "id": 482
+  },
+  {
+    "de": "die Tante",
+    "p": "dee TAN-teh",
+    "en": "aunt",
+    "ur": "پھوپھی / خالہ",
+    "id": 483
+  },
+  {
+    "de": "das Pferd",
+    "p": "dass pfairt",
+    "en": "horse",
+    "ur": "گھوڑا",
+    "id": 484
+  },
+  {
+    "de": "sauer",
+    "p": "ZOW-er",
+    "en": "sour",
+    "ur": "کھٹا",
+    "id": 485
+  },
+  {
+    "de": "jung",
+    "p": "yoong",
+    "en": "young",
+    "ur": "جوان",
+    "id": 486
+  },
+  {
+    "de": "Danke schön",
+    "p": "DAHN-keh shurn",
+    "en": "Thank you very much",
+    "ur": "بہت شکریہ",
+    "id": 487
+  },
+  {
+    "de": "Bitte schön",
+    "p": "BIT-teh shurn",
+    "en": "Here you are",
+    "ur": "یہ لیجیے",
+    "id": 488
+  },
+  {
+    "de": "aussehen",
+    "p": "OWS-zay-en",
+    "en": "to look / appear",
+    "ur": "دکھنا / لگنا",
+    "id": 489
+  },
+  {
+    "de": "links",
+    "p": "links",
+    "en": "left",
+    "ur": "بائیں",
+    "id": 490
+  },
+  {
+    "de": "erreichen",
+    "p": "er-RY-khen",
+    "en": "to reach",
+    "ur": "پہنچنا / حاصل کرنا",
+    "id": 491
+  },
+  {
+    "de": "die Kirche",
+    "p": "dee KIR-kheh",
+    "en": "church",
+    "ur": "گرجا گھر",
+    "id": 492
+  },
+  {
+    "de": "der Geburtstag",
+    "p": "dair ge-BOORTS-tahk",
+    "en": "birthday",
+    "ur": "سالگرہ",
+    "id": 493
+  },
+  {
+    "de": "die Haut",
+    "p": "dee howt",
+    "en": "skin",
+    "ur": "جلد",
+    "id": 494
+  },
+  {
+    "de": "reich",
+    "p": "ryekh",
+    "en": "rich",
+    "ur": "امیر",
+    "id": 495
+  },
+  {
+    "de": "die Sekunde",
+    "p": "dee ze-KOON-deh",
+    "en": "second",
+    "ur": "سیکنڈ",
+    "id": 496
+  },
+  {
+    "de": "traurig",
+    "p": "TROW-rikh",
+    "en": "sad",
+    "ur": "اداس",
+    "id": 497
+  },
+  {
+    "de": "der Frieden",
+    "p": "dair FREE-den",
+    "en": "peace",
+    "ur": "امن",
+    "id": 498
+  },
+  {
+    "de": "die Karte",
+    "p": "dee KAR-teh",
+    "en": "card / map / ticket",
+    "ur": "کارڈ / نقشہ",
+    "id": 499
+  },
+  {
+    "de": "schade",
+    "p": "",
+    "en": "what a pity",
+    "ur": "افسوس",
+    "id": 500
+  },
+  {
+    "de": "persönlich",
+    "p": "per-ZURN-likh",
+    "en": "personal",
+    "ur": "ذاتی",
+    "id": 501
+  },
+  {
+    "de": "die Sonne",
+    "p": "dee ZON-neh",
+    "en": "sun",
+    "ur": "سورج",
+    "id": 502
+  },
+  {
+    "de": "das Gericht",
+    "p": "dass ge-RIKHT",
+    "en": "court",
+    "ur": "عدالت",
+    "id": 503
+  },
+  {
+    "de": "die Nase",
+    "p": "dee NAH-zeh",
+    "en": "nose",
+    "ur": "ناک",
+    "id": 504
+  },
+  {
+    "de": "singen",
+    "p": "ZING-en",
+    "en": "to sing",
+    "ur": "گانا",
+    "id": 505
+  },
+  {
+    "de": "die Bank",
+    "p": "dee bank",
+    "en": "bank",
+    "ur": "بینک",
+    "id": 506
+  },
+  {
+    "de": "der Computer",
+    "p": "dair kom-PYOO-ter",
+    "en": "computer",
+    "ur": "کمپیوٹر",
+    "id": 507
+  },
+  {
+    "de": "die Show",
+    "p": "",
+    "en": "show",
+    "ur": "شو",
+    "id": 508
+  },
+  {
+    "de": "die Überraschung",
+    "p": "dee ü-ber-RASH-oong",
+    "en": "surprise",
+    "ur": "حیرت",
+    "id": 509
+  },
+  {
+    "de": "die Regierung",
+    "p": "dee ray-GEE-roong",
+    "en": "government",
+    "ur": "حکومت",
+    "id": 510
+  },
+  {
+    "de": "entfernt",
+    "p": "",
+    "en": "distant; far away",
+    "ur": "دور",
+    "id": 511
+  },
+  {
+    "de": "manche",
+    "p": "MAN-kheh",
+    "en": "some",
+    "ur": "کچھ",
+    "id": 512
+  },
+  {
+    "id": 1378,
+    "de": "erledigen",
+    "p": "",
+    "en": "take care of; complete",
+    "ur": "نمٹانا"
+  },
+  {
+    "id": 1363,
+    "de": "übrigens",
+    "p": "",
+    "en": "by the way",
+    "ur": "ویسے"
+  },
+  {
+    "de": "gehören",
+    "p": "ge-HUR-ren",
+    "en": "to belong",
+    "ur": "تعلق رکھنا",
+    "id": 513
+  },
+  {
+    "de": "antworten",
+    "p": "ANT-vor-ten",
+    "en": "to answer",
+    "ur": "جواب دینا",
+    "id": 514
+  },
+  {
+    "de": "die Hoffnung",
+    "p": "dee HOF-noong",
+    "en": "hope",
+    "ur": "امید",
+    "id": 515
+  },
+  {
+    "de": "rechts",
+    "p": "rekhts",
+    "en": "right",
+    "ur": "دائیں",
+    "id": 516
+  },
+  {
+    "de": "interessant",
+    "p": "in-te-re-SANT",
+    "en": "interesting",
+    "ur": "دلچسپ",
+    "id": 517
+  },
+  {
+    "de": "entscheiden",
+    "p": "ent-SHY-den",
+    "en": "to decide",
+    "ur": "فیصلہ کرنا",
+    "id": 518
+  },
+  {
+    "de": "wohnen",
+    "p": "VOH-nen",
+    "en": "to live (reside)",
+    "ur": "رہنا",
+    "id": 519
+  },
+  {
+    "de": "die Möglichkeit",
+    "p": "dee MUR-glikh-kite",
+    "en": "opportunity / possibility",
+    "ur": "موقع / امکان",
+    "id": 520
+  },
+  {
+    "de": "kaputt",
+    "p": "ka-POOT",
+    "en": "broken",
+    "ur": "ٹوٹا ہوا / خراب",
+    "id": 521
+  },
+  {
+    "de": "das Flugzeug",
+    "p": "dass FLOOK-tsoyk",
+    "en": "airplane",
+    "ur": "ہوائی جہاز",
+    "id": 522
+  },
+  {
+    "de": "die Vergangenheit",
+    "p": "dee fer-GANG-en-hite",
+    "en": "past",
+    "ur": "ماضی",
+    "id": 523
+  },
+  {
+    "de": "zweite",
+    "p": "TSVY-teh",
+    "en": "second",
+    "ur": "دوسرا",
+    "id": 524
+  },
+  {
+    "de": "ein paar",
+    "p": "ine pahr",
+    "en": "a few",
+    "ur": "چند",
+    "id": 525
+  },
+  {
+    "de": "der Tee",
+    "p": "dair tay",
+    "en": "tea",
+    "ur": "چائے",
+    "id": 526
+  },
+  {
+    "de": "weiß",
+    "p": "vice",
+    "en": "white",
+    "ur": "سفید",
+    "id": 527
+  },
+  {
+    "de": "überrascht",
+    "p": "ü-ber-RASHT",
+    "en": "surprised",
+    "ur": "حیران",
+    "id": 528
+  },
+  {
+    "de": "sauber",
+    "p": "ZOW-ber",
+    "en": "clean",
+    "ur": "صاف",
+    "id": 529
+  },
+  {
+    "de": "nervös",
+    "p": "ner-VURS",
+    "en": "nervous",
+    "ur": "گھبرایا ہوا",
+    "id": 530
+  },
+  {
+    "de": "die Gesellschaft",
+    "p": "dee ge-ZEL-shaft",
+    "en": "society",
+    "ur": "معاشرہ",
+    "id": 531
+  },
+  {
+    "de": "verstecken",
+    "p": "",
+    "en": "hide",
+    "ur": "چھپانا",
+    "id": 532
+  },
+  {
+    "de": "schuldig",
+    "p": "",
+    "en": "guilty",
+    "ur": "قصوروار",
+    "id": 533
+  },
+  {
+    "de": "der Hals",
+    "p": "dair hals",
+    "en": "neck / throat",
+    "ur": "گردن / گلا",
+    "id": 534
+  },
+  {
+    "de": "besuchen",
+    "p": "be-ZOO-khen",
+    "en": "to visit",
+    "ur": "ملنے جانا",
+    "id": 535
+  },
+  {
+    "de": "passen",
+    "p": "PAS-sen",
+    "en": "to fit / suit",
+    "ur": "فٹ آنا / مناسب ہونا",
+    "id": 536
+  },
+  {
+    "de": "teilen",
+    "p": "TY-len",
+    "en": "to share / divide",
+    "ur": "بانٹنا",
+    "id": 537
+  },
+  {
+    "de": "der Richter",
+    "p": "dair RIKH-ter",
+    "en": "judge",
+    "ur": "جج",
+    "id": 538
+  },
+  {
+    "de": "die Küche",
+    "p": "dee KÜ-kheh",
+    "en": "kitchen",
+    "ur": "باورچی خانہ",
+    "id": 539
+  },
+  {
+    "de": "die Situation",
+    "p": "",
+    "en": "situation",
+    "ur": "صورتحال",
+    "id": 540
+  },
+  {
+    "id": 1361,
+    "de": "allerdings",
+    "p": "",
+    "en": "however",
+    "ur": "البتہ"
+  },
+  {
+    "de": "Ich möchte …",
+    "p": "ikh MURKH-teh",
+    "en": "I would like …",
+    "ur": "میں … چاہوں گا",
+    "id": 541
+  },
+  {
+    "de": "die Kamera",
+    "p": "",
+    "en": "camera",
+    "ur": "کیمرہ",
+    "id": 542
+  },
+  {
+    "de": "Achtung",
+    "p": "AKH-toong",
+    "en": "Attention / careful",
+    "ur": "توجہ / خبردار",
+    "id": 543
+  },
+  {
+    "de": "statt",
+    "p": "shtat",
+    "en": "instead of",
+    "ur": "کی بجائے",
+    "id": 544
+  },
+  {
+    "de": "die Gegend",
+    "p": "dee GAY-gent",
+    "en": "area / region",
+    "ur": "علاقہ",
+    "id": 545
+  },
+  {
+    "de": "der Wald",
+    "p": "dair valt",
+    "en": "forest",
+    "ur": "جنگل",
+    "id": 546
+  },
+  {
+    "de": "das Glas",
+    "p": "dass glahs",
+    "en": "glass",
+    "ur": "گلاس",
+    "id": 547
+  },
+  {
+    "de": "das Kleid",
+    "p": "dass klite",
+    "en": "dress",
+    "ur": "لباس",
+    "id": 548
+  },
+  {
+    "de": "das Abendessen",
+    "p": "dass AH-bent-ess-en",
+    "en": "dinner",
+    "ur": "رات کا کھانا",
+    "id": 549
+  },
+  {
+    "de": "das Gesetz",
+    "p": "dass ge-ZETS",
+    "en": "law",
+    "ur": "قانون",
+    "id": 550
+  },
+  {
+    "de": "gemeinsam",
+    "p": "ge-MINE-zam",
+    "en": "shared / together",
+    "ur": "مشترکہ",
+    "id": 551
+  },
+  {
+    "de": "beginnen",
+    "p": "be-GIN-nen",
+    "en": "to begin",
+    "ur": "شروع کرنا",
+    "id": 552
+  },
+  {
+    "de": "ungefähr",
+    "p": "OON-ge-fair",
+    "en": "approximately",
+    "ur": "تقریباً",
+    "id": 553
+  },
+  {
+    "de": "die Aufgabe",
+    "p": "dee OWF-gah-beh",
+    "en": "task / responsibility",
+    "ur": "کام / ذمہ داری",
+    "id": 554
+  },
+  {
+    "de": "neun",
+    "p": "noyn",
+    "en": "nine",
+    "ur": "نو",
+    "id": 555
+  },
+  {
+    "de": "drinnen",
+    "p": "DRIN-nen",
+    "en": "inside",
+    "ur": "اندر",
+    "id": 556
+  },
+  {
+    "de": "melden",
+    "p": "",
+    "en": "report; notify",
+    "ur": "اطلاع دینا",
+    "id": 557
+  },
+  {
+    "de": "die Freude",
+    "p": "dee FROY-deh",
+    "en": "joy",
+    "ur": "خوشی",
+    "id": 558
+  },
+  {
+    "de": "der Ehemann",
+    "p": "dair AY-eh-man",
+    "en": "husband",
+    "ur": "شوہر",
+    "id": 559
+  },
+  {
+    "de": "Gute Nacht",
+    "p": "GOO-teh nakht",
+    "en": "Good night",
+    "ur": "شب بخیر",
+    "id": 560
+  },
+  {
+    "de": "Alles Gute",
+    "p": "AL-les GOO-teh",
+    "en": "All the best",
+    "ur": "نیک تمنائیں",
+    "id": 561
+  },
+  {
+    "de": "vorne",
+    "p": "FOR-neh",
+    "en": "in front",
+    "ur": "آگے",
+    "id": 562
+  },
+  {
+    "de": "die Adresse",
+    "p": "dee a-DRES-seh",
+    "en": "address",
+    "ur": "پتہ",
+    "id": 563
+  },
+  {
+    "de": "der Unsinn",
+    "p": "",
+    "en": "nonsense",
+    "ur": "بکواس",
+    "id": 564
+  },
+  {
+    "de": "das Messer",
+    "p": "dass MES-ser",
+    "en": "knife",
+    "ur": "چاقو",
+    "id": 565
+  },
+  {
+    "de": "gesund",
+    "p": "ge-ZOONT",
+    "en": "healthy",
+    "ur": "صحت مند",
+    "id": 566
+  },
+  {
+    "de": "davor",
+    "p": "",
+    "en": "before that; in front of it",
+    "ur": "اس سے پہلے؛ اس کے سامنے",
+    "id": 567
+  },
+  {
+    "de": "wie lange",
+    "p": "vee LANG-eh",
+    "en": "how long",
+    "ur": "کتنی دیر",
+    "id": 568
+  },
+  {
+    "de": "bedeuten",
+    "p": "be-DOY-ten",
+    "en": "to mean",
+    "ur": "مطلب ہونا",
+    "id": 569
+  },
+  {
+    "de": "mitnehmen",
+    "p": "MIT-nay-men",
+    "en": "to take along",
+    "ur": "ساتھ لے جانا",
+    "id": 570
+  },
+  {
+    "de": "die Hälfte",
+    "p": "dee HELF-teh",
+    "en": "half",
+    "ur": "آدھا",
+    "id": 571
+  },
+  {
+    "de": "die Gruppe",
+    "p": "dee GROOP-peh",
+    "en": "group",
+    "ur": "گروپ",
+    "id": 572
+  },
+  {
+    "de": "das Eis",
+    "p": "dass ice",
+    "en": "ice / ice cream",
+    "ur": "برف / آئس کریم",
+    "id": 573
+  },
+  {
+    "de": "danken",
+    "p": "DAHN-ken",
+    "en": "to thank",
+    "ur": "شکریہ ادا کرنا",
+    "id": 574
+  },
+  {
+    "de": "der Erfolg",
+    "p": "dair er-FOLK",
+    "en": "success",
+    "ur": "کامیابی",
+    "id": 575
+  },
+  {
+    "de": "zufrieden",
+    "p": "tsoo-FREE-den",
+    "en": "satisfied",
+    "ur": "مطمئن",
+    "id": 576
+  },
+  {
+    "id": 1379,
+    "de": "besorgen",
+    "p": "",
+    "en": "get; obtain",
+    "ur": "حاصل کرنا"
+  },
+  {
+    "de": "das Wochenende",
+    "p": "dass VO-khen-en-deh",
+    "en": "weekend",
+    "ur": "ہفتہ وار تعطیل",
+    "id": 577
+  },
+  {
+    "de": "stimmen",
+    "p": "SHTIM-men",
+    "en": "to be correct",
+    "ur": "درست ہونا",
+    "id": 578
+  },
+  {
+    "de": "der Bericht",
+    "p": "",
+    "en": "report",
+    "ur": "رپورٹ",
+    "id": 579
+  },
+  {
+    "de": "der Schmerz",
+    "p": "dair shmerts",
+    "en": "pain",
+    "ur": "درد",
+    "id": 580
+  },
+  {
+    "de": "fernsehen",
+    "p": "FAIRN-zay-en",
+    "en": "to watch TV",
+    "ur": "ٹی وی دیکھنا",
+    "id": 581
+  },
+  {
+    "id": 1467,
+    "de": "das Angebot",
+    "p": "",
+    "en": "offer; special offer",
+    "ur": "پیشکش"
+  },
+  {
+    "de": "nah",
+    "p": "nah",
+    "en": "near",
+    "ur": "قریب",
+    "id": 582
+  },
+  {
+    "de": "rennen",
+    "p": "REN-nen",
+    "en": "to run",
+    "ur": "دوڑنا",
+    "id": 583
+  },
+  {
+    "de": "das Lied",
+    "p": "dass leet",
+    "en": "song",
+    "ur": "گانا",
+    "id": 584
+  },
+  {
+    "de": "fantastisch",
+    "p": "",
+    "en": "fantastic; amazing",
+    "ur": "شاندار",
+    "id": 585
+  },
+  {
+    "de": "dauern",
+    "p": "",
+    "en": "last; take time",
+    "ur": "وقت لگنا",
+    "id": 586
+  },
+  {
+    "de": "das Dorf",
+    "p": "dass dorf",
+    "en": "village",
+    "ur": "گاؤں",
+    "id": 587
+  },
+  {
+    "de": "bauen",
+    "p": "BOW-en",
+    "en": "to build",
+    "ur": "بنانا / تعمیر کرنا",
+    "id": 588
+  },
+  {
+    "de": "hängen",
+    "p": "HENG-en",
+    "en": "to hang",
+    "ur": "لٹکنا",
+    "id": 589
+  },
+  {
+    "de": "halb",
+    "p": "halp",
+    "en": "half",
+    "ur": "آدھا",
+    "id": 590
+  },
+  {
+    "de": "leise",
+    "p": "LY-zeh",
+    "en": "quiet / soft",
+    "ur": "دھیما / خاموش",
+    "id": 591
+  },
+  {
+    "de": "die Freiheit",
+    "p": "dee FRY-hite",
+    "en": "freedom",
+    "ur": "آزادی",
+    "id": 592
+  },
+  {
+    "de": "verdienen",
+    "p": "fer-DEE-nen",
+    "en": "to earn",
+    "ur": "کمانا",
+    "id": 593
+  },
+  {
+    "id": 1449,
+    "de": "der Schaden",
+    "p": "",
+    "en": "damage",
+    "ur": "نقصان"
+  },
+  {
+    "de": "der Park",
+    "p": "dair park",
+    "en": "park",
+    "ur": "پارک",
+    "id": 594
+  },
+  {
+    "de": "die Energie",
+    "p": "dee ay-ner-GEE",
+    "en": "energy",
+    "ur": "توانائی",
+    "id": 595
+  },
+  {
+    "de": "das Fleisch",
+    "p": "dass flysh",
+    "en": "meat",
+    "ur": "گوشت",
+    "id": 596
+  },
+  {
+    "id": 1376,
+    "de": "reichen",
+    "p": "",
+    "en": "be enough; hand over",
+    "ur": "کافی ہونا؛ پکڑانا"
+  },
+  {
+    "de": "die Zeitung",
+    "p": "dee TSY-toong",
+    "en": "newspaper",
+    "ur": "اخبار",
+    "id": 597
+  },
+  {
+    "de": "das Gespräch",
+    "p": "dass ge-SHPRAYKH",
+    "en": "conversation / talk",
+    "ur": "گفتگو",
+    "id": 598
+  },
+  {
+    "de": "das Taxi",
+    "p": "dass TAK-si",
+    "en": "taxi",
+    "ur": "ٹیکسی",
+    "id": 599
+  },
+  {
+    "de": "der Unterschied",
+    "p": "dair OON-ter-sheet",
+    "en": "difference",
+    "ur": "فرق",
+    "id": 600
+  },
+  {
+    "de": "der See",
+    "p": "dair zay",
+    "en": "lake",
+    "ur": "جھیل",
+    "id": 601
+  },
+  {
+    "de": "der Wind",
+    "p": "dair vint",
+    "en": "wind",
+    "ur": "ہوا",
+    "id": 602
+  },
+  {
+    "de": "die Wand",
+    "p": "dee vant",
+    "en": "wall",
+    "ur": "دیوار",
+    "id": 603
+  },
+  {
+    "de": "der Bus",
+    "p": "dair boos",
+    "en": "bus",
+    "ur": "بس",
+    "id": 604
+  },
+  {
+    "de": "der Polizist",
+    "p": "dair po-li-TSIST",
+    "en": "police officer",
+    "ur": "پولیس والا",
+    "id": 605
+  },
+  {
+    "de": "die Flasche",
+    "p": "dee FLASH-eh",
+    "en": "bottle",
+    "ur": "بوتل",
+    "id": 606
+  },
+  {
+    "de": "das Meer",
+    "p": "dass mair",
+    "en": "sea",
+    "ur": "سمندر",
+    "id": 607
+  },
+  {
+    "de": "das Bein",
+    "p": "dass bine",
+    "en": "leg",
+    "ur": "ٹانگ",
+    "id": 608
+  },
+  {
+    "de": "heute Abend",
+    "p": "HOY-teh AH-bent",
+    "en": "this evening",
+    "ur": "آج شام",
+    "id": 609
+  },
+  {
+    "de": "das Frühstück",
+    "p": "dass FRÜ-shtük",
+    "en": "breakfast",
+    "ur": "ناشتہ",
+    "id": 610
+  },
+  {
+    "de": "die Gelegenheit",
+    "p": "dee ge-LAY-gen-hite",
+    "en": "opportunity",
+    "ur": "موقع",
+    "id": 611
+  },
+  {
+    "de": "wie viele",
+    "p": "vee FEE-leh",
+    "en": "how many",
+    "ur": "کتنے",
+    "id": 612
+  },
+  {
+    "de": "die Lüge",
+    "p": "dee LÜ-geh",
+    "en": "lie",
+    "ur": "جھوٹ",
+    "id": 613
+  },
+  {
+    "de": "der Zeitpunkt",
+    "p": "",
+    "en": "point in time",
+    "ur": "وقت",
+    "id": 614
+  },
+  {
+    "de": "die Ecke",
+    "p": "dee EK-keh",
+    "en": "corner",
+    "ur": "کونا / موڑ",
+    "id": 615
+  },
+  {
+    "de": "die Brücke",
+    "p": "dee BRÜK-keh",
+    "en": "bridge",
+    "ur": "پل",
+    "id": 616
+  },
+  {
+    "de": "leer",
+    "p": "lair",
+    "en": "empty",
+    "ur": "خالی",
+    "id": 617
+  },
+  {
+    "de": "die Lösung",
+    "p": "dee LUR-zoong",
+    "en": "solution",
+    "ur": "حل",
+    "id": 618
+  },
+  {
+    "de": "die Pause",
+    "p": "dee POW-zeh",
+    "en": "break",
+    "ur": "وقفہ",
+    "id": 619
+  },
+  {
+    "de": "der Keller",
+    "p": "dair KEL-ler",
+    "en": "basement / cellar",
+    "ur": "تہہ خانہ",
+    "id": 620
+  },
+  {
+    "de": "weinen",
+    "p": "VY-nen",
+    "en": "to cry",
+    "ur": "رونا",
+    "id": 621
+  },
+  {
+    "de": "die Verantwortung",
+    "p": "dee fer-ANT-vor-toong",
+    "en": "responsibility",
+    "ur": "ذمہ داری",
+    "id": 622
+  },
+  {
+    "de": "Guten Morgen",
+    "p": "GOO-ten MOR-gen",
+    "en": "Good morning",
+    "ur": "صبح بخیر",
+    "id": 623
+  },
+  {
+    "de": "Guten Tag",
+    "p": "GOO-ten tahk",
+    "en": "Good day",
+    "ur": "دن بخیر",
+    "id": 624
+  },
+  {
+    "de": "Guten Abend",
+    "p": "GOO-ten AH-bent",
+    "en": "Good evening",
+    "ur": "شام بخیر",
+    "id": 625
+  },
+  {
+    "de": "der Hut",
+    "p": "",
+    "en": "hat",
+    "ur": "ٹوپی",
+    "id": 626
+  },
+  {
+    "de": "lächeln",
+    "p": "LEKH-eln",
+    "en": "to smile",
+    "ur": "مسکرانا",
+    "id": 627
+  },
+  {
+    "de": "mitkommen",
+    "p": "MIT-kom-men",
+    "en": "to come along",
+    "ur": "ساتھ آنا",
+    "id": 628
+  },
+  {
+    "de": "kosten",
+    "p": "KOS-ten",
+    "en": "to cost",
+    "ur": "قیمت ہونا",
+    "id": 629
+  },
+  {
+    "de": "das Haar",
+    "p": "dass hahr",
+    "en": "hair",
+    "ur": "بال",
+    "id": 630
+  },
+  {
+    "id": 1434,
+    "de": "die Schmerzen",
+    "p": "",
+    "en": "pain; aches",
+    "ur": "درد"
+  },
+  {
+    "de": "das Dach",
+    "p": "dass dakh",
+    "en": "roof",
+    "ur": "چھت",
+    "id": 631
+  },
+  {
+    "de": "die Folge",
+    "p": "dee FOL-geh",
+    "en": "consequence",
+    "ur": "نتیجہ",
+    "id": 632
+  },
+  {
+    "de": "das Tier",
+    "p": "dass teer",
+    "en": "animal",
+    "ur": "جانور",
+    "id": 633
+  },
+  {
+    "de": "geschlossen",
+    "p": "ge-SHLOS-sen",
+    "en": "closed",
+    "ur": "بند",
+    "id": 634
+  },
+  {
+    "de": "der Urlaub",
+    "p": "dair OOR-lowp",
+    "en": "vacation",
+    "ur": "چھٹی",
+    "id": 635
+  },
+  {
+    "de": "vorwärts",
+    "p": "",
+    "en": "forward",
+    "ur": "آگے",
+    "id": 636
+  },
+  {
+    "de": "der Baum",
+    "p": "dair bowm",
+    "en": "tree",
+    "ur": "درخت",
+    "id": 637
+  },
+  {
+    "de": "funktionieren",
+    "p": "foonk-tsyo-NEE-ren",
+    "en": "to function / work",
+    "ur": "چلنا / کام کرنا",
+    "id": 638
+  },
+  {
+    "de": "der Lehrer",
+    "p": "dair LAY-rer",
+    "en": "teacher",
+    "ur": "استاد",
+    "id": 639
+  },
+  {
+    "de": "hoffen",
+    "p": "HOF-fen",
+    "en": "to hope",
+    "ur": "امید کرنا",
+    "id": 640
+  },
+  {
+    "de": "der Nachmittag",
+    "p": "dair NAKH-mit-tahk",
+    "en": "afternoon",
+    "ur": "سہ پہر",
+    "id": 641
+  },
+  {
+    "de": "die Erfahrung",
+    "p": "dee er-FAH-roong",
+    "en": "experience",
+    "ur": "تجربہ",
+    "id": 642
+  },
+  {
+    "de": "die Katze",
+    "p": "dee KAT-seh",
+    "en": "cat",
+    "ur": "بلی",
+    "id": 643
+  },
+  {
+    "de": "der Deutsche",
+    "p": "dair DOY-cheh",
+    "en": "German (person)",
+    "ur": "جرمن",
+    "id": 644
+  },
+  {
+    "de": "der Sommer",
+    "p": "dair ZOM-mer",
+    "en": "summer",
+    "ur": "گرمی",
+    "id": 645
+  },
+  {
+    "de": "hinterlassen",
+    "p": "",
+    "en": "leave behind",
+    "ur": "چھوڑ جانا",
+    "id": 646
+  },
+  {
+    "de": "atmen",
+    "p": "AHT-men",
+    "en": "to breathe",
+    "ur": "سانس لینا",
+    "id": 647
+  },
+  {
+    "de": "die Hose",
+    "p": "dee HOH-zeh",
+    "en": "trousers / pants",
+    "ur": "پتلون",
+    "id": 648
+  },
+  {
+    "de": "das Restaurant",
+    "p": "dass res-to-RONG",
+    "en": "restaurant",
+    "ur": "ریستوران",
+    "id": 649
+  },
+  {
+    "de": "die Natur",
+    "p": "dee na-TOOR",
+    "en": "nature",
+    "ur": "فطرت",
+    "id": 650
+  },
+  {
+    "de": "das Bad",
+    "p": "dass baht",
+    "en": "bathroom",
+    "ur": "غسل خانہ",
+    "id": 651
+  },
+  {
+    "de": "normalerweise",
+    "p": "nor-MAH-ler-vy-zeh",
+    "en": "usually",
+    "ur": "عام طور پر",
+    "id": 652
+  },
+  {
+    "de": "Moment mal",
+    "p": "mo-MENT mahl",
+    "en": "Just a moment",
+    "ur": "ذرا ایک لمحہ",
+    "id": 653
+  },
+  {
+    "de": "steigen",
+    "p": "SHTY-gen",
+    "en": "to climb / rise",
+    "ur": "چڑھنا",
+    "id": 654
+  },
+  {
+    "de": "der Fisch",
+    "p": "dair fish",
+    "en": "fish",
+    "ur": "مچھلی",
+    "id": 655
+  },
+  {
+    "de": "der Kuchen",
+    "p": "dair KOO-khen",
+    "en": "cake",
+    "ur": "کیک",
+    "id": 656
+  },
+  {
+    "de": "der Wunsch",
+    "p": "dair voonsh",
+    "en": "wish",
+    "ur": "خواہش",
+    "id": 657
+  },
+  {
+    "de": "die Farbe",
+    "p": "dee FAR-beh",
+    "en": "color",
+    "ur": "رنگ",
+    "id": 658
+  },
+  {
+    "de": "der Garten",
+    "p": "dair GAR-ten",
+    "en": "garden",
+    "ur": "باغ",
+    "id": 659
+  },
+  {
+    "de": "der Koffer",
+    "p": "dair KOF-fer",
+    "en": "suitcase",
+    "ur": "سوٹ کیس",
+    "id": 660
+  },
+  {
+    "de": "der Kurs",
+    "p": "dair koors",
+    "en": "course",
+    "ur": "کورس",
+    "id": 661
+  },
+  {
+    "de": "wahnsinnig",
+    "p": "",
+    "en": "crazy; insane",
+    "ur": "پاگل",
+    "id": 662
+  },
+  {
+    "de": "ähnlich",
+    "p": "AYN-likh",
+    "en": "similar",
+    "ur": "ملتا جلتا",
+    "id": 663
+  },
+  {
+    "de": "der Vogel",
+    "p": "dair FOH-gel",
+    "en": "bird",
+    "ur": "پرندہ",
+    "id": 664
+  },
+  {
+    "de": "der Strand",
+    "p": "dair shtrant",
+    "en": "beach",
+    "ur": "ساحل",
+    "id": 665
+  },
+  {
+    "de": "schwarz",
+    "p": "shvarts",
+    "en": "black",
+    "ur": "کالا",
+    "id": 666
+  },
+  {
+    "de": "der Scherz",
+    "p": "",
+    "en": "joke",
+    "ur": "مذاق",
+    "id": 667
+  },
+  {
+    "de": "langweilig",
+    "p": "LANG-vy-likh",
+    "en": "boring",
+    "ur": "بور",
+    "id": 668
+  },
+  {
+    "de": "rot",
+    "p": "roht",
+    "en": "red",
+    "ur": "سرخ",
+    "id": 669
+  },
+  {
+    "de": "reisen",
+    "p": "RY-zen",
+    "en": "to travel",
+    "ur": "سفر کرنا",
+    "id": 670
+  },
+  {
+    "de": "der Termin",
+    "p": "dair ter-MEEN",
+    "en": "appointment",
+    "ur": "ملاقات کا وقت",
+    "id": 671
+  },
+  {
+    "de": "stehlen",
+    "p": "",
+    "en": "steal",
+    "ur": "چوری کرنا",
+    "id": 672
+  },
+  {
+    "de": "der Vertrag",
+    "p": "dair fer-TRAHK",
+    "en": "contract",
+    "ur": "معاہدہ",
+    "id": 673
+  },
+  {
+    "id": 1487,
+    "de": "die Erinnerung",
+    "p": "",
+    "en": "memory; reminder",
+    "ur": "یاد؛ یاد دہانی"
+  },
+  {
+    "de": "der Zweifel",
+    "p": "",
+    "en": "doubt",
+    "ur": "شک",
+    "id": 674
+  },
+  {
+    "de": "die Sprache",
+    "p": "dee SHPRAH-kheh",
+    "en": "language",
+    "ur": "زبان",
+    "id": 675
+  },
+  {
+    "de": "zweimal",
+    "p": "TSVY-mahl",
+    "en": "twice",
+    "ur": "دو بار",
+    "id": 676
+  },
+  {
+    "de": "abholen",
+    "p": "AP-hoh-len",
+    "en": "to pick up / fetch",
+    "ur": "لینے جانا",
+    "id": 677
+  },
+  {
+    "de": "noch einmal",
+    "p": "nokh INE-mahl",
+    "en": "once more",
+    "ur": "ایک بار اور",
+    "id": 678
+  },
+  {
+    "de": "scheinen",
+    "p": "SHY-nen",
+    "en": "to seem / shine",
+    "ur": "لگنا / چمکنا",
+    "id": 679
+  },
+  {
+    "de": "die Pflicht",
+    "p": "dee pfLikht",
+    "en": "duty / obligation",
+    "ur": "فرض",
+    "id": 680
+  },
+  {
+    "de": "das Knie",
+    "p": "",
+    "en": "knee",
+    "ur": "گھٹنا",
+    "id": 681
+  },
+  {
+    "de": "Kein Problem",
+    "p": "kine pro-BLAME",
+    "en": "No problem",
+    "ur": "کوئی مسئلہ نہیں",
+    "id": 682
+  },
+  {
+    "de": "weshalb",
+    "p": "",
+    "en": "why",
+    "ur": "کیوں",
+    "id": 683
+  },
+  {
+    "de": "klug",
+    "p": "kloog",
+    "en": "clever",
+    "ur": "ہوشیار",
+    "id": 684
+  },
+  {
+    "de": "aufstehen",
+    "p": "OWF-shtay-en",
+    "en": "to get up",
+    "ur": "اٹھنا",
+    "id": 685
+  },
+  {
+    "de": "hassen",
+    "p": "HAS-sen",
+    "en": "to hate",
+    "ur": "نفرت کرنا",
+    "id": 686
+  },
+  {
+    "de": "die Milch",
+    "p": "dee milkh",
+    "en": "milk",
+    "ur": "دودھ",
+    "id": 687
+  },
+  {
+    "de": "kochen",
+    "p": "KOKH-en",
+    "en": "to cook",
+    "ur": "پکانا",
+    "id": 688
+  },
+  {
+    "de": "schwach",
+    "p": "shvakh",
+    "en": "weak",
+    "ur": "کمزور",
+    "id": 689
+  },
+  {
+    "de": "die Schulden",
+    "p": "dee SHOOL-den",
+    "en": "debts",
+    "ur": "قرضے",
+    "id": 690
+  },
+  {
+    "de": "die Grenze",
+    "p": "dee GREN-tseh",
+    "en": "border",
+    "ur": "سرحد",
+    "id": 691
+  },
+  {
+    "de": "der Mond",
+    "p": "dair mohnt",
+    "en": "moon",
+    "ur": "چاند",
+    "id": 692
+  },
+  {
+    "de": "der Sieg",
+    "p": "",
+    "en": "victory",
+    "ur": "فتح",
+    "id": 693
+  },
+  {
+    "de": "enden",
+    "p": "EN-den",
+    "en": "to end",
+    "ur": "ختم ہونا",
+    "id": 694
+  },
+  {
+    "de": "warm",
+    "p": "varm",
+    "en": "warm",
+    "ur": "گرم",
+    "id": 695
+  },
+  {
+    "de": "die Übersetzung",
+    "p": "dee ü-ber-ZET-soong",
+    "en": "translation",
+    "ur": "ترجمہ",
+    "id": 696
+  },
+  {
+    "de": "die Kunst",
+    "p": "",
+    "en": "art",
+    "ur": "فن",
+    "id": 697
+  },
+  {
+    "de": "die Krankheit",
+    "p": "dee KRANK-hite",
+    "en": "illness",
+    "ur": "بیماری",
+    "id": 698
+  },
+  {
+    "de": "der Stock",
+    "p": "dair shtok",
+    "en": "floor / story",
+    "ur": "منزل",
+    "id": 699
+  },
+  {
+    "de": "Freitag",
+    "p": "FRY-tahk",
+    "en": "Friday",
+    "ur": "جمعہ",
+    "id": 700
+  },
+  {
+    "de": "Million",
+    "p": "mil-YOHN",
+    "en": "million",
+    "ur": "ملین",
+    "id": 701
+  },
+  {
+    "de": "dunkel",
+    "p": "DOON-kel",
+    "en": "dark",
+    "ur": "اندھیرا",
+    "id": 702
+  },
+  {
+    "de": "Ich verstehe",
+    "p": "ikh fer-SHTAY-eh",
+    "en": "I understand",
+    "ur": "میں سمجھ گیا",
+    "id": 703
+  },
+  {
+    "de": "das Programm",
+    "p": "dass pro-GRAM",
+    "en": "program",
+    "ur": "پروگرام",
+    "id": 704
+  },
+  {
+    "de": "das Grab",
+    "p": "",
+    "en": "grave",
+    "ur": "قبر",
+    "id": 705
+  },
+  {
+    "de": "freundlich",
+    "p": "FROYNT-likh",
+    "en": "friendly",
+    "ur": "دوستانہ",
+    "id": 706
+  },
+  {
+    "de": "dick",
+    "p": "dik",
+    "en": "thick / fat",
+    "ur": "موٹا",
+    "id": 707
+  },
+  {
+    "de": "der Stuhl",
+    "p": "dair shtool",
+    "en": "chair",
+    "ur": "کرسی",
+    "id": 708
+  },
+  {
+    "de": "ausgehen",
+    "p": "OWS-gay-en",
+    "en": "to go out (socially)",
+    "ur": "باہر جانا (گھومنے)",
+    "id": 709
+  },
+  {
+    "de": "vergeben",
+    "p": "",
+    "en": "forgive",
+    "ur": "معاف کرنا",
+    "id": 710
+  },
+  {
+    "de": "der Gast",
+    "p": "dair gast",
+    "en": "guest",
+    "ur": "مہمان",
+    "id": 711
+  },
+  {
+    "de": "die Toilette",
+    "p": "dee to-a-LET-teh",
+    "en": "toilet",
+    "ur": "بیت الخلا",
+    "id": 712
+  },
+  {
+    "de": "teuer",
+    "p": "TOY-er",
+    "en": "expensive",
+    "ur": "مہنگا",
+    "id": 713
+  },
+  {
+    "de": "wählen",
+    "p": "VAY-len",
+    "en": "to choose / vote",
+    "ur": "چننا",
+    "id": 714
+  },
+  {
+    "de": "das Theater",
+    "p": "dass tay-AH-ter",
+    "en": "theater",
+    "ur": "تھیٹر",
+    "id": 715
+  },
+  {
+    "de": "der Regen",
+    "p": "dair RAY-gen",
+    "en": "rain",
+    "ur": "بارش",
+    "id": 716
+  },
+  {
+    "de": "erlauben",
+    "p": "er-LOW-ben",
+    "en": "to allow",
+    "ur": "اجازت دینا",
+    "id": 717
+  },
+  {
+    "de": "komplett",
+    "p": "",
+    "en": "complete; entirely",
+    "ur": "مکمل",
+    "id": 718
+  },
+  {
+    "de": "der Flughafen",
+    "p": "dair FLOOK-hah-fen",
+    "en": "airport",
+    "ur": "ہوائی اڈہ",
+    "id": 719
+  },
+  {
+    "de": "begleiten",
+    "p": "",
+    "en": "accompany",
+    "ur": "ساتھ جانا",
+    "id": 720
+  },
+  {
+    "de": "der Fahrer",
+    "p": "dair FAH-rer",
+    "en": "driver",
+    "ur": "ڈرائیور",
+    "id": 721
+  },
+  {
+    "de": "streiten",
+    "p": "SHTRY-ten",
+    "en": "to argue",
+    "ur": "جھگڑنا",
+    "id": 722
+  },
+  {
+    "de": "die Post",
+    "p": "dee post",
+    "en": "post office",
+    "ur": "ڈاکخانہ",
+    "id": 723
+  },
+  {
+    "de": "fehlen",
+    "p": "FAY-len",
+    "en": "to be missing / lack",
+    "ur": "کمی ہونا",
+    "id": 724
+  },
+  {
+    "de": "zurückkommen",
+    "p": "tsoo-RÜK-kom-men",
+    "en": "to come back",
+    "ur": "واپس آنا",
+    "id": 725
+  },
+  {
+    "de": "scharf",
+    "p": "sharf",
+    "en": "spicy / sharp",
+    "ur": "تیز / مرچوں والا",
+    "id": 726
+  },
+  {
+    "de": "das Projekt",
+    "p": "dass pro-YEKT",
+    "en": "project",
+    "ur": "منصوبہ",
+    "id": 727
+  },
+  {
+    "de": "schwimmen",
+    "p": "SHVIM-men",
+    "en": "to swim",
+    "ur": "تیرنا",
+    "id": 728
+  },
+  {
+    "de": "zählen",
+    "p": "TSAY-len",
+    "en": "to count",
+    "ur": "گننا",
+    "id": 729
+  },
+  {
+    "id": 1374,
+    "de": "innerhalb",
+    "p": "",
+    "en": "within",
+    "ur": "کے اندر"
+  },
+  {
+    "de": "zuletzt",
+    "p": "",
+    "en": "last; finally",
+    "ur": "آخر میں",
+    "id": 730
+  },
+  {
+    "de": "Englisch",
+    "p": "ENG-lish",
+    "en": "English (language)",
+    "ur": "انگریزی",
+    "id": 731
+  },
+  {
+    "de": "das Ohr",
+    "p": "dass ohr",
+    "en": "ear",
+    "ur": "کان",
+    "id": 732
+  },
+  {
+    "de": "der Schüler",
+    "p": "dair SHÜ-ler",
+    "en": "pupil",
+    "ur": "شاگرد",
+    "id": 733
+  },
+  {
+    "de": "Sonntag",
+    "p": "ZON-tahk",
+    "en": "Sunday",
+    "ur": "اتوار",
+    "id": 734
+  },
+  {
+    "de": "zwölf",
+    "p": "tsvurlf",
+    "en": "twelve",
+    "ur": "بارہ",
+    "id": 735
+  },
+  {
+    "de": "die Rechnung",
+    "p": "dee REKH-noong",
+    "en": "bill / invoice",
+    "ur": "بل",
+    "id": 736
+  },
+  {
+    "de": "frisch",
+    "p": "frish",
+    "en": "fresh",
+    "ur": "تازہ",
+    "id": 737
+  },
+  {
+    "de": "der Cousin",
+    "p": "dair koo-ZANG",
+    "en": "cousin (male)",
+    "ur": "کزن",
+    "id": 738
+  },
+  {
+    "de": "kompliziert",
+    "p": "kom-pli-TSEERT",
+    "en": "complicated",
+    "ur": "پیچیدہ",
+    "id": 739
+  },
+  {
+    "de": "jeden Tag",
+    "p": "YAY-den tahk",
+    "en": "every day",
+    "ur": "ہر روز",
+    "id": 740
+  },
+  {
+    "de": "das Signal",
+    "p": "",
+    "en": "signal",
+    "ur": "اشارہ",
+    "id": 741
+  },
+  {
+    "de": "das Kino",
+    "p": "dass KEE-noh",
+    "en": "cinema",
+    "ur": "سنیما",
+    "id": 742
+  },
+  {
+    "de": "probieren",
+    "p": "pro-BEE-ren",
+    "en": "to try / taste",
+    "ur": "آزمانا",
+    "id": 743
+  },
+  {
+    "id": 1412,
+    "de": "geöffnet",
+    "p": "",
+    "en": "open",
+    "ur": "کھلا ہوا"
+  },
+  {
+    "de": "das Prozent",
+    "p": "",
+    "en": "percent",
+    "ur": "فیصد",
+    "id": 744
+  },
+  {
+    "de": "aufmachen",
+    "p": "OWF-makh-en",
+    "en": "to open (up)",
+    "ur": "کھولنا",
+    "id": 745
+  },
+  {
+    "de": "dritte",
+    "p": "DRIT-teh",
+    "en": "third",
+    "ur": "تیسرا",
+    "id": 746
+  },
+  {
+    "id": 1365,
+    "de": "inzwischen",
+    "p": "",
+    "en": "by now; in the meantime",
+    "ur": "اب تک؛ اس دوران"
+  },
+  {
+    "de": "die Geduld",
+    "p": "",
+    "en": "patience",
+    "ur": "صبر",
+    "id": 747
+  },
+  {
+    "de": "reparieren",
+    "p": "re-pa-REE-ren",
+    "en": "to repair",
+    "ur": "مرمت کرنا",
+    "id": 748
+  },
+  {
+    "de": "Das ist gut",
+    "p": "dass ist goot",
+    "en": "That’s good",
+    "ur": "یہ اچھا ہے",
+    "id": 749
+  },
+  {
+    "de": "selten",
+    "p": "ZEL-ten",
+    "en": "rarely",
+    "ur": "شاذ و نادر",
+    "id": 750
+  },
+  {
+    "id": 1417,
+    "de": "unterschreiben",
+    "p": "",
+    "en": "sign",
+    "ur": "دستخط کرنا"
+  },
+  {
+    "de": "die Medizin",
+    "p": "dee me-di-TSEEN",
+    "en": "medicine",
+    "ur": "طب",
+    "id": 751
+  },
+  {
+    "de": "Samstag",
+    "p": "ZAMS-tahk",
+    "en": "Saturday",
+    "ur": "ہفتہ",
+    "id": 752
+  },
+  {
+    "de": "akzeptieren",
+    "p": "",
+    "en": "accept",
+    "ur": "قبول کرنا",
+    "id": 753
+  },
+  {
+    "de": "anziehen",
+    "p": "AN-tsee-en",
+    "en": "to put on (clothes)",
+    "ur": "پہننا",
+    "id": 754
+  },
+  {
+    "de": "der Bauch",
+    "p": "dair bowkh",
+    "en": "belly / stomach",
+    "ur": "پیٹ",
+    "id": 755
+  },
+  {
+    "de": "Bis später",
+    "p": "biss SHPAY-ter",
+    "en": "See you later",
+    "ur": "بعد میں ملتے ہیں",
+    "id": 756
+  },
+  {
+    "de": "der Berg",
+    "p": "dair berk",
+    "en": "mountain",
+    "ur": "پہاڑ",
+    "id": 757
+  },
+  {
+    "de": "Viel Glück",
+    "p": "feel glük",
+    "en": "Good luck",
+    "ur": "نیک تمنائیں",
+    "id": 758
+  },
+  {
+    "id": 1436,
+    "de": "die Untersuchung",
+    "p": "",
+    "en": "examination; check-up",
+    "ur": "معائنہ"
+  },
+  {
+    "id": 1491,
+    "de": "der Eindruck",
+    "p": "",
+    "en": "impression",
+    "ur": "تاثر"
+  },
+  {
+    "id": 1400,
+    "de": "wehtun",
+    "p": "",
+    "en": "hurt",
+    "ur": "درد کرنا"
+  },
+  {
+    "de": "springen",
+    "p": "SHPRING-en",
+    "en": "to jump",
+    "ur": "کودنا",
+    "id": 759
+  },
+  {
+    "de": "Montag",
+    "p": "MOHN-tahk",
+    "en": "Monday",
+    "ur": "پیر",
+    "id": 760
+  },
+  {
+    "de": "die Freundschaft",
+    "p": "",
+    "en": "friendship",
+    "ur": "دوستی",
+    "id": 761
+  },
+  {
+    "de": "der Beruf",
+    "p": "dair be-ROOF",
+    "en": "profession",
+    "ur": "پیشہ",
+    "id": 762
+  },
+  {
+    "de": "die Jacke",
+    "p": "dee YAK-keh",
+    "en": "jacket",
+    "ur": "جیکٹ",
+    "id": 763
+  },
+  {
+    "de": "Bis bald",
+    "p": "biss balt",
+    "en": "See you soon",
+    "ur": "جلد ملتے ہیں",
+    "id": 764
+  },
+  {
+    "de": "zuhören",
+    "p": "TSOO-hur-ren",
+    "en": "to listen (to)",
+    "ur": "غور سے سننا",
+    "id": 765
+  },
+  {
+    "de": "das Schlafzimmer",
+    "p": "dass SHLAHF-tsim-mer",
+    "en": "bedroom",
+    "ur": "خواب گاہ",
+    "id": 766
+  },
+  {
+    "id": 1485,
+    "de": "der Vorschlag",
+    "p": "",
+    "en": "suggestion",
+    "ur": "تجویز"
+  },
+  {
+    "de": "vermissen",
+    "p": "fer-MIS-sen",
+    "en": "to miss (someone)",
+    "ur": "یاد آنا",
+    "id": 767
+  },
+  {
+    "de": "beantworten",
+    "p": "be-ANT-vor-ten",
+    "en": "to answer (a question)",
+    "ur": "جواب دینا",
+    "id": 768
+  },
+  {
+    "de": "träumen",
+    "p": "TROY-men",
+    "en": "to dream",
+    "ur": "خواب دیکھنا",
+    "id": 769
+  },
+  {
+    "de": "der Müll",
+    "p": "dair müll",
+    "en": "trash / garbage",
+    "ur": "کوڑا کرکٹ",
+    "id": 770
+  },
+  {
+    "de": "die Mitte",
+    "p": "dee MIT-teh",
+    "en": "middle",
+    "ur": "درمیان",
+    "id": 771
+  },
+  {
+    "de": "erleben",
+    "p": "er-LAY-ben",
+    "en": "to experience",
+    "ur": "تجربہ کرنا",
+    "id": 772
+  },
+  {
+    "de": "die Decke",
+    "p": "dee DEK-keh",
+    "en": "blanket / ceiling",
+    "ur": "کمبل / چھت",
+    "id": 773
+  },
+  {
+    "de": "die Geburt",
+    "p": "dee ge-BOORT",
+    "en": "birth",
+    "ur": "پیدائش",
+    "id": 774
+  },
+  {
+    "de": "Vielen Dank",
+    "p": "FEE-len dank",
+    "en": "Many thanks",
+    "ur": "بہت شکریہ",
+    "id": 775
+  },
+  {
+    "de": "das Mittagessen",
+    "p": "dass MIT-tahk-ess-en",
+    "en": "lunch",
+    "ur": "دوپہر کا کھانا",
+    "id": 776
+  },
+  {
+    "de": "das Wetter",
+    "p": "dass VET-ter",
+    "en": "weather",
+    "ur": "موسم",
+    "id": 777
+  },
+  {
+    "de": "die Regel",
+    "p": "dee RAY-gel",
+    "en": "rule",
+    "ur": "اصول",
+    "id": 778
+  },
+  {
+    "de": "Keine Ahnung",
+    "p": "KY-neh AH-noong",
+    "en": "No idea",
+    "ur": "کوئی اندازہ نہیں",
+    "id": 779
+  },
+  {
+    "de": "anstatt",
+    "p": "",
+    "en": "instead of",
+    "ur": "کے بجائے",
+    "id": 780
+  },
+  {
+    "de": "die Kleidung",
+    "p": "dee KLY-doong",
+    "en": "clothing",
+    "ur": "کپڑے",
+    "id": 781
+  },
+  {
+    "de": "das Brot",
+    "p": "dass broht",
+    "en": "bread",
+    "ur": "روٹی",
+    "id": 782
+  },
+  {
+    "de": "Berlin",
+    "p": "ber-LEEN",
+    "en": "Berlin",
+    "ur": "برلن",
+    "id": 783
+  },
+  {
+    "de": "das Hemd",
+    "p": "dass hemt",
+    "en": "shirt",
+    "ur": "قمیض",
+    "id": 784
+  },
+  {
+    "de": "die Theorie",
+    "p": "",
+    "en": "theory",
+    "ur": "نظریہ",
+    "id": 785
+  },
+  {
+    "de": "der Notfall",
+    "p": "dair NOHT-fal",
+    "en": "emergency",
+    "ur": "ہنگامی صورتحال",
+    "id": 786
+  },
+  {
+    "de": "der Winter",
+    "p": "dair VIN-ter",
+    "en": "winter",
+    "ur": "سردی",
+    "id": 787
+  },
+  {
+    "de": "blau",
+    "p": "blow",
+    "en": "blue",
+    "ur": "نیلا",
+    "id": 788
+  },
+  {
+    "de": "die Bedeutung",
+    "p": "dee be-DOY-toong",
+    "en": "meaning",
+    "ur": "مطلب",
+    "id": 789
+  },
+  {
+    "id": 1474,
+    "de": "der Strom",
+    "p": "",
+    "en": "electricity",
+    "ur": "بجلی"
+  },
+  {
+    "de": "die Zahl",
+    "p": "dee tsahl",
+    "en": "number / figure",
+    "ur": "عدد",
+    "id": 790
+  },
+  {
+    "de": "wechseln",
+    "p": "VEK-seln",
+    "en": "to switch / exchange",
+    "ur": "تبدیل کرنا",
+    "id": 791
+  },
+  {
+    "de": "Europa",
+    "p": "oy-ROH-pah",
+    "en": "Europe",
+    "ur": "یورپ",
+    "id": 792
+  },
+  {
+    "de": "Deutschland",
+    "p": "DOYCH-lant",
+    "en": "Germany",
+    "ur": "جرمنی",
+    "id": 793
+  },
+  {
+    "de": "der Sturm",
+    "p": "dair shtoorm",
+    "en": "storm",
+    "ur": "طوفان",
+    "id": 794
+  },
+  {
+    "de": "null",
+    "p": "nool",
+    "en": "zero",
+    "ur": "صفر",
+    "id": 795
+  },
+  {
+    "de": "das Papier",
+    "p": "dass pa-PEER",
+    "en": "paper",
+    "ur": "کاغذ",
+    "id": 796
+  },
+  {
+    "de": "hungrig",
+    "p": "HOONG-rikh",
+    "en": "hungry",
+    "ur": "بھوکا",
+    "id": 797
+  },
+  {
+    "de": "die Kuh",
+    "p": "dee koo",
+    "en": "cow",
+    "ur": "گائے",
+    "id": 798
+  },
+  {
+    "de": "sich treffen",
+    "p": "zikh TREF-fen",
+    "en": "to meet up",
+    "ur": "ملنا",
+    "id": 799
+  },
+  {
+    "id": 1369,
+    "de": "rechtzeitig",
+    "p": "",
+    "en": "in time",
+    "ur": "وقت پر"
+  },
+  {
+    "de": "die Treppe",
+    "p": "dee TREP-peh",
+    "en": "stairs",
+    "ur": "سیڑھیاں",
+    "id": 800
+  },
+  {
+    "de": "anfassen",
+    "p": "",
+    "en": "touch; handle",
+    "ur": "ہاتھ لگانا",
+    "id": 801
+  },
+  {
+    "de": "die Pizza",
+    "p": "",
+    "en": "pizza",
+    "ur": "پیزا",
+    "id": 802
+  },
+  {
+    "de": "der Mantel",
+    "p": "dair MAN-tel",
+    "en": "coat",
+    "ur": "کوٹ",
+    "id": 803
+  },
+  {
+    "de": "der Mittag",
+    "p": "dair MIT-tahk",
+    "en": "noon",
+    "ur": "دوپہر",
+    "id": 804
+  },
+  {
+    "de": "tausend",
+    "p": "TOW-zent",
+    "en": "thousand",
+    "ur": "ہزار",
+    "id": 805
+  },
+  {
+    "de": "neugierig",
+    "p": "NOY-gee-rikh",
+    "en": "curious",
+    "ur": "متجسس",
+    "id": 806
+  },
+  {
+    "de": "der Schrank",
+    "p": "dair shrank",
+    "en": "wardrobe / cupboard",
+    "ur": "الماری",
+    "id": 807
+  },
+  {
+    "de": "der Fremde",
+    "p": "dair FREMT-teh",
+    "en": "stranger",
+    "ur": "اجنبی",
+    "id": 808
+  },
+  {
+    "de": "die Einladung",
+    "p": "dee INE-lah-doong",
+    "en": "invitation",
+    "ur": "دعوت نامہ",
+    "id": 809
+  },
+  {
+    "de": "das Mitglied",
+    "p": "dass MIT-gleet",
+    "en": "member",
+    "ur": "رکن",
+    "id": 810
+  },
+  {
+    "de": "die Information",
+    "p": "dee in-for-ma-TSYOHN",
+    "en": "information",
+    "ur": "معلومات",
+    "id": 811
+  },
+  {
+    "de": "waschen",
+    "p": "VASH-en",
+    "en": "to wash",
+    "ur": "دھونا",
+    "id": 812
+  },
+  {
+    "de": "der Staat",
+    "p": "dair shtaht",
+    "en": "state",
+    "ur": "ریاست",
+    "id": 813
+  },
+  {
+    "de": "die Mitternacht",
+    "p": "dee MIT-ter-nakht",
+    "en": "midnight",
+    "ur": "آدھی رات",
+    "id": 814
+  },
+  {
+    "de": "lecker",
+    "p": "LEK-ker",
+    "en": "delicious",
+    "ur": "مزیدار",
+    "id": 815
+  },
+  {
+    "de": "das Internet",
+    "p": "dass IN-ter-net",
+    "en": "internet",
+    "ur": "انٹرنیٹ",
+    "id": 816
+  },
+  {
+    "de": "die Politik",
+    "p": "dee po-li-TEEK",
+    "en": "politics",
+    "ur": "سیاست",
+    "id": 817
+  },
+  {
+    "de": "der Krankenwagen",
+    "p": "dair KRANK-en-vah-gen",
+    "en": "ambulance",
+    "ur": "ایمبولینس",
+    "id": 818
+  },
+  {
+    "de": "der Schnee",
+    "p": "dair shnay",
+    "en": "snow",
+    "ur": "برف",
+    "id": 819
+  },
+  {
+    "de": "erfolgreich",
+    "p": "",
+    "en": "successful",
+    "ur": "کامیاب",
+    "id": 820
+  },
+  {
+    "de": "die Brille",
+    "p": "dee BRIL-leh",
+    "en": "glasses",
+    "ur": "عینک",
+    "id": 821
+  },
+  {
+    "id": 1387,
+    "de": "bestätigen",
+    "p": "",
+    "en": "confirm",
+    "ur": "تصدیق کرنا"
+  },
+  {
+    "de": "der Zweck",
+    "p": "dair tsvEK",
+    "en": "purpose",
+    "ur": "مقصد",
+    "id": 822
+  },
+  {
+    "de": "heutzutage",
+    "p": "",
+    "en": "nowadays",
+    "ur": "آج کل",
+    "id": 823
+  },
+  {
+    "de": "das Holz",
+    "p": "",
+    "en": "wood",
+    "ur": "لکڑی",
+    "id": 824
+  },
+  {
+    "de": "die Scheidung",
+    "p": "dee SHY-doong",
+    "en": "divorce",
+    "ur": "طلاق",
+    "id": 825
+  },
+  {
+    "de": "riechen",
+    "p": "REE-khen",
+    "en": "to smell",
+    "ur": "سونگھنا",
+    "id": 826
+  },
+  {
+    "de": "das Ei",
+    "p": "dass eye",
+    "en": "egg",
+    "ur": "انڈا",
+    "id": 827
+  },
+  {
+    "de": "solch",
+    "p": "",
+    "en": "such",
+    "ur": "ایسا",
+    "id": 828
+  },
+  {
+    "de": "meistens",
+    "p": "MY-stens",
+    "en": "mostly",
+    "ur": "زیادہ تر",
+    "id": 829
+  },
+  {
+    "de": "die Stimmung",
+    "p": "dee SHTIM-moong",
+    "en": "mood / atmosphere",
+    "ur": "مزاج / ماحول",
+    "id": 830
+  },
+  {
+    "de": "wachsen",
+    "p": "VAK-sen",
+    "en": "to grow",
+    "ur": "بڑھنا",
+    "id": 831
+  },
+  {
+    "de": "verwenden",
+    "p": "fer-VEN-den",
+    "en": "to use / apply",
+    "ur": "استعمال کرنا",
+    "id": 832
+  },
+  {
+    "de": "der Unterricht",
+    "p": "dair OON-ter-rikht",
+    "en": "lesson / class",
+    "ur": "سبق / کلاس",
+    "id": 833
+  },
+  {
+    "de": "grün",
+    "p": "grün",
+    "en": "green",
+    "ur": "ہرا",
+    "id": 834
+  },
+  {
+    "de": "einladen",
+    "p": "INE-lah-den",
+    "en": "to invite",
+    "ur": "دعوت دینا",
+    "id": 835
+  },
+  {
+    "de": "der Käse",
+    "p": "dair KAY-zeh",
+    "en": "cheese",
+    "ur": "پنیر",
+    "id": 836
+  },
+  {
+    "de": "die Gesundheit",
+    "p": "dee ge-ZOONT-hite",
+    "en": "health",
+    "ur": "صحت",
+    "id": 837
+  },
+  {
+    "de": "täglich",
+    "p": "TAYK-likh",
+    "en": "daily",
+    "ur": "روزانہ",
+    "id": 838
+  },
+  {
+    "de": "wiederholen",
+    "p": "vee-der-HOH-len",
+    "en": "to repeat",
+    "ur": "دہرانا",
+    "id": 839
+  },
+  {
+    "de": "bestellen",
+    "p": "be-SHTEL-len",
+    "en": "to order",
+    "ur": "آرڈر دینا",
+    "id": 840
+  },
+  {
+    "de": "schenken",
+    "p": "SHEN-ken",
+    "en": "to give (as a gift)",
+    "ur": "تحفہ دینا",
+    "id": 841
+  },
+  {
+    "de": "April",
+    "p": "a-PRIL",
+    "en": "April",
+    "ur": "اپریل",
+    "id": 842
+  },
+  {
+    "de": "die Öffentlichkeit",
+    "p": "dee URF-fent-likh-kite",
+    "en": "public",
+    "ur": "عوام",
+    "id": 843
+  },
+  {
+    "de": "die Maske",
+    "p": "",
+    "en": "mask",
+    "ur": "ماسک",
+    "id": 844
+  },
+  {
+    "id": 1394,
+    "de": "liefern",
+    "p": "",
+    "en": "deliver",
+    "ur": "پہنچانا"
+  },
+  {
+    "id": 1413,
+    "de": "der Antrag",
+    "p": "",
+    "en": "application; formal request",
+    "ur": "درخواست"
+  },
+  {
+    "de": "letzte Woche",
+    "p": "LETS-teh VO-kheh",
+    "en": "last week",
+    "ur": "پچھلا ہفتہ",
+    "id": 845
+  },
+  {
+    "de": "vorbereiten",
+    "p": "FOHR-be-ry-ten",
+    "en": "to prepare",
+    "ur": "تیاری کرنا",
+    "id": 846
+  },
+  {
+    "de": "der Zucker",
+    "p": "dair TSOOK-ker",
+    "en": "sugar",
+    "ur": "چینی",
+    "id": 847
+  },
+  {
+    "de": "drum",
+    "p": "",
+    "en": "therefore (colloquial)",
+    "ur": "اس لیے",
+    "id": 848
+  },
+  {
+    "id": 1490,
+    "de": "der Hinweis",
+    "p": "",
+    "en": "notice; tip",
+    "ur": "اشارہ؛ اطلاع"
+  },
+  {
+    "de": "der Tunnel",
+    "p": "",
+    "en": "tunnel",
+    "ur": "سرنگ",
+    "id": 849
+  },
+  {
+    "id": 1437,
+    "de": "die Behandlung",
+    "p": "",
+    "en": "treatment",
+    "ur": "علاج"
+  },
+  {
+    "de": "der Markt",
+    "p": "dair markt",
+    "en": "market",
+    "ur": "بازار",
+    "id": 850
+  },
+  {
+    "de": "die Serie",
+    "p": "",
+    "en": "series; TV series",
+    "ur": "سلسلہ؛ ٹی وی سیریز",
+    "id": 851
+  },
+  {
+    "de": "elf",
+    "p": "elf",
+    "en": "eleven",
+    "ur": "گیارہ",
+    "id": 852
+  },
+  {
+    "de": "schneiden",
+    "p": "",
+    "en": "cut",
+    "ur": "کاٹنا",
+    "id": 853
+  },
+  {
+    "de": "die Wissenschaft",
+    "p": "dee VIS-sen-shaft",
+    "en": "science",
+    "ur": "سائنس",
+    "id": 854
+  },
+  {
+    "de": "die Ursache",
+    "p": "dee OOR-zakh-eh",
+    "en": "cause",
+    "ur": "سبب",
+    "id": 855
+  },
+  {
+    "de": "ausziehen",
+    "p": "OWS-tsee-en",
+    "en": "to take off / move out",
+    "ur": "اتارنا",
+    "id": 856
+  },
+  {
+    "de": "pünktlich",
+    "p": "PÜNKT-likh",
+    "en": "punctual",
+    "ur": "وقت کا پابند",
+    "id": 857
+  },
+  {
+    "id": 1476,
+    "de": "der Empfang",
+    "p": "",
+    "en": "signal; reception",
+    "ur": "سگنل"
+  },
+  {
+    "de": "sparen",
+    "p": "SHPAH-ren",
+    "en": "to save",
+    "ur": "بچانا",
+    "id": 858
+  },
+  {
+    "de": "die Miete",
+    "p": "dee MEE-teh",
+    "en": "rent",
+    "ur": "کرایہ",
+    "id": 859
+  },
+  {
+    "de": "hundert",
+    "p": "HOON-dert",
+    "en": "hundred",
+    "ur": "سو",
+    "id": 860
+  },
+  {
+    "de": "Dienstag",
+    "p": "DEENS-tahk",
+    "en": "Tuesday",
+    "ur": "منگل",
+    "id": 861
+  },
+  {
+    "de": "die Suppe",
+    "p": "dee ZOOP-peh",
+    "en": "soup",
+    "ur": "شوربہ / سوپ",
+    "id": 862
+  },
+  {
+    "de": "der Vorteil",
+    "p": "dair FOHR-tile",
+    "en": "advantage",
+    "ur": "فائدہ",
+    "id": 863
+  },
+  {
+    "de": "rosa",
+    "p": "ROH-zah",
+    "en": "pink",
+    "ur": "گلابی",
+    "id": 864
+  },
+  {
+    "de": "der Stern",
+    "p": "dair shtern",
+    "en": "star",
+    "ur": "ستارہ",
+    "id": 865
+  },
+  {
+    "de": "die Wirklichkeit",
+    "p": "dee VIRK-likh-kite",
+    "en": "reality",
+    "ur": "حقیقت",
+    "id": 866
+  },
+  {
+    "de": "die Zigarette",
+    "p": "",
+    "en": "cigarette",
+    "ur": "سگریٹ",
+    "id": 867
+  },
+  {
+    "de": "eng",
+    "p": "eng",
+    "en": "narrow / tight",
+    "ur": "تنگ",
+    "id": 868
+  },
+  {
+    "de": "üben",
+    "p": "Ü-ben",
+    "en": "to practice",
+    "ur": "مشق کرنا",
+    "id": 869
+  },
+  {
+    "de": "das Fieber",
+    "p": "dass FEE-ber",
+    "en": "fever",
+    "ur": "بخار",
+    "id": 870
+  },
+  {
+    "de": "Donnerstag",
+    "p": "DON-ners-tahk",
+    "en": "Thursday",
+    "ur": "جمعرات",
+    "id": 871
+  },
+  {
+    "de": "der Sport",
+    "p": "dair shport",
+    "en": "sport",
+    "ur": "کھیل",
+    "id": 872
+  },
+  {
+    "de": "der Ausweis",
+    "p": "dair OWS-vice",
+    "en": "ID card",
+    "ur": "شناختی کارڈ",
+    "id": 873
+  },
+  {
+    "de": "die Lektion",
+    "p": "dee lek-TSYOHN",
+    "en": "lesson",
+    "ur": "سبق",
+    "id": 874
+  },
+  {
+    "de": "einkaufen",
+    "p": "INE-kow-fen",
+    "en": "to shop",
+    "ur": "خریداری کرنا",
+    "id": 875
+  },
+  {
+    "de": "die Verabredung",
+    "p": "dee fer-AHP-reh-doong",
+    "en": "date / arrangement to meet",
+    "ur": "ملاقات کا وعدہ",
+    "id": 876
+  },
+  {
+    "de": "der Kühlschrank",
+    "p": "dair KÜHL-shrank",
+    "en": "refrigerator",
+    "ur": "فریج",
+    "id": 877
+  },
+  {
+    "de": "Wie geht’s?",
+    "p": "vee gayts",
+    "en": "How are you?",
+    "ur": "آپ کیسے ہیں؟",
+    "id": 878
+  },
+  {
+    "de": "Das geht nicht",
+    "p": "dass gayt nikht",
+    "en": "That’s not possible",
+    "ur": "یہ نہیں ہو سکتا",
+    "id": 879
+  },
+  {
+    "de": "sich entschuldigen",
+    "p": "zikh ent-SHOOL-di-gen",
+    "en": "to apologize",
+    "ur": "معذرت کرنا",
+    "id": 880
+  },
+  {
+    "de": "Entschuldigen Sie",
+    "p": "ent-SHOOL-di-gen zee",
+    "en": "Excuse me (formal)",
+    "ur": "معاف کیجیے",
+    "id": 881
+  },
+  {
+    "de": "berühren",
+    "p": "",
+    "en": "touch",
+    "ur": "چھونا",
+    "id": 882
+  },
+  {
+    "de": "die Kindheit",
+    "p": "",
+    "en": "childhood",
+    "ur": "بچپن",
+    "id": 883
+  },
+  {
+    "de": "die Fabrik",
+    "p": "dee fa-BREEK",
+    "en": "factory",
+    "ur": "کارخانہ",
+    "id": 884
+  },
+  {
+    "de": "planen",
+    "p": "PLAH-nen",
+    "en": "to plan",
+    "ur": "منصوبہ بنانا",
+    "id": 885
+  },
+  {
+    "de": "Nicht schlecht",
+    "p": "nikht shlekht",
+    "en": "Not bad",
+    "ur": "برا نہیں",
+    "id": 886
+  },
+  {
+    "de": "aussteigen",
+    "p": "OWS-shty-gen",
+    "en": "to get off",
+    "ur": "اترنا",
+    "id": 887
+  },
+  {
+    "de": "der Manager",
+    "p": "",
+    "en": "manager",
+    "ur": "منیجر",
+    "id": 888
+  },
+  {
+    "de": "die Schokolade",
+    "p": "dee sho-ko-LAH-deh",
+    "en": "chocolate",
+    "ur": "چاکلیٹ",
+    "id": 889
+  },
+  {
+    "de": "die Garage",
+    "p": "",
+    "en": "garage",
+    "ur": "گیراج",
+    "id": 890
+  },
+  {
+    "de": "das Gepäck",
+    "p": "",
+    "en": "luggage",
+    "ur": "سامان",
+    "id": 891
+  },
+  {
+    "de": "telefonieren",
+    "p": "te-le-fo-NEE-ren",
+    "en": "to talk on the phone",
+    "ur": "فون پر بات کرنا",
+    "id": 892
+  },
+  {
+    "de": "die Feier",
+    "p": "dee FY-er",
+    "en": "celebration / party",
+    "ur": "تقریب / پارٹی",
+    "id": 893
+  },
+  {
+    "de": "die Jugend",
+    "p": "dee YOO-gent",
+    "en": "youth",
+    "ur": "جوانی",
+    "id": 894
+  },
+  {
+    "de": "die Technik",
+    "p": "dee TEKH-neek",
+    "en": "technology",
+    "ur": "ٹیکنالوجی",
+    "id": 895
+  },
+  {
+    "de": "das Ergebnis",
+    "p": "dass er-GAYP-nis",
+    "en": "result",
+    "ur": "نتیجہ",
+    "id": 896
+  },
+  {
+    "de": "der Euro",
+    "p": "dair OY-roh",
+    "en": "euro",
+    "ur": "یورو",
+    "id": 897
+  },
+  {
+    "de": "die Ware",
+    "p": "dee VAH-reh",
+    "en": "goods / merchandise",
+    "ur": "سامان",
+    "id": 898
+  },
+  {
+    "de": "wie oft",
+    "p": "vee oft",
+    "en": "how often",
+    "ur": "کتنی بار",
+    "id": 899
+  },
+  {
+    "de": "Keine Sorge",
+    "p": "KY-neh ZOR-geh",
+    "en": "Don’t worry",
+    "ur": "فکر نہ کرو",
+    "id": 900
+  },
+  {
+    "de": "das Material",
+    "p": "dass ma-te-ree-AHL",
+    "en": "material",
+    "ur": "مواد",
+    "id": 901
+  },
+  {
+    "de": "der Satz",
+    "p": "dair zats",
+    "en": "sentence",
+    "ur": "جملہ",
+    "id": 902
+  },
+  {
+    "de": "der Lärm",
+    "p": "dair lairm",
+    "en": "noise",
+    "ur": "شور",
+    "id": 903
+  },
+  {
+    "de": "der Arbeiter",
+    "p": "",
+    "en": "worker",
+    "ur": "مزدور",
+    "id": 904
+  },
+  {
+    "de": "der Teller",
+    "p": "dair TEL-ler",
+    "en": "plate",
+    "ur": "پلیٹ",
+    "id": 905
+  },
+  {
+    "id": 1419,
+    "de": "das Original",
+    "p": "",
+    "en": "original document",
+    "ur": "اصل دستاویز"
+  },
+  {
+    "id": 1418,
+    "de": "die Kopie",
+    "p": "",
+    "en": "copy",
+    "ur": "نقل"
+  },
+  {
+    "de": "beschreiben",
+    "p": "be-SHRY-ben",
+    "en": "to describe",
+    "ur": "بیان کرنا",
+    "id": 906
+  },
+  {
+    "de": "notwendig",
+    "p": "",
+    "en": "necessary",
+    "ur": "ضروری",
+    "id": 907
+  },
+  {
+    "de": "das Fahrrad",
+    "p": "dass FAR-raht",
+    "en": "bicycle",
+    "ur": "سائیکل",
+    "id": 908
+  },
+  {
+    "de": "bequem",
+    "p": "be-KVAYM",
+    "en": "comfortable",
+    "ur": "آرام دہ",
+    "id": 909
+  },
+  {
+    "de": "der Kollege",
+    "p": "dair kol-LAY-geh",
+    "en": "colleague",
+    "ur": "ساتھی (کام کا)",
+    "id": 910
+  },
+  {
+    "de": "das Konto",
+    "p": "dass KON-toh",
+    "en": "bank account",
+    "ur": "کھاتہ",
+    "id": 911
+  },
+  {
+    "de": "Auf Wiedersehen",
+    "p": "owf VEE-der-zay-en",
+    "en": "Goodbye",
+    "ur": "خدا حافظ",
+    "id": 912
+  },
+  {
+    "de": "umziehen",
+    "p": "OOM-tsee-en",
+    "en": "to move house",
+    "ur": "گھر بدلنا",
+    "id": 913
+  },
+  {
+    "de": "typisch",
+    "p": "TÜ-pish",
+    "en": "typical",
+    "ur": "عام / مخصوص",
+    "id": 914
+  },
+  {
+    "de": "die Universität",
+    "p": "dee oo-ni-ver-zi-TAYT",
+    "en": "university",
+    "ur": "جامعہ",
+    "id": 915
+  },
+  {
+    "de": "Mai",
+    "p": "my",
+    "en": "May",
+    "ur": "مئی",
+    "id": 916
+  },
+  {
+    "de": "der Koch",
+    "p": "dair kokh",
+    "en": "cook / chef",
+    "ur": "باورچی",
+    "id": 917
+  },
+  {
+    "de": "die Prüfung",
+    "p": "dee PRÜ-foong",
+    "en": "exam",
+    "ur": "امتحان",
+    "id": 918
+  },
+  {
+    "de": "die Versicherung",
+    "p": "dee fer-ZIKH-er-oong",
+    "en": "insurance",
+    "ur": "بیمہ",
+    "id": 919
+  },
+  {
+    "de": "mitmachen",
+    "p": "MIT-makh-en",
+    "en": "to join in / participate",
+    "ur": "شامل ہونا / حصہ لینا",
+    "id": 920
+  },
+  {
+    "de": "die Ehefrau",
+    "p": "dee AY-eh-frow",
+    "en": "wife",
+    "ur": "بیوی",
+    "id": 921
+  },
+  {
+    "de": "die Bibliothek",
+    "p": "dee bib-lyo-TAYK",
+    "en": "library",
+    "ur": "لائبریری",
+    "id": 922
+  },
+  {
+    "de": "das Gewicht",
+    "p": "dass ge-VIKHT",
+    "en": "weight",
+    "ur": "وزن",
+    "id": 923
+  },
+  {
+    "de": "der Bahnhof",
+    "p": "dair BAHN-hohf",
+    "en": "train station",
+    "ur": "ریلوے اسٹیشن",
+    "id": 924
+  },
+  {
+    "de": "das Konzert",
+    "p": "dass kon-TSAIRT",
+    "en": "concert",
+    "ur": "کنسرٹ",
+    "id": 925
+  },
+  {
+    "de": "leihen",
+    "p": "LY-en",
+    "en": "to lend / borrow",
+    "ur": "ادھار دینا / لینا",
+    "id": 926
+  },
+  {
+    "de": "die Übung",
+    "p": "dee Ü-boong",
+    "en": "exercise / practice",
+    "ur": "مشق",
+    "id": 927
+  },
+  {
+    "de": "die Cousine",
+    "p": "dee koo-ZEE-neh",
+    "en": "cousin (female)",
+    "ur": "کزن",
+    "id": 928
+  },
+  {
+    "id": 1493,
+    "de": "die Umgebung",
+    "p": "",
+    "en": "surroundings; area",
+    "ur": "آس پاس کا علاقہ"
+  },
+  {
+    "de": "mitbringen",
+    "p": "MIT-bring-en",
+    "en": "to bring along",
+    "ur": "ساتھ لانا",
+    "id": 929
+  },
+  {
+    "de": "der Erwachsene",
+    "p": "dair er-VAKH-seh-neh",
+    "en": "adult",
+    "ur": "بالغ",
+    "id": 930
+  },
+  {
+    "de": "durchsuchen",
+    "p": "",
+    "en": "search through",
+    "ur": "تلاشی لینا",
+    "id": 931
+  },
+  {
+    "de": "sich setzen",
+    "p": "zikh ZET-sen",
+    "en": "to sit down",
+    "ur": "بیٹھ جانا",
+    "id": 932
+  },
+  {
+    "id": 1478,
+    "de": "die Lieferung",
+    "p": "",
+    "en": "delivery",
+    "ur": "ترسیل"
+  },
+  {
+    "de": "studieren",
+    "p": "shtoo-DEE-ren",
+    "en": "to study (at university)",
+    "ur": "جامعہ میں پڑھنا",
+    "id": 933
+  },
+  {
+    "de": "duschen",
+    "p": "DOO-shen",
+    "en": "to shower",
+    "ur": "نہانا",
+    "id": 934
+  },
+  {
+    "de": "das Museum",
+    "p": "dass moo-ZAY-oom",
+    "en": "museum",
+    "ur": "عجائب گھر",
+    "id": 935
+  },
+  {
+    "de": "die Therapie",
+    "p": "",
+    "en": "therapy",
+    "ur": "علاج",
+    "id": 936
+  },
+  {
+    "de": "die Ankunft",
+    "p": "dee AN-koonft",
+    "en": "arrival",
+    "ur": "آمد",
+    "id": 937
+  },
+  {
+    "de": "die Nation",
+    "p": "dee na-TSYOHN",
+    "en": "nation",
+    "ur": "قوم",
+    "id": 938
+  },
+  {
+    "de": "der Kunde",
+    "p": "dair KOON-deh",
+    "en": "customer",
+    "ur": "گاہک",
+    "id": 939
+  },
+  {
+    "de": "August",
+    "p": "ow-GOOST",
+    "en": "August",
+    "ur": "اگست",
+    "id": 940
+  },
+  {
+    "de": "hell",
+    "p": "hel",
+    "en": "bright / light",
+    "ur": "روشن",
+    "id": 941
+  },
+  {
+    "de": "das Wohnzimmer",
+    "p": "dass VOHN-tsim-mer",
+    "en": "living room",
+    "ur": "بیٹھک",
+    "id": 942
+  },
+  {
+    "de": "nirgends",
+    "p": "NEER-gents",
+    "en": "nowhere",
+    "ur": "کہیں نہیں",
+    "id": 943
+  },
+  {
+    "de": "der Durst",
+    "p": "",
+    "en": "thirst",
+    "ur": "پیاس",
+    "id": 944
+  },
+  {
+    "de": "schmutzig",
+    "p": "SHMOOT-sikh",
+    "en": "dirty",
+    "ur": "گندا",
+    "id": 945
+  },
+  {
+    "de": "Juli",
+    "p": "YOO-lee",
+    "en": "July",
+    "ur": "جولائی",
+    "id": 946
+  },
+  {
+    "de": "das Spielzeug",
+    "p": "",
+    "en": "toy",
+    "ur": "کھلونا",
+    "id": 947
+  },
+  {
+    "de": "trocken",
+    "p": "TROK-ken",
+    "en": "dry",
+    "ur": "خشک",
+    "id": 948
+  },
+  {
+    "de": "nächste Woche",
+    "p": "NAYKH-steh VO-kheh",
+    "en": "next week",
+    "ur": "اگلا ہفتہ",
+    "id": 949
+  },
+  {
+    "de": "der Schmuck",
+    "p": "dair shmook",
+    "en": "jewelry",
+    "ur": "زیورات",
+    "id": 950
+  },
+  {
+    "de": "der Ausgang",
+    "p": "dair OWS-gang",
+    "en": "exit",
+    "ur": "باہر نکلنے کا راستہ",
+    "id": 951
+  },
+  {
+    "de": "die Steuer",
+    "p": "dee SHTOY-er",
+    "en": "tax",
+    "ur": "ٹیکس",
+    "id": 952
+  },
+  {
+    "de": "die Ausbildung",
+    "p": "dee OWS-bil-doong",
+    "en": "training / education",
+    "ur": "تربیت / تعلیم",
+    "id": 953
+  },
+  {
+    "de": "Mittwoch",
+    "p": "MIT-vokh",
+    "en": "Wednesday",
+    "ur": "بدھ",
+    "id": 954
+  },
+  {
+    "de": "die Gegenwart",
+    "p": "dee GAY-gen-vart",
+    "en": "present (time)",
+    "ur": "حال",
+    "id": 955
+  },
+  {
+    "de": "schmecken",
+    "p": "SHMEK-ken",
+    "en": "to taste",
+    "ur": "ذائقہ ہونا",
+    "id": 956
+  },
+  {
+    "id": 1375,
+    "de": "klappen",
+    "p": "",
+    "en": "work out",
+    "ur": "کام بن جانا"
+  },
+  {
+    "de": "blicken",
+    "p": "",
+    "en": "look; glance",
+    "ur": "دیکھنا",
+    "id": 957
+  },
+  {
+    "de": "diskutieren",
+    "p": "dis-koo-TEE-ren",
+    "en": "to discuss",
+    "ur": "بحث کرنا",
+    "id": 958
+  },
+  {
+    "de": "das Apartment",
+    "p": "",
+    "en": "apartment",
+    "ur": "اپارٹمنٹ",
+    "id": 959
+  },
+  {
+    "de": "der Führerschein",
+    "p": "dair FÜR-er-shine",
+    "en": "driver's license",
+    "ur": "ڈرائیونگ لائسنس",
+    "id": 960
+  },
+  {
+    "de": "der Enkel",
+    "p": "dair EN-kel",
+    "en": "grandson",
+    "ur": "پوتا / نواسہ",
+    "id": 961
+  },
+  {
+    "de": "der Stift",
+    "p": "dair shtift",
+    "en": "pen / pencil",
+    "ur": "قلم",
+    "id": 962
+  },
+  {
+    "de": "das Interview",
+    "p": "",
+    "en": "interview",
+    "ur": "انٹرویو",
+    "id": 963
+  },
+  {
+    "de": "die Werbung",
+    "p": "dee VAIR-boong",
+    "en": "advertising",
+    "ur": "اشتہار",
+    "id": 964
+  },
+  {
+    "de": "der Handel",
+    "p": "dair HAN-del",
+    "en": "trade / commerce",
+    "ur": "تجارت",
+    "id": 965
+  },
+  {
+    "de": "der Schuh",
+    "p": "dair shoo",
+    "en": "shoe",
+    "ur": "جوتا",
+    "id": 966
+  },
+  {
+    "de": "die Tradition",
+    "p": "",
+    "en": "tradition",
+    "ur": "روایت",
+    "id": 967
+  },
+  {
+    "de": "das Sandwich",
+    "p": "",
+    "en": "sandwich",
+    "ur": "سینڈوچ",
+    "id": 968
+  },
+  {
+    "de": "einsteigen",
+    "p": "INE-shty-gen",
+    "en": "to get on / board",
+    "ur": "سوار ہونا",
+    "id": 969
+  },
+  {
+    "de": "ausmachen",
+    "p": "OWS-makh-en",
+    "en": "to turn off / switch off",
+    "ur": "بند کرنا / آف کرنا",
+    "id": 970
+  },
+  {
+    "de": "malen",
+    "p": "MAH-len",
+    "en": "to paint",
+    "ur": "رنگنا / پینٹ کرنا",
+    "id": 971
+  },
+  {
+    "de": "der Verkehr",
+    "p": "dair fer-KAYR",
+    "en": "traffic",
+    "ur": "ٹریفک",
+    "id": 972
+  },
+  {
+    "id": 1380,
+    "de": "zurückgeben",
+    "p": "",
+    "en": "return; give back",
+    "ur": "واپس کرنا"
+  },
+  {
+    "de": "die Ausnahme",
+    "p": "",
+    "en": "exception",
+    "ur": "استثنا",
+    "id": 973
+  },
+  {
+    "de": "ankommen",
+    "p": "AN-kom-men",
+    "en": "to arrive",
+    "ur": "پہنچنا",
+    "id": 974
+  },
+  {
+    "de": "die Trauer",
+    "p": "dee TROW-er",
+    "en": "sadness / grief",
+    "ur": "غم / اداسی",
+    "id": 975
+  },
+  {
+    "de": "der Aufzug",
+    "p": "dair OWF-tsook",
+    "en": "elevator",
+    "ur": "لفٹ",
+    "id": 976
+  },
+  {
+    "de": "bestrafen",
+    "p": "",
+    "en": "punish",
+    "ur": "سزا دینا",
+    "id": 977
+  },
+  {
+    "de": "die Religion",
+    "p": "dee re-li-GYOHN",
+    "en": "religion",
+    "ur": "مذہب",
+    "id": 978
+  },
+  {
+    "de": "die Unterschrift",
+    "p": "dee OON-ter-shrift",
+    "en": "signature",
+    "ur": "دستخط",
+    "id": 979
+  },
+  {
+    "de": "der Eingang",
+    "p": "dair INE-gang",
+    "en": "entrance",
+    "ur": "داخلہ",
+    "id": 980
+  },
+  {
+    "de": "vorhaben",
+    "p": "FOHR-hah-ben",
+    "en": "to plan / intend",
+    "ur": "ارادہ ہونا / منصوبہ ہونا",
+    "id": 981
+  },
+  {
+    "de": "die Kultur",
+    "p": "dee kool-TOOR",
+    "en": "culture",
+    "ur": "ثقافت",
+    "id": 982
+  },
+  {
+    "de": "sich erinnern",
+    "p": "zikh er-IN-nern",
+    "en": "to remember",
+    "ur": "یاد رکھنا / یاد آنا",
+    "id": 983
+  },
+  {
+    "de": "die Nichte",
+    "p": "dee NIKH-teh",
+    "en": "niece",
+    "ur": "بھتیجی / بھانجی",
+    "id": 984
+  },
+  {
+    "de": "privat",
+    "p": "pri-VAHT",
+    "en": "private",
+    "ur": "نجی",
+    "id": 985
+  },
+  {
+    "de": "das Salz",
+    "p": "dass zalts",
+    "en": "salt",
+    "ur": "نمک",
+    "id": 986
+  },
+  {
+    "de": "die Krankenschwester",
+    "p": "",
+    "en": "nurse",
+    "ur": "نرس",
+    "id": 987
+  },
+  {
+    "de": "das Café",
+    "p": "dass ka-FAY",
+    "en": "café",
+    "ur": "کیفے",
+    "id": 988
+  },
+  {
+    "de": "September",
+    "p": "zep-TEM-ber",
+    "en": "September",
+    "ur": "ستمبر",
+    "id": 989
+  },
+  {
+    "de": "putzen",
+    "p": "POOT-sen",
+    "en": "to clean",
+    "ur": "صاف کرنا",
+    "id": 990
+  },
+  {
+    "de": "die Verspätung",
+    "p": "dee fer-SHPAY-toong",
+    "en": "delay",
+    "ur": "تاخیر",
+    "id": 991
+  },
+  {
+    "de": "entdecken",
+    "p": "ent-DEK-ken",
+    "en": "to discover",
+    "ur": "دریافت کرنا",
+    "id": 992
+  },
+  {
+    "de": "die Mannschaft",
+    "p": "dee MAN-shaft",
+    "en": "team",
+    "ur": "ٹیم",
+    "id": 993
+  },
+  {
+    "de": "ausschalten",
+    "p": "OWS-shal-ten",
+    "en": "to switch off",
+    "ur": "بند کرنا",
+    "id": 994
+  },
+  {
+    "de": "Ich suche …",
+    "p": "ikh ZOO-kheh",
+    "en": "I’m looking for …",
+    "ur": "میں … ڈھونڈ رہا ہوں",
+    "id": 995
+  },
+  {
+    "id": 1445,
+    "de": "die Kaution",
+    "p": "",
+    "en": "rental deposit",
+    "ur": "زرِ ضمانت"
+  },
+  {
+    "de": "billig",
+    "p": "BIL-likh",
+    "en": "cheap",
+    "ur": "سستا",
+    "id": 996
+  },
+  {
+    "de": "Juni",
+    "p": "YOO-nee",
+    "en": "June",
+    "ur": "جون",
+    "id": 997
+  },
+  {
+    "de": "der Nachbar",
+    "p": "dair NAKH-bar",
+    "en": "neighbor",
+    "ur": "پڑوسی",
+    "id": 998
+  },
+  {
+    "de": "der Nebel",
+    "p": "dair NAY-bel",
+    "en": "fog",
+    "ur": "دھند",
+    "id": 999
+  },
+  {
+    "de": "jedes Mal",
+    "p": "YAY-des mahl",
+    "en": "every time",
+    "ur": "ہر بار",
+    "id": 1000
+  },
+  {
+    "de": "besetzt",
+    "p": "be-ZETST",
+    "en": "occupied / busy",
+    "ur": "مصروف / بھرا ہوا",
+    "id": 1001
+  },
+  {
+    "id": 1484,
+    "de": "der Blutdruck",
+    "p": "",
+    "en": "blood pressure",
+    "ur": "بلڈ پریشر"
+  },
+  {
+    "de": "ausgeben",
+    "p": "OWS-gay-ben",
+    "en": "to spend",
+    "ur": "خرچ کرنا",
+    "id": 1002
+  },
+  {
+    "de": "die Blume",
+    "p": "dee BLOO-meh",
+    "en": "flower",
+    "ur": "پھول",
+    "id": 1003
+  },
+  {
+    "de": "die Partei",
+    "p": "",
+    "en": "political party",
+    "ur": "سیاسی جماعت",
+    "id": 1004
+  },
+  {
+    "id": 1494,
+    "de": "die Entfernung",
+    "p": "",
+    "en": "distance",
+    "ur": "فاصلہ"
+  },
+  {
+    "de": "das Bargeld",
+    "p": "dass BAR-gelt",
+    "en": "cash",
+    "ur": "نقد رقم",
+    "id": 1005
+  },
+  {
+    "de": "öffentlich",
+    "p": "URF-fent-likh",
+    "en": "public",
+    "ur": "عوامی",
+    "id": 1006
+  },
+  {
+    "de": "das Kissen",
+    "p": "dass KIS-sen",
+    "en": "pillow",
+    "ur": "تکیہ",
+    "id": 1007
+  },
+  {
+    "de": "der Salat",
+    "p": "dair za-LAHT",
+    "en": "salad",
+    "ur": "سلاد",
+    "id": 1008
+  },
+  {
+    "id": 1462,
+    "de": "die Schicht",
+    "p": "",
+    "en": "work shift",
+    "ur": "کام کی شفٹ"
+  },
+  {
+    "de": "intelligent",
+    "p": "",
+    "en": "intelligent",
+    "ur": "ذہین",
+    "id": 1009
+  },
+  {
+    "de": "die Brieftasche",
+    "p": "",
+    "en": "wallet",
+    "ur": "بٹوہ",
+    "id": 1010
+  },
+  {
+    "de": "Deutsch",
+    "p": "doych",
+    "en": "German (language)",
+    "ur": "جرمن",
+    "id": 1011
+  },
+  {
+    "de": "der Lohn",
+    "p": "dair lohn",
+    "en": "wage",
+    "ur": "اجرت",
+    "id": 1012
+  },
+  {
+    "de": "zustimmen",
+    "p": "TSOO-shtim-men",
+    "en": "to agree",
+    "ur": "اتفاق کرنا",
+    "id": 1013
+  },
+  {
+    "de": "nutzlos",
+    "p": "",
+    "en": "useless",
+    "ur": "بےکار",
+    "id": 1014
+  },
+  {
+    "de": "die Medien",
+    "p": "dee MAY-dee-en",
+    "en": "media",
+    "ur": "میڈیا",
+    "id": 1015
+  },
+  {
+    "de": "faul",
+    "p": "fowl",
+    "en": "lazy",
+    "ur": "سست",
+    "id": 1016
+  },
+  {
+    "de": "das Sofa",
+    "p": "dass ZOH-fah",
+    "en": "sofa / couch",
+    "ur": "صوفہ",
+    "id": 1017
+  },
+  {
+    "de": "die Butter",
+    "p": "dee BOOT-ter",
+    "en": "butter",
+    "ur": "مکھن",
+    "id": 1018
+  },
+  {
+    "de": "die Nachbarschaft",
+    "p": "dee NAKH-bar-shaft",
+    "en": "neighborhood",
+    "ur": "محلہ",
+    "id": 1019
+  },
+  {
+    "de": "der Saft",
+    "p": "dair zaft",
+    "en": "juice",
+    "ur": "جوس",
+    "id": 1020
+  },
+  {
+    "de": "die Werkstatt",
+    "p": "dee VAIRK-shtat",
+    "en": "workshop / garage",
+    "ur": "ورکشاپ / گاڑی کی مرمت کی جگہ",
+    "id": 1021
+  },
+  {
+    "de": "das Gemüse",
+    "p": "dass ge-MÜ-zeh",
+    "en": "vegetables",
+    "ur": "سبزیاں",
+    "id": 1022
+  },
+  {
+    "de": "füttern",
+    "p": "",
+    "en": "feed",
+    "ur": "کھلانا",
+    "id": 1023
+  },
+  {
+    "de": "der Zahn",
+    "p": "dair tsahn",
+    "en": "tooth",
+    "ur": "دانت",
+    "id": 1024
+  },
+  {
+    "de": "die Bahn",
+    "p": "dee bahn",
+    "en": "train / railway",
+    "ur": "ریل",
+    "id": 1025
+  },
+  {
+    "id": 1383,
+    "de": "sich kümmern",
+    "p": "",
+    "en": "take care of",
+    "ur": "دیکھ بھال کرنا"
+  },
+  {
+    "de": "Oktober",
+    "p": "ok-TOH-ber",
+    "en": "October",
+    "ur": "اکتوبر",
+    "id": 1026
+  },
+  {
+    "de": "die Lampe",
+    "p": "dee LAM-peh",
+    "en": "lamp",
+    "ur": "لیمپ",
+    "id": 1027
+  },
+  {
+    "de": "der Frühling",
+    "p": "dair FRÜ-ling",
+    "en": "spring",
+    "ur": "بہار",
+    "id": 1028
+  },
+  {
+    "de": "dünn",
+    "p": "dün",
+    "en": "thin",
+    "ur": "پتلا",
+    "id": 1029
+  },
+  {
+    "de": "das Gehalt",
+    "p": "dass ge-HALT",
+    "en": "salary",
+    "ur": "تنخواہ",
+    "id": 1030
+  },
+  {
+    "de": "die Diskussion",
+    "p": "dee dis-koo-SYOHN",
+    "en": "discussion",
+    "ur": "بحث",
+    "id": 1031
+  },
+  {
+    "de": "die Forschung",
+    "p": "dee FOR-shoong",
+    "en": "research",
+    "ur": "تحقیق",
+    "id": 1032
+  },
+  {
+    "de": "geradeaus",
+    "p": "ge-RAH-de-ows",
+    "en": "straight ahead",
+    "ur": "سیدھا",
+    "id": 1033
+  },
+  {
+    "de": "die Kasse",
+    "p": "dee KAS-seh",
+    "en": "checkout / cash register",
+    "ur": "کیش کاؤنٹر",
+    "id": 1034
+  },
+  {
+    "de": "das Werkzeug",
+    "p": "",
+    "en": "tool",
+    "ur": "اوزار",
+    "id": 1035
+  },
+  {
+    "de": "der Neffe",
+    "p": "dair NEF-feh",
+    "en": "nephew",
+    "ur": "بھتیجا / بھانجا",
+    "id": 1036
+  },
+  {
+    "de": "der Zoo",
+    "p": "dair tsoh",
+    "en": "zoo",
+    "ur": "چڑیا گھر",
+    "id": 1037
+  },
+  {
+    "id": 1385,
+    "de": "vorschlagen",
+    "p": "",
+    "en": "suggest",
+    "ur": "تجویز کرنا"
+  },
+  {
+    "de": "das Ticket",
+    "p": "dass TI-ket",
+    "en": "ticket",
+    "ur": "ٹکٹ",
+    "id": 1038
+  },
+  {
+    "de": "das heißt",
+    "p": "dass hyst",
+    "en": "that means",
+    "ur": "یعنی",
+    "id": 1039
+  },
+  {
+    "de": "der Reis",
+    "p": "dair rice",
+    "en": "rice",
+    "ur": "چاول",
+    "id": 1040
+  },
+  {
+    "de": "unterrichten",
+    "p": "oon-ter-RIKH-ten",
+    "en": "to teach",
+    "ur": "پڑھانا",
+    "id": 1041
+  },
+  {
+    "de": "der Kredit",
+    "p": "dair kre-DEET",
+    "en": "loan / credit",
+    "ur": "قرض",
+    "id": 1042
+  },
+  {
+    "de": "präsentieren",
+    "p": "",
+    "en": "present; introduce",
+    "ur": "پیش کرنا",
+    "id": 1043
+  },
+  {
+    "de": "breit",
+    "p": "brite",
+    "en": "wide",
+    "ur": "چوڑا",
+    "id": 1044
+  },
+  {
+    "de": "der Apfel",
+    "p": "dair AP-fel",
+    "en": "apple",
+    "ur": "سیب",
+    "id": 1045
+  },
+  {
+    "de": "die Heirat",
+    "p": "",
+    "en": "marriage",
+    "ur": "شادی",
+    "id": 1046
+  },
+  {
+    "id": 1435,
+    "de": "die Notaufnahme",
+    "p": "",
+    "en": "emergency department",
+    "ur": "ہنگامی طبی شعبہ"
+  },
+  {
+    "de": "das Datum",
+    "p": "dass DAH-toom",
+    "en": "date",
+    "ur": "تاریخ",
+    "id": 1047
+  },
+  {
+    "id": 1401,
+    "de": "sich fühlen",
+    "p": "",
+    "en": "feel",
+    "ur": "محسوس کرنا"
+  },
+  {
+    "de": "zwanzig",
+    "p": "TSVAN-tsikh",
+    "en": "twenty",
+    "ur": "بیس",
+    "id": 1048
+  },
+  {
+    "de": "November",
+    "p": "no-VEM-ber",
+    "en": "November",
+    "ur": "نومبر",
+    "id": 1049
+  },
+  {
+    "id": 1497,
+    "de": "der Notruf",
+    "p": "",
+    "en": "emergency call",
+    "ur": "ہنگامی کال"
+  },
+  {
+    "id": 1368,
+    "de": "häufig",
+    "p": "",
+    "en": "often",
+    "ur": "اکثر"
+  },
+  {
+    "de": "die Tüte",
+    "p": "dee TÜ-teh",
+    "en": "bag (plastic/paper)",
+    "ur": "تھیلا",
+    "id": 1050
+  },
+  {
+    "de": "Dezember",
+    "p": "day-TSEM-ber",
+    "en": "December",
+    "ur": "دسمبر",
+    "id": 1051
+  },
+  {
+    "de": "das Handtuch",
+    "p": "dass HANT-tookh",
+    "en": "towel",
+    "ur": "تولیہ",
+    "id": 1052
+  },
+  {
+    "de": "wertvoll",
+    "p": "",
+    "en": "valuable",
+    "ur": "قیمتی",
+    "id": 1053
+  },
+  {
+    "de": "die Kommunikation",
+    "p": "",
+    "en": "communication",
+    "ur": "رابطہ",
+    "id": 1054
+  },
+  {
+    "de": "die Mütze",
+    "p": "dee MÜT-seh",
+    "en": "cap / hat",
+    "ur": "ٹوپی",
+    "id": 1055
+  },
+  {
+    "de": "Gern geschehen",
+    "p": "gern ge-SHAY-en",
+    "en": "You’re welcome",
+    "ur": "خوشی سے",
+    "id": 1056
+  },
+  {
+    "id": 1377,
+    "de": "absagen",
+    "p": "",
+    "en": "cancel",
+    "ur": "منسوخ کرنا"
+  },
+  {
+    "de": "die Temperatur",
+    "p": "",
+    "en": "temperature",
+    "ur": "درجہ حرارت",
+    "id": 1057
+  },
+  {
+    "id": 1433,
+    "de": "die Verletzung",
+    "p": "",
+    "en": "injury",
+    "ur": "چوٹ"
+  },
+  {
+    "de": "aufräumen",
+    "p": "OWF-roy-men",
+    "en": "to tidy up",
+    "ur": "صفائی کرنا / ترتیب دینا",
+    "id": 1058
+  },
+  {
+    "id": 1386,
+    "de": "ablehnen",
+    "p": "",
+    "en": "decline; reject",
+    "ur": "انکار کرنا"
+  },
+  {
+    "de": "März",
+    "p": "merts",
+    "en": "March",
+    "ur": "مارچ",
+    "id": 1059
+  },
+  {
+    "de": "abschalten",
+    "p": "",
+    "en": "switch off",
+    "ur": "بند کرنا",
+    "id": 1060
+  },
+  {
+    "de": "die Gemeinschaft",
+    "p": "dee ge-MINE-shaft",
+    "en": "community",
+    "ur": "برادری",
+    "id": 1061
+  },
+  {
+    "de": "der Zahnarzt",
+    "p": "dair TSAHN-artst",
+    "en": "dentist",
+    "ur": "دانتوں کا ڈاکٹر",
+    "id": 1062
+  },
+  {
+    "de": "übermorgen",
+    "p": "Ü-ber-mor-gen",
+    "en": "day after tomorrow",
+    "ur": "آنے والا پرسوں",
+    "id": 1063
+  },
+  {
+    "de": "die Schweiz",
+    "p": "dee shvites",
+    "en": "Switzerland",
+    "ur": "سوئٹزرلینڈ",
+    "id": 1064
+  },
+  {
+    "de": "vergleichen",
+    "p": "fer-GLY-khen",
+    "en": "to compare",
+    "ur": "موازنہ کرنا",
+    "id": 1065
+  },
+  {
+    "de": "der Herbst",
+    "p": "dair hairpst",
+    "en": "autumn",
+    "ur": "خزاں",
+    "id": 1066
+  },
+  {
+    "id": 1479,
+    "de": "die Auswahl",
+    "p": "",
+    "en": "selection; choice",
+    "ur": "انتخاب"
+  },
+  {
+    "de": "die Besprechung",
+    "p": "dee be-SHPRE-khoong",
+    "en": "meeting",
+    "ur": "اجلاس",
+    "id": 1067
+  },
+  {
+    "id": 1457,
+    "de": "der Feierabend",
+    "p": "",
+    "en": "end of the workday",
+    "ur": "کام کے دن کا اختتام"
+  },
+  {
+    "id": 1403,
+    "de": "einnehmen",
+    "p": "",
+    "en": "take (medicine)",
+    "ur": "دوا لینا"
+  },
+  {
+    "id": 1429,
+    "de": "der Husten",
+    "p": "",
+    "en": "cough",
+    "ur": "کھانسی"
+  },
+  {
+    "de": "der Rucksack",
+    "p": "dair ROOK-zak",
+    "en": "backpack",
+    "ur": "پیٹھ کا بیگ",
+    "id": 1068
+  },
+  {
+    "de": "draußen",
+    "p": "DROW-ssen",
+    "en": "outside",
+    "ur": "باہر",
+    "id": 1069
+  },
+  {
+    "de": "die Tankstelle",
+    "p": "dee TANK-shtel-leh",
+    "en": "gas station",
+    "ur": "پٹرول پمپ",
+    "id": 1070
+  },
+  {
+    "de": "gelb",
+    "p": "gelp",
+    "en": "yellow",
+    "ur": "پیلا",
+    "id": 1071
+  },
+  {
+    "de": "das Produkt",
+    "p": "dass pro-DOOKT",
+    "en": "product",
+    "ur": "پروڈکٹ",
+    "id": 1072
+  },
+  {
+    "de": "orange",
+    "p": "o-RAHN-zheh",
+    "en": "orange",
+    "ur": "نارنجی",
+    "id": 1073
+  },
+  {
+    "de": "Das macht nichts",
+    "p": "dass makht nikhts",
+    "en": "It doesn’t matter",
+    "ur": "کوئی بات نہیں",
+    "id": 1074
+  },
+  {
+    "de": "der Supermarkt",
+    "p": "dair ZOO-per-markt",
+    "en": "supermarket",
+    "ur": "سپر مارکیٹ",
+    "id": 1075
+  },
+  {
+    "de": "der Verwandte",
+    "p": "",
+    "en": "relative",
+    "ur": "رشتہ دار",
+    "id": 1076
+  },
+  {
+    "de": "Januar",
+    "p": "YAN-oo-ar",
+    "en": "January",
+    "ur": "جنوری",
+    "id": 1077
+  },
+  {
+    "de": "die Qualität",
+    "p": "dee kva-li-TAYT",
+    "en": "quality",
+    "ur": "معیار",
+    "id": 1078
+  },
+  {
+    "de": "braun",
+    "p": "brown",
+    "en": "brown",
+    "ur": "بھورا",
+    "id": 1079
+  },
+  {
+    "de": "der Löffel",
+    "p": "dair LUR-fel",
+    "en": "spoon",
+    "ur": "چمچ",
+    "id": 1080
+  },
+  {
+    "id": 1496,
+    "de": "der Fahrstuhl",
+    "p": "",
+    "en": "elevator; lift",
+    "ur": "لفٹ"
+  },
+  {
+    "de": "die Wirtschaft",
+    "p": "dee VIRTSHaft",
+    "en": "economy",
+    "ur": "معیشت",
+    "id": 1081
+  },
+  {
+    "de": "fremd",
+    "p": "fremt",
+    "en": "foreign / strange",
+    "ur": "اجنبی",
+    "id": 1082
+  },
+  {
+    "id": 1421,
+    "de": "der Schalter",
+    "p": "",
+    "en": "service counter",
+    "ur": "کاؤنٹر"
+  },
+  {
+    "de": "Zahlen, bitte",
+    "p": "TSAH-len BIT-teh",
+    "en": "The bill, please",
+    "ur": "بل، براہِ مہربانی",
+    "id": 1083
+  },
+  {
+    "id": 1439,
+    "de": "die Dosis",
+    "p": "",
+    "en": "dose",
+    "ur": "خوراک"
+  },
+  {
+    "de": "klettern",
+    "p": "",
+    "en": "climb",
+    "ur": "چڑھنا",
+    "id": 1084
+  },
+  {
+    "de": "Februar",
+    "p": "FAY-broo-ar",
+    "en": "February",
+    "ur": "فروری",
+    "id": 1085
+  },
+  {
+    "de": "die Feuerwehr",
+    "p": "dee FOY-er-vair",
+    "en": "fire brigade",
+    "ur": "فائر بریگیڈ",
+    "id": 1086
+  },
+  {
+    "id": 1452,
+    "de": "der Hausmeister",
+    "p": "",
+    "en": "caretaker; building manager",
+    "ur": "عمارت کا نگران"
+  },
+  {
+    "de": "das Hobby",
+    "p": "",
+    "en": "hobby",
+    "ur": "مشغلہ",
+    "id": 1087
+  },
+  {
+    "id": 1461,
+    "de": "die Kollegin",
+    "p": "",
+    "en": "colleague (female)",
+    "ur": "ساتھی کارکن"
+  },
+  {
+    "de": "siegen",
+    "p": "",
+    "en": "win; triumph",
+    "ur": "جیتنا",
+    "id": 1088
+  },
+  {
+    "de": "Gute Reise",
+    "p": "GOO-teh RY-zeh",
+    "en": "Have a good trip",
+    "ur": "سفر بخیر",
+    "id": 1089
+  },
+  {
+    "id": 1489,
+    "de": "die Bestätigung",
+    "p": "",
+    "en": "confirmation",
+    "ur": "تصدیق"
+  },
+  {
+    "de": "der Ingenieur",
+    "p": "dair in-zhen-YUR",
+    "en": "engineer",
+    "ur": "انجینئر",
+    "id": 1090
+  },
+  {
+    "de": "Freut mich",
+    "p": "froyt mikh",
+    "en": "Nice to meet you",
+    "ur": "آپ سے مل کر خوشی ہوئی",
+    "id": 1091
+  },
+  {
+    "de": "das Dokument",
+    "p": "",
+    "en": "document",
+    "ur": "دستاویز",
+    "id": 1092
+  },
+  {
+    "de": "bellen",
+    "p": "",
+    "en": "bark (of a dog)",
+    "ur": "بھونکنا",
+    "id": 1093
+  },
+  {
+    "id": 1477,
+    "de": "die Bestellung",
+    "p": "",
+    "en": "order",
+    "ur": "آرڈر"
+  },
+  {
+    "de": "zum Beispiel",
+    "p": "tsoom BY-shpeel",
+    "en": "for example",
+    "ur": "مثال کے طور پر",
+    "id": 1094
+  },
+  {
+    "de": "backen",
+    "p": "BAK-ken",
+    "en": "to bake",
+    "ur": "بیک کرنا",
+    "id": 1095
+  },
+  {
+    "de": "zeichnen",
+    "p": "TSYKH-nen",
+    "en": "to draw",
+    "ur": "تصویر بنانا",
+    "id": 1096
+  },
+  {
+    "de": "das Medikament",
+    "p": "dass me-di-ka-MENT",
+    "en": "medicine",
+    "ur": "دوا",
+    "id": 1097
+  },
+  {
+    "de": "das Argument",
+    "p": "dass ar-goo-MENT",
+    "en": "argument",
+    "ur": "دلیل",
+    "id": 1098
+  },
+  {
+    "de": "das Kleingeld",
+    "p": "dass KLINE-gelt",
+    "en": "small change",
+    "ur": "چھوٹے پیسے / کھلے پیسے",
+    "id": 1099
+  },
+  {
+    "de": "verschieden",
+    "p": "fer-SHEE-den",
+    "en": "various / different",
+    "ur": "مختلف",
+    "id": 1100
+  },
+  {
+    "de": "die Ausstellung",
+    "p": "dee OWS-shtel-loong",
+    "en": "exhibition",
+    "ur": "نمائش",
+    "id": 1101
+  },
+  {
+    "de": "das Obst",
+    "p": "dass ohpst",
+    "en": "fruit",
+    "ur": "پھل",
+    "id": 1102
+  },
+  {
+    "de": "die Batterie",
+    "p": "",
+    "en": "battery",
+    "ur": "بیٹری",
+    "id": 1103
+  },
+  {
+    "de": "der Balkon",
+    "p": "dair bal-KOHN",
+    "en": "balcony",
+    "ur": "بالکنی",
+    "id": 1104
+  },
+  {
+    "de": "die Wolke",
+    "p": "dee VOL-keh",
+    "en": "cloud",
+    "ur": "بادل",
+    "id": 1105
+  },
+  {
+    "de": "die Erziehung",
+    "p": "dee er-TSEE-oong",
+    "en": "upbringing / parenting",
+    "ur": "پرورش",
+    "id": 1106
+  },
+  {
+    "de": "der Verkäufer",
+    "p": "dair fer-KOY-fer",
+    "en": "salesperson",
+    "ur": "دکاندار",
+    "id": 1107
+  },
+  {
+    "de": "die Enkelin",
+    "p": "dee EN-keh-lin",
+    "en": "granddaughter",
+    "ur": "پوتی / نواسی",
+    "id": 1108
+  },
+  {
+    "de": "der Student",
+    "p": "dair shtoo-DENT",
+    "en": "student (university)",
+    "ur": "طالب علم",
+    "id": 1109
+  },
+  {
+    "id": 1432,
+    "de": "der Schwindel",
+    "p": "",
+    "en": "dizziness",
+    "ur": "چکر"
+  },
+  {
+    "de": "der Ausländer",
+    "p": "dair OWS-len-der",
+    "en": "foreigner",
+    "ur": "غیر ملکی",
+    "id": 1110
+  },
+  {
+    "de": "die Apotheke",
+    "p": "dee a-po-TAY-keh",
+    "en": "pharmacy",
+    "ur": "دوا خانہ",
+    "id": 1111
+  },
+  {
+    "de": "grau",
+    "p": "grow",
+    "en": "gray",
+    "ur": "سرمئی",
+    "id": 1112
+  },
+  {
+    "de": "Ich liebe dich",
+    "p": "ikh LEE-beh dikh",
+    "en": "I love you",
+    "ur": "میں تم سے محبت کرتا ہوں",
+    "id": 1113
+  },
+  {
+    "de": "einschalten",
+    "p": "INE-shal-ten",
+    "en": "to switch on",
+    "ur": "چالو کرنا",
+    "id": 1114
+  },
+  {
+    "de": "die Nudeln",
+    "p": "dee NOO-deln",
+    "en": "noodles / pasta",
+    "ur": "نوڈلز / پاستا",
+    "id": 1115
+  },
+  {
+    "de": "die Bildung",
+    "p": "dee BIL-doong",
+    "en": "education",
+    "ur": "تعلیم",
+    "id": 1116
+  },
+  {
+    "de": "das Parfüm",
+    "p": "",
+    "en": "perfume",
+    "ur": "خوشبو",
+    "id": 1117
+  },
+  {
+    "de": "die Garantie",
+    "p": "dee ga-ran-TEE",
+    "en": "guarantee / warranty",
+    "ur": "ضمانت",
+    "id": 1118
+  },
+  {
+    "de": "regnen",
+    "p": "RAYG-nen",
+    "en": "to rain",
+    "ur": "بارش ہونا",
+    "id": 1119
+  },
+  {
+    "de": "entweder … oder",
+    "p": "ENT-vay-der OH-der",
+    "en": "either … or",
+    "ur": "یا تو … یا",
+    "id": 1120
+  },
+  {
+    "de": "die Note",
+    "p": "dee NOH-teh",
+    "en": "grade / mark",
+    "ur": "نمبر / گریڈ",
+    "id": 1121
+  },
+  {
+    "de": "die Datei",
+    "p": "",
+    "en": "file",
+    "ur": "فائل",
+    "id": 1122
+  },
+  {
+    "id": 1473,
+    "de": "der Herd",
+    "p": "",
+    "en": "stove; cooker",
+    "ur": "چولہا"
+  },
+  {
+    "de": "verbieten",
+    "p": "fer-BEE-ten",
+    "en": "to forbid",
+    "ur": "منع کرنا",
+    "id": 1123
+  },
+  {
+    "de": "die Zeitschrift",
+    "p": "dee TSITE-shrift",
+    "en": "magazine",
+    "ur": "رسالہ",
+    "id": 1124
+  },
+  {
+    "de": "die Jahreszeit",
+    "p": "dee YAH-res-tsite",
+    "en": "season",
+    "ur": "موسم",
+    "id": 1125
+  },
+  {
+    "de": "drucken",
+    "p": "DROOK-ken",
+    "en": "to print",
+    "ur": "چھاپنا",
+    "id": 1126
+  },
+  {
+    "de": "die Kreuzung",
+    "p": "dee KROY-tsoong",
+    "en": "intersection / crossroads",
+    "ur": "چوراہا",
+    "id": 1127
+  },
+  {
+    "de": "der Spaß",
+    "p": "dair shpahs",
+    "en": "fun",
+    "ur": "مزہ",
+    "id": 1128
+  },
+  {
+    "de": "zerbrechen",
+    "p": "",
+    "en": "break; shatter",
+    "ur": "توڑنا؛ ٹوٹ جانا",
+    "id": 1129
+  },
+  {
+    "de": "die Straße",
+    "p": "dee SHTRAH-sseh",
+    "en": "street",
+    "ur": "سڑک",
+    "id": 1130
+  },
+  {
+    "de": "das Feuerzeug",
+    "p": "",
+    "en": "lighter",
+    "ur": "لائٹر",
+    "id": 1131
+  },
+  {
+    "de": "durstig",
+    "p": "DOOR-stikh",
+    "en": "thirsty",
+    "ur": "پیاسا",
+    "id": 1132
+  },
+  {
+    "de": "zumachen",
+    "p": "TSOO-makh-en",
+    "en": "to close (up)",
+    "ur": "بند کرنا",
+    "id": 1133
+  },
+  {
+    "de": "der Lebenslauf",
+    "p": "dair LAY-bens-lowf",
+    "en": "CV / resume",
+    "ur": "سوانح عمری",
+    "id": 1134
+  },
+  {
+    "de": "vorgestern",
+    "p": "FOHR-ges-tern",
+    "en": "day before yesterday",
+    "ur": "گزشتہ پرسوں",
+    "id": 1135
+  },
+  {
+    "de": "der Kindergarten",
+    "p": "dair KIN-der-gar-ten",
+    "en": "kindergarten",
+    "ur": "کنڈرگارٹن",
+    "id": 1136
+  },
+  {
+    "de": "das Regal",
+    "p": "dass ray-GAHL",
+    "en": "shelf",
+    "ur": "شیلف",
+    "id": 1137
+  },
+  {
+    "id": 1499,
+    "de": "der Umzug",
+    "p": "",
+    "en": "move; moving house",
+    "ur": "گھر کی منتقلی"
+  },
+  {
+    "de": "außer",
+    "p": "OW-ser",
+    "en": "except",
+    "ur": "سوائے",
+    "id": 1138
+  },
+  {
+    "de": "das Leder",
+    "p": "",
+    "en": "leather",
+    "ur": "چمڑا",
+    "id": 1139
+  },
+  {
+    "de": "übersetzen",
+    "p": "ü-ber-ZET-sen",
+    "en": "to translate",
+    "ur": "ترجمہ کرنا",
+    "id": 1140
+  },
+  {
+    "de": "die Gewohnheit",
+    "p": "",
+    "en": "habit",
+    "ur": "عادت",
+    "id": 1141
+  },
+  {
+    "de": "der Nerv",
+    "p": "",
+    "en": "nerve",
+    "ur": "عصب",
+    "id": 1142
+  },
+  {
+    "de": "korrigieren",
+    "p": "ko-ri-GEE-ren",
+    "en": "to correct",
+    "ur": "درست کرنا",
+    "id": 1143
+  },
+  {
+    "de": "fünfzehn",
+    "p": "FÜNF-tsayn",
+    "en": "fifteen",
+    "ur": "پندرہ",
+    "id": 1144
+  },
+  {
+    "de": "die Quittung",
+    "p": "dee KVIT-toong",
+    "en": "receipt",
+    "ur": "رسید",
+    "id": 1145
+  },
+  {
+    "de": "am Wochenende",
+    "p": "am VO-khen-en-deh",
+    "en": "at the weekend",
+    "ur": "ہفتہ وار تعطیل پر",
+    "id": 1146
+  },
+  {
+    "de": "Schönes Wochenende",
+    "p": "SHUR-nes VO-khen-en-deh",
+    "en": "Have a nice weekend",
+    "ur": "ہفتہ وار تعطیل اچھی گزرے",
+    "id": 1147
+  },
+  {
+    "de": "das Gewitter",
+    "p": "dass ge-VIT-ter",
+    "en": "thunderstorm",
+    "ur": "آندھی طوفان",
+    "id": 1148
+  },
+  {
+    "id": 1498,
+    "de": "die Baustelle",
+    "p": "",
+    "en": "construction site",
+    "ur": "تعمیراتی جگہ"
+  },
+  {
+    "de": "die Umwelt",
+    "p": "dee OOM-velt",
+    "en": "environment",
+    "ur": "ماحول",
+    "id": 1149
+  },
+  {
+    "de": "Wie sagt man …?",
+    "p": "vee zahkt man",
+    "en": "How do you say …?",
+    "ur": "… کیسے کہتے ہیں؟",
+    "id": 1150
+  },
+  {
+    "de": "bitter",
+    "p": "",
+    "en": "bitter",
+    "ur": "کڑوا",
+    "id": 1151
+  },
+  {
+    "id": 1422,
+    "de": "die Behörde",
+    "p": "",
+    "en": "government office; authority",
+    "ur": "سرکاری ادارہ"
+  },
+  {
+    "de": "modern",
+    "p": "mo-DERN",
+    "en": "modern",
+    "ur": "جدید",
+    "id": 1152
+  },
+  {
+    "de": "die Erkältung",
+    "p": "dee er-KEL-toong",
+    "en": "cold (illness)",
+    "ur": "زکام",
+    "id": 1153
+  },
+  {
+    "de": "die Gabel",
+    "p": "dee GAH-bel",
+    "en": "fork",
+    "ur": "کانٹا",
+    "id": 1154
+  },
+  {
+    "de": "groß",
+    "p": "grohss",
+    "en": "big",
+    "ur": "بڑا",
+    "id": 1155
+  },
+  {
+    "de": "der Ratschlag",
+    "p": "",
+    "en": "advice",
+    "ur": "مشورہ",
+    "id": 1156
+  },
+  {
+    "de": "die Kündigung",
+    "p": "dee KÜN-di-goong",
+    "en": "notice / termination",
+    "ur": "اطلاع / نوکری سے فارغ کرنا",
+    "id": 1157
+  },
+  {
+    "de": "der Handschuh",
+    "p": "",
+    "en": "glove",
+    "ur": "دستانہ",
+    "id": 1158
+  },
+  {
+    "de": "anmachen",
+    "p": "AN-makh-en",
+    "en": "to turn on / switch on",
+    "ur": "چالو کرنا / آن کرنا",
+    "id": 1159
+  },
+  {
+    "de": "das Haustier",
+    "p": "dass HOWS-teer",
+    "en": "pet",
+    "ur": "پالتو جانور",
+    "id": 1160
+  },
+  {
+    "de": "kostenlos",
+    "p": "KOS-ten-lohs",
+    "en": "free of charge",
+    "ur": "مفت",
+    "id": 1161
+  },
+  {
+    "de": "die Banane",
+    "p": "dee ba-NAH-neh",
+    "en": "banana",
+    "ur": "کیلا",
+    "id": 1162
+  },
+  {
+    "de": "die Abfahrt",
+    "p": "dee AP-fahrt",
+    "en": "departure",
+    "ur": "روانگی",
+    "id": 1163
+  },
+  {
+    "id": 1450,
+    "de": "der Briefkasten",
+    "p": "",
+    "en": "mailbox",
+    "ur": "خطوط کا ڈبہ"
+  },
+  {
+    "id": 1448,
+    "de": "die Reparatur",
+    "p": "",
+    "en": "repair",
+    "ur": "مرمت"
+  },
+  {
+    "de": "sich freuen",
+    "p": "zikh FROY-en",
+    "en": "to be glad",
+    "ur": "خوش ہونا",
+    "id": 1164
+  },
+  {
+    "de": "fünfzig",
+    "p": "FÜNF-tsikh",
+    "en": "fifty",
+    "ur": "پچاس",
+    "id": 1165
+  },
+  {
+    "id": 1416,
+    "de": "ausfüllen",
+    "p": "",
+    "en": "fill in a form",
+    "ur": "فارم پُر کرنا"
+  },
+  {
+    "de": "das Vorstellungsgespräch",
+    "p": "dass FOHR-shtel-loongs-ge-shpraykh",
+    "en": "job interview",
+    "ur": "ملازمت کا انٹرویو",
+    "id": 1166
+  },
+  {
+    "de": "der Passagier",
+    "p": "",
+    "en": "passenger",
+    "ur": "مسافر",
+    "id": 1167
+  },
+  {
+    "id": 1444,
+    "de": "der Mieter",
+    "p": "",
+    "en": "tenant",
+    "ur": "کرایہ دار"
+  },
+  {
+    "de": "Was machst du?",
+    "p": "vas makhst doo",
+    "en": "What are you doing?",
+    "ur": "تم کیا کر رہے ہو؟",
+    "id": 1168
+  },
+  {
+    "de": "schnarchen",
+    "p": "",
+    "en": "snore",
+    "ur": "خراٹے لینا",
+    "id": 1169
+  },
+  {
+    "id": 1370,
+    "de": "spätestens",
+    "p": "",
+    "en": "at the latest",
+    "ur": "زیادہ سے زیادہ"
+  },
+  {
+    "de": "Ich habe Angst",
+    "p": "ikh HAH-beh angst",
+    "en": "I’m afraid",
+    "ur": "مجھے ڈر لگ رہا ہے",
+    "id": 1170
+  },
+  {
+    "id": 1482,
+    "de": "das Pflaster",
+    "p": "",
+    "en": "plaster; bandage",
+    "ur": "پٹی"
+  },
+  {
+    "de": "die Ampel",
+    "p": "dee AM-pel",
+    "en": "traffic light",
+    "ur": "ٹریفک لائٹ",
+    "id": 1171
+  },
+  {
+    "de": "abstimmen",
+    "p": "",
+    "en": "vote",
+    "ur": "ووٹ دینا",
+    "id": 1172
+  },
+  {
+    "id": 1488,
+    "de": "die Änderung",
+    "p": "",
+    "en": "change; modification",
+    "ur": "تبدیلی"
+  },
+  {
+    "de": "Österreich",
+    "p": "UR-ster-rykh",
+    "en": "Austria",
+    "ur": "آسٹریا",
+    "id": 1173
+  },
+  {
+    "de": "das Formular",
+    "p": "dass for-moo-LAHR",
+    "en": "form",
+    "ur": "فارم",
+    "id": 1174
+  },
+  {
+    "de": "das Zeugnis",
+    "p": "dass TSYKH-nis",
+    "en": "certificate / report card",
+    "ur": "سند / رپورٹ کارڈ",
+    "id": 1175
+  },
+  {
+    "id": 1390,
+    "de": "losfahren",
+    "p": "",
+    "en": "set off; depart",
+    "ur": "روانہ ہونا"
+  },
+  {
+    "de": "der Feiertag",
+    "p": "dair FY-er-tahk",
+    "en": "public holiday",
+    "ur": "سرکاری تعطیل",
+    "id": 1176
+  },
+  {
+    "id": 1442,
+    "de": "der Vermieter",
+    "p": "",
+    "en": "landlord",
+    "ur": "مکان مالک"
+  },
+  {
+    "de": "klicken",
+    "p": "KLIK-ken",
+    "en": "to click",
+    "ur": "کلک کرنا",
+    "id": 1177
+  },
+  {
+    "id": 1371,
+    "de": "währenddessen",
+    "p": "",
+    "en": "meanwhile",
+    "ur": "اس دوران"
+  },
+  {
+    "de": "die Fahrkarte",
+    "p": "dee FAHR-kar-teh",
+    "en": "ticket (for transport)",
+    "ur": "سفر کا ٹکٹ",
+    "id": 1178
+  },
+  {
+    "de": "der Vormittag",
+    "p": "dair FOHR-mit-tahk",
+    "en": "late morning",
+    "ur": "دوپہر سے پہلے کا وقت",
+    "id": 1179
+  },
+  {
+    "de": "der Verein",
+    "p": "dair fer-INE",
+    "en": "club / association",
+    "ur": "کلب / انجمن",
+    "id": 1180
+  },
+  {
+    "id": 1469,
+    "de": "das Wechselgeld",
+    "p": "",
+    "en": "change (money)",
+    "ur": "بقایا رقم"
+  },
+  {
+    "de": "die Socke",
+    "p": "",
+    "en": "sock",
+    "ur": "جراب",
+    "id": 1181
+  },
+  {
+    "de": "dreizehn",
+    "p": "DRY-tsayn",
+    "en": "thirteen",
+    "ur": "تیرہ",
+    "id": 1182
+  },
+  {
+    "de": "der Stau",
+    "p": "dair shtow",
+    "en": "traffic jam",
+    "ur": "ٹریفک جام",
+    "id": 1183
+  },
+  {
+    "de": "der Pfeffer",
+    "p": "",
+    "en": "pepper",
+    "ur": "کالی مرچ",
+    "id": 1184
+  },
+  {
+    "de": "eigen",
+    "p": "",
+    "en": "own",
+    "ur": "اپنا",
+    "id": 1185
+  },
+  {
+    "de": "die Bewerbung",
+    "p": "dee be-VAIR-boong",
+    "en": "job application",
+    "ur": "ملازمت کی درخواست",
+    "id": 1186
+  },
+  {
+    "de": "die Industrie",
+    "p": "dee in-doos-TREE",
+    "en": "industry",
+    "ur": "صنعت",
+    "id": 1187
+  },
+  {
+    "de": "das Hähnchen",
+    "p": "dass HAYN-khen",
+    "en": "chicken",
+    "ur": "مرغی",
+    "id": 1188
+  },
+  {
+    "de": "anmelden",
+    "p": "AN-mel-den",
+    "en": "to register",
+    "ur": "رجسٹر کرنا",
+    "id": 1189
+  },
+  {
+    "de": "das Klima",
+    "p": "",
+    "en": "climate",
+    "ur": "آب و ہوا",
+    "id": 1190
+  },
+  {
+    "de": "die Grundschule",
+    "p": "dee GROONT-shoo-leh",
+    "en": "primary school",
+    "ur": "ابتدائی اسکول",
+    "id": 1191
+  },
+  {
+    "de": "der Rabatt",
+    "p": "dair ra-BAT",
+    "en": "discount",
+    "ur": "رعایت",
+    "id": 1192
+  },
+  {
+    "de": "sich beeilen",
+    "p": "zikh be-EYE-len",
+    "en": "to hurry",
+    "ur": "جلدی کرنا",
+    "id": 1193
+  },
+  {
+    "de": "der Spielplatz",
+    "p": "dair SHP EEL-plats",
+    "en": "playground",
+    "ur": "کھیل کا میدان",
+    "id": 1194
+  },
+  {
+    "de": "die Waschmaschine",
+    "p": "dee VASH-ma-shee-neh",
+    "en": "washing machine",
+    "ur": "واشنگ مشین",
+    "id": 1195
+  },
+  {
+    "de": "das Treppenhaus",
+    "p": "",
+    "en": "stairwell",
+    "ur": "سیڑھیوں والا حصہ",
+    "id": 1196
+  },
+  {
+    "de": "der Gleis",
+    "p": "dair glice",
+    "en": "platform / track",
+    "ur": "ریل کی پٹری / پلیٹ فارم",
+    "id": 1197
+  },
+  {
+    "de": "Ich brauche Hilfe",
+    "p": "ikh BROW-kheh HIL-feh",
+    "en": "I need help",
+    "ur": "مجھے مدد چاہیے",
+    "id": 1198
+  },
+  {
+    "de": "Ich hätte gern …",
+    "p": "ikh HET-teh gern",
+    "en": "I would like …",
+    "ur": "مجھے … چاہیے",
+    "id": 1199
+  },
+  {
+    "de": "Ich verstehe nicht",
+    "p": "ikh fer-SHTAY-eh nikht",
+    "en": "I don’t understand",
+    "ur": "میں نہیں سمجھا",
+    "id": 1200
+  },
+  {
+    "de": "der Bleistift",
+    "p": "",
+    "en": "pencil",
+    "ur": "پنسل",
+    "id": 1201
+  },
+  {
+    "de": "Herzlichen Glückwunsch",
+    "p": "HERTS-likh-en GLÜK-voonsh",
+    "en": "Congratulations",
+    "ur": "مبارک ہو",
+    "id": 1202
+  },
+  {
+    "id": 1398,
+    "de": "wischen",
+    "p": "",
+    "en": "wipe; mop",
+    "ur": "صاف کرنا"
+  },
+  {
+    "de": "die Speisekarte",
+    "p": "dee SHPY-zeh-kar-teh",
+    "en": "menu",
+    "ur": "مینو",
+    "id": 1203
+  },
+  {
+    "id": 1395,
+    "de": "zurückschicken",
+    "p": "",
+    "en": "send back",
+    "ur": "واپس بھیجنا"
+  },
+  {
+    "de": "Ich habe vergessen",
+    "p": "ikh HAH-beh fer-GES-sen",
+    "en": "I forgot",
+    "ur": "میں بھول گیا",
+    "id": 1204
+  },
+  {
+    "de": "vierzig",
+    "p": "FEER-tsikh",
+    "en": "forty",
+    "ur": "چالیس",
+    "id": 1205
+  },
+  {
+    "id": 1492,
+    "de": "der Alltag",
+    "p": "",
+    "en": "everyday life",
+    "ur": "روزمرہ زندگی"
+  },
+  {
+    "de": "Ich komme aus …",
+    "p": "ikh KOM-meh ows",
+    "en": "I come from …",
+    "ur": "میں … سے ہوں",
+    "id": 1206
+  },
+  {
+    "de": "Ich komme gleich",
+    "p": "ikh KOM-meh glykh",
+    "en": "I’ll be right there",
+    "ur": "میں ابھی آتا ہوں",
+    "id": 1207
+  },
+  {
+    "de": "die Frist",
+    "p": "dee frist",
+    "en": "deadline",
+    "ur": "آخری تاریخ",
+    "id": 1208
+  },
+  {
+    "id": 1392,
+    "de": "reservieren",
+    "p": "",
+    "en": "reserve",
+    "ur": "بک کرنا"
+  },
+  {
+    "de": "die Postkarte",
+    "p": "",
+    "en": "postcard",
+    "ur": "پوسٹ کارڈ",
+    "id": 1209
+  },
+  {
+    "de": "heißen",
+    "p": "HY-ssen",
+    "en": "to be called",
+    "ur": "نام ہونا",
+    "id": 1210
+  },
+  {
+    "de": "Pakistan",
+    "p": "PA-kis-tahn",
+    "en": "Pakistan",
+    "ur": "پاکستان",
+    "id": 1211
+  },
+  {
+    "de": "abfahren",
+    "p": "AP-fah-ren",
+    "en": "to depart",
+    "ur": "روانہ ہونا",
+    "id": 1212
+  },
+  {
+    "de": "tschüss",
+    "p": "tchüss",
+    "en": "bye",
+    "ur": "خدا حافظ",
+    "id": 1213
+  },
+  {
+    "de": "sich interessieren",
+    "p": "zikh in-te-re-SEE-ren",
+    "en": "to be interested",
+    "ur": "دلچسپی رکھنا",
+    "id": 1214
+  },
+  {
+    "id": 1388,
+    "de": "überweisen",
+    "p": "",
+    "en": "transfer money",
+    "ur": "رقم منتقل کرنا"
+  },
+  {
+    "de": "der Nachteil",
+    "p": "dair NAKH-tile",
+    "en": "disadvantage",
+    "ur": "نقصان",
+    "id": 1215
+  },
+  {
+    "de": "die Kartoffel",
+    "p": "dee kar-TOF-fel",
+    "en": "potato",
+    "ur": "آلو",
+    "id": 1216
+  },
+  {
+    "de": "die Tablette",
+    "p": "dee ta-BLET-teh",
+    "en": "tablet / pill",
+    "ur": "گولی",
+    "id": 1217
+  },
+  {
+    "de": "die Serviette",
+    "p": "dee zer-VYET-teh",
+    "en": "napkin",
+    "ur": "رومال",
+    "id": 1218
+  },
+  {
+    "de": "buchstabieren",
+    "p": "bookh-shta-BEE-ren",
+    "en": "to spell",
+    "ur": "ہجے کرنا",
+    "id": 1219
+  },
+  {
+    "id": 1402,
+    "de": "niesen",
+    "p": "",
+    "en": "sneeze",
+    "ur": "چھینکنا"
+  },
+  {
+    "id": 1431,
+    "de": "die Übelkeit",
+    "p": "",
+    "en": "nausea",
+    "ur": "متلی"
+  },
+  {
+    "de": "vierzehn",
+    "p": "FEER-tsayn",
+    "en": "fourteen",
+    "ur": "چودہ",
+    "id": 1220
+  },
+  {
+    "de": "das Visum",
+    "p": "dass VEE-zoom",
+    "en": "visa",
+    "ur": "ویزا",
+    "id": 1221
+  },
+  {
+    "id": 1424,
+    "de": "das Finanzamt",
+    "p": "",
+    "en": "tax office",
+    "ur": "ٹیکس دفتر"
+  },
+  {
+    "id": 1384,
+    "de": "nachfragen",
+    "p": "",
+    "en": "ask; follow up",
+    "ur": "دوبارہ پوچھنا"
+  },
+  {
+    "de": "der Bauernhof",
+    "p": "dair BOW-ern-hohf",
+    "en": "farm",
+    "ur": "فارم",
+    "id": 1222
+  },
+  {
+    "de": "die Moschee",
+    "p": "dee mo-SHAY",
+    "en": "mosque",
+    "ur": "مسجد",
+    "id": 1223
+  },
+  {
+    "id": 1451,
+    "de": "die Mülltonne",
+    "p": "",
+    "en": "rubbish bin",
+    "ur": "کوڑے دان"
+  },
+  {
+    "de": "heiß",
+    "p": "hice",
+    "en": "hot",
+    "ur": "بہت گرم",
+    "id": 1224
+  },
+  {
+    "de": "der Fuß",
+    "p": "dair fooss",
+    "en": "foot",
+    "ur": "پاؤں",
+    "id": 1225
+  },
+  {
+    "de": "jährlich",
+    "p": "YAIR-likh",
+    "en": "yearly",
+    "ur": "سالانہ",
+    "id": 1226
+  },
+  {
+    "de": "spazieren gehen",
+    "p": "shpa-TSEE-ren GAY-en",
+    "en": "to go for a walk",
+    "ur": "سیر کرنا",
+    "id": 1227
+  },
+  {
+    "de": "das Schwimmbad",
+    "p": "dass SHVIM-baht",
+    "en": "swimming pool",
+    "ur": "سوئمنگ پول",
+    "id": 1228
+  },
+  {
+    "de": "die Landwirtschaft",
+    "p": "dee LANT-virtshaft",
+    "en": "agriculture",
+    "ur": "زراعت",
+    "id": 1229
+  },
+  {
+    "de": "am liebsten",
+    "p": "am LEEP-sten",
+    "en": "most of all",
+    "ur": "سب سے زیادہ",
+    "id": 1230
+  },
+  {
+    "de": "Woher kommst du?",
+    "p": "vo-HAIR komst doo",
+    "en": "Where are you from?",
+    "ur": "تم کہاں سے ہو؟",
+    "id": 1231
+  },
+  {
+    "de": "zubereiten",
+    "p": "",
+    "en": "prepare (food)",
+    "ur": "تیار کرنا",
+    "id": 1232
+  },
+  {
+    "id": 1454,
+    "de": "der Mietvertrag",
+    "p": "",
+    "en": "rental agreement",
+    "ur": "کرایہ داری کا معاہدہ"
+  },
+  {
+    "de": "das Wörterbuch",
+    "p": "dass VUR-ter-bookh",
+    "en": "dictionary",
+    "ur": "لغت",
+    "id": 1233
+  },
+  {
+    "de": "das Rindfleisch",
+    "p": "dass RINT-flysh",
+    "en": "beef",
+    "ur": "گائے کا گوشت",
+    "id": 1234
+  },
+  {
+    "de": "beschränken",
+    "p": "",
+    "en": "limit; restrict",
+    "ur": "محدود کرنا",
+    "id": 1235
+  },
+  {
+    "id": 1399,
+    "de": "lüften",
+    "p": "",
+    "en": "air out",
+    "ur": "ہوا لگانا"
+  },
+  {
+    "de": "der Regenschirm",
+    "p": "dair RAY-gen-shirm",
+    "en": "umbrella",
+    "ur": "چھتری",
+    "id": 1236
+  },
+  {
+    "de": "Was bedeutet das?",
+    "p": "vas be-DOY-tet dass",
+    "en": "What does that mean?",
+    "ur": "اس کا کیا مطلب ہے؟",
+    "id": 1237
+  },
+  {
+    "de": "sechzehn",
+    "p": "ZEKH-tsayn",
+    "en": "sixteen",
+    "ur": "سولہ",
+    "id": 1238
+  },
+  {
+    "de": "speichern",
+    "p": "SHPY-khern",
+    "en": "to save (data)",
+    "ur": "محفوظ کرنا",
+    "id": 1239
+  },
+  {
+    "id": 1468,
+    "de": "das Pfand",
+    "p": "",
+    "en": "deposit on a bottle or container",
+    "ur": "بوتل کی ضمانتی رقم"
+  },
+  {
+    "id": 1483,
+    "de": "die Salbe",
+    "p": "",
+    "en": "ointment",
+    "ur": "مرہم"
+  },
+  {
+    "de": "der Buchstabe",
+    "p": "dair BOOKH-shtah-beh",
+    "en": "letter (of alphabet)",
+    "ur": "حرف",
+    "id": 1240
+  },
+  {
+    "de": "die Überweisung",
+    "p": "dee ü-ber-VY-zoong",
+    "en": "bank transfer",
+    "ur": "بینک ٹرانسفر",
+    "id": 1241
+  },
+  {
+    "de": "die Haltestelle",
+    "p": "dee HAL-teh-shtel-leh",
+    "en": "bus stop",
+    "ur": "بس سٹاپ",
+    "id": 1242
+  },
+  {
+    "de": "Ich nehme das",
+    "p": "ikh NAY-meh dass",
+    "en": "I’ll take this",
+    "ur": "میں یہ لوں گا",
+    "id": 1243
+  },
+  {
+    "de": "Das gefällt mir",
+    "p": "dass ge-FELT meer",
+    "en": "I like that",
+    "ur": "مجھے یہ پسند ہے",
+    "id": 1244
+  },
+  {
+    "de": "Langsamer, bitte",
+    "p": "LANG-za-mer BIT-teh",
+    "en": "Slower, please",
+    "ur": "آہستہ، براہِ مہربانی",
+    "id": 1245
+  },
+  {
+    "de": "Es geht mir gut",
+    "p": "es gayt meer goot",
+    "en": "I’m doing well",
+    "ur": "میں ٹھیک ہوں",
+    "id": 1246
+  },
+  {
+    "de": "die Anmeldung",
+    "p": "dee AN-mel-doong",
+    "en": "registration",
+    "ur": "رجسٹریشن",
+    "id": 1247
+  },
+  {
+    "de": "siebzehn",
+    "p": "ZEEP-tsayn",
+    "en": "seventeen",
+    "ur": "سترہ",
+    "id": 1248
+  },
+  {
+    "de": "Guten Appetit",
+    "p": "GOO-ten a-pe-TEET",
+    "en": "Enjoy your meal",
+    "ur": "نوش جان کیجیے",
+    "id": 1249
+  },
+  {
+    "de": "das Vitamin",
+    "p": "",
+    "en": "vitamin",
+    "ur": "وٹامن",
+    "id": 1250
+  },
+  {
+    "id": 1447,
+    "de": "der Wasserhahn",
+    "p": "",
+    "en": "tap; faucet",
+    "ur": "نل"
+  },
+  {
+    "de": "achtzehn",
+    "p": "AKH-tsayn",
+    "en": "eighteen",
+    "ur": "اٹھارہ",
+    "id": 1251
+  },
+  {
+    "de": "schließen",
+    "p": "SHLEE-ssen",
+    "en": "to close",
+    "ur": "بند کرنا",
+    "id": 1252
+  },
+  {
+    "de": "die Emotion",
+    "p": "",
+    "en": "emotion",
+    "ur": "جذبہ",
+    "id": 1253
+  },
+  {
+    "de": "süß",
+    "p": "züss",
+    "en": "sweet",
+    "ur": "میٹھا",
+    "id": 1254
+  },
+  {
+    "de": "der Einkauf",
+    "p": "dair INE-kowf",
+    "en": "purchase / shopping",
+    "ur": "خریداری",
+    "id": 1255
+  },
+  {
+    "de": "der Fluss",
+    "p": "dair flooss",
+    "en": "river",
+    "ur": "دریا",
+    "id": 1256
+  },
+  {
+    "id": 1458,
+    "de": "die Arbeitszeit",
+    "p": "",
+    "en": "working hours",
+    "ur": "کام کے اوقات"
+  },
+  {
+    "de": "die Aussprache",
+    "p": "dee OWS-shprah-kheh",
+    "en": "pronunciation",
+    "ur": "تلفظ",
+    "id": 1257
+  },
+  {
+    "de": "die Gebühr",
+    "p": "dee ge-BÜR",
+    "en": "fee / charge",
+    "ur": "فیس / محصول",
+    "id": 1258
+  },
+  {
+    "de": "die Fremdsprache",
+    "p": "dee FREMT-shprah-kheh",
+    "en": "foreign language",
+    "ur": "غیر ملکی زبان",
+    "id": 1259
+  },
+  {
+    "id": 1443,
+    "de": "die Vermieterin",
+    "p": "",
+    "en": "landlady",
+    "ur": "مکان مالکہ"
+  },
+  {
+    "de": "die Hochschule",
+    "p": "dee HOHKH-shoo-leh",
+    "en": "college / university",
+    "ur": "کالج / یونیورسٹی",
+    "id": 1260
+  },
+  {
+    "de": "monatlich",
+    "p": "MOH-nat-likh",
+    "en": "monthly",
+    "ur": "ماہانہ",
+    "id": 1261
+  },
+  {
+    "id": 1466,
+    "de": "der Beleg",
+    "p": "",
+    "en": "receipt; proof of purchase",
+    "ur": "رسید"
+  },
+  {
+    "id": 1366,
+    "de": "schließlich",
+    "p": "",
+    "en": "finally; after all",
+    "ur": "آخرکار؛ آخر تو"
+  },
+  {
+    "de": "wöchentlich",
+    "p": "VUR-khent-likh",
+    "en": "weekly",
+    "ur": "ہفتہ وار",
+    "id": 1262
+  },
+  {
+    "id": 1486,
+    "de": "die Voraussetzung",
+    "p": "",
+    "en": "requirement; prerequisite",
+    "ur": "شرط؛ لازمی تقاضا"
+  },
+  {
+    "de": "schneien",
+    "p": "SHNY-en",
+    "en": "to snow",
+    "ur": "برف باری ہونا",
+    "id": 1263
+  },
+  {
+    "id": 1480,
+    "de": "die Wartung",
+    "p": "",
+    "en": "maintenance",
+    "ur": "دیکھ بھال"
+  },
+  {
+    "de": "die Großmutter",
+    "p": "dee GROHS-moot-ter",
+    "en": "grandmother",
+    "ur": "دادی / نانی",
+    "id": 1264
+  },
+  {
+    "id": 1455,
+    "de": "die Besichtigung",
+    "p": "",
+    "en": "viewing; inspection",
+    "ur": "معائنہ؛ گھر دیکھنا"
+  },
+  {
+    "de": "sechzig",
+    "p": "ZEKH-tsikh",
+    "en": "sixty",
+    "ur": "ساٹھ",
+    "id": 1265
+  },
+  {
+    "id": 1441,
+    "de": "die Sprechstunde",
+    "p": "",
+    "en": "consultation hours",
+    "ur": "مریضوں سے ملاقات کا وقت"
+  },
+  {
+    "id": 1425,
+    "de": "die Steuererklärung",
+    "p": "",
+    "en": "tax return",
+    "ur": "ٹیکس گوشوارہ"
+  },
+  {
+    "de": "der Großvater",
+    "p": "dair GROHS-fah-ter",
+    "en": "grandfather",
+    "ur": "دادا / نانا",
+    "id": 1266
+  },
+  {
+    "de": "umsteigen",
+    "p": "OOM-shty-gen",
+    "en": "to change (trains)",
+    "ur": "گاڑی بدلنا",
+    "id": 1267
+  },
+  {
+    "de": "Ich bin krank",
+    "p": "ikh bin krank",
+    "en": "I’m sick",
+    "ur": "میں بیمار ہوں",
+    "id": 1268
+  },
+  {
+    "id": 1438,
+    "de": "die Nebenwirkung",
+    "p": "",
+    "en": "side effect",
+    "ur": "ضمنی اثر"
+  },
+  {
+    "de": "der Stadtrand",
+    "p": "dair SHTAT-rand",
+    "en": "outskirts",
+    "ur": "شہر کا کنارہ",
+    "id": 1269
+  },
+  {
+    "id": 1475,
+    "de": "das WLAN",
+    "p": "",
+    "en": "Wi-Fi",
+    "ur": "وائی فائی"
+  },
+  {
+    "de": "die Grammatik",
+    "p": "dee gra-MA-tik",
+    "en": "grammar",
+    "ur": "گرامر",
+    "id": 1270
+  },
+  {
+    "de": "neunzehn",
+    "p": "NOYN-tsayn",
+    "en": "nineteen",
+    "ur": "انیس",
+    "id": 1271
+  },
+  {
+    "de": "außerhalb",
+    "p": "",
+    "en": "outside of",
+    "ur": "سے باہر",
+    "id": 1272
+  },
+  {
+    "id": 1408,
+    "de": "der Gehweg",
+    "p": "",
+    "en": "pavement; sidewalk",
+    "ur": "فٹ پاتھ"
+  },
+  {
+    "de": "der Automat",
+    "p": "dair ow-to-MAHT",
+    "en": "vending machine / ATM",
+    "ur": "مشین / اے ٹی ایم",
+    "id": 1273
+  },
+  {
+    "de": "Ich habe keine Zeit",
+    "p": "ikh HAH-beh KY-neh tsite",
+    "en": "I have no time",
+    "ur": "میرے پاس وقت نہیں ہے",
+    "id": 1274
+  },
+  {
+    "id": 1460,
+    "de": "die Probezeit",
+    "p": "",
+    "en": "probationary period",
+    "ur": "آزمائشی مدت"
+  },
+  {
+    "de": "die Steckdose",
+    "p": "dee SHTEK-doh-zeh",
+    "en": "power outlet / socket",
+    "ur": "بجلی کا ساکٹ",
+    "id": 1275
+  },
+  {
+    "de": "die Sauberkeit",
+    "p": "dee ZOW-ber-kite",
+    "en": "cleanliness",
+    "ur": "صفائی",
+    "id": 1276
+  },
+  {
+    "de": "die Rückgabe",
+    "p": "dee RÜK-gah-beh",
+    "en": "return (of goods)",
+    "ur": "واپسی",
+    "id": 1277
+  },
+  {
+    "id": 1464,
+    "de": "der Kontostand",
+    "p": "",
+    "en": "account balance",
+    "ur": "اکاؤنٹ کا بیلنس"
+  },
+  {
+    "de": "Es tut mir leid",
+    "p": "es toot meer lite",
+    "en": "I’m sorry",
+    "ur": "مجھے افسوس ہے",
+    "id": 1278
+  },
+  {
+    "de": "der Tourismus",
+    "p": "dair too-RIS-moos",
+    "en": "tourism",
+    "ur": "سیاحت",
+    "id": 1279
+  },
+  {
+    "de": "der Einkaufswagen",
+    "p": "dair INE-kowfs-vah-gen",
+    "en": "shopping cart",
+    "ur": "خریداری کی ٹوکری",
+    "id": 1280
+  },
+  {
+    "de": "achtzig",
+    "p": "AKH-tsikh",
+    "en": "eighty",
+    "ur": "اسّی",
+    "id": 1281
+  },
+  {
+    "de": "die Hausaufgabe",
+    "p": "dee HOWS-owf-gah-beh",
+    "en": "homework",
+    "ur": "گھر کا کام",
+    "id": 1282
+  },
+  {
+    "id": 1393,
+    "de": "stornieren",
+    "p": "",
+    "en": "cancel a booking",
+    "ur": "بکنگ منسوخ کرنا"
+  },
+  {
+    "id": 1407,
+    "de": "die Umleitung",
+    "p": "",
+    "en": "detour",
+    "ur": "متبادل راستہ"
+  },
+  {
+    "de": "Schönen Tag noch",
+    "p": "SHUR-nen tahk nokh",
+    "en": "Have a nice day",
+    "ur": "آپ کا دن اچھا گزرے",
+    "id": 1283
+  },
+  {
+    "de": "die Muttersprache",
+    "p": "dee MOOT-ter-shprah-kheh",
+    "en": "mother tongue",
+    "ur": "مادری زبان",
+    "id": 1284
+  },
+  {
+    "de": "der Fußball",
+    "p": "dair FOOS-bal",
+    "en": "football / soccer",
+    "ur": "فٹ بال",
+    "id": 1285
+  },
+  {
+    "id": 1430,
+    "de": "die Halsschmerzen",
+    "p": "",
+    "en": "sore throat",
+    "ur": "گلے کی سوزش"
+  },
+  {
+    "de": "Mir ist kalt",
+    "p": "meer ist kalt",
+    "en": "I’m cold",
+    "ur": "مجھے سردی لگ رہی ہے",
+    "id": 1286
+  },
+  {
+    "de": "Ich bin müde",
+    "p": "ikh bin MÜ-deh",
+    "en": "I’m tired",
+    "ur": "میں تھکا ہوا ہوں",
+    "id": 1287
+  },
+  {
+    "de": "die Größe",
+    "p": "dee GRUR-seh",
+    "en": "size / height",
+    "ur": "سائز / قد",
+    "id": 1288
+  },
+  {
+    "de": "der Sportplatz",
+    "p": "dair SHPORT-plats",
+    "en": "sports field",
+    "ur": "کھیل کا میدان",
+    "id": 1289
+  },
+  {
+    "id": 1428,
+    "de": "die Krankenkasse",
+    "p": "",
+    "en": "health insurance fund",
+    "ur": "صحت بیمہ ادارہ"
+  },
+  {
+    "de": "Ich habe Hunger",
+    "p": "ikh HAH-beh HOONG-er",
+    "en": "I’m hungry",
+    "ur": "مجھے بھوک لگی ہے",
+    "id": 1290
+  },
+  {
+    "de": "siebzig",
+    "p": "ZEEP-tsikh",
+    "en": "seventy",
+    "ur": "ستر",
+    "id": 1291
+  },
+  {
+    "id": 1397,
+    "de": "kaputtgehen",
+    "p": "",
+    "en": "break; stop working",
+    "ur": "خراب ہو جانا"
+  },
+  {
+    "de": "die Postleitzahl",
+    "p": "dee POST-lite-tsahl",
+    "en": "postal code / zip code",
+    "ur": "پوسٹل کوڈ",
+    "id": 1292
+  },
+  {
+    "id": 1465,
+    "de": "die Rückerstattung",
+    "p": "",
+    "en": "refund",
+    "ur": "رقم کی واپسی"
+  },
+  {
+    "de": "Wie war dein Tag?",
+    "p": "vee var dine tahk",
+    "en": "How was your day?",
+    "ur": "تمہارا دن کیسا رہا؟",
+    "id": 1293
+  },
+  {
+    "de": "nass",
+    "p": "nas",
+    "en": "wet",
+    "ur": "گیلا",
+    "id": 1294
+  },
+  {
+    "de": "Ich weiß nicht",
+    "p": "ikh vice nikht",
+    "en": "I don’t know",
+    "ur": "مجھے نہیں معلوم",
+    "id": 1295
+  },
+  {
+    "de": "die U-Bahn",
+    "p": "dee OO-bahn",
+    "en": "subway",
+    "ur": "زیر زمین ریل",
+    "id": 1296
+  },
+  {
+    "id": 1440,
+    "de": "die Arztpraxis",
+    "p": "",
+    "en": "doctor’s office",
+    "ur": "ڈاکٹر کا مطب"
+  },
+  {
+    "de": "der Klimawandel",
+    "p": "dair KLEE-mah-van-del",
+    "en": "climate change",
+    "ur": "موسمیاتی تبدیلی",
+    "id": 1297
+  },
+  {
+    "id": 1415,
+    "de": "die Bescheinigung",
+    "p": "",
+    "en": "certificate; confirmation",
+    "ur": "سرٹیفکیٹ؛ تصدیق"
+  },
+  {
+    "id": 1470,
+    "de": "der Geldautomat",
+    "p": "",
+    "en": "cash machine; ATM",
+    "ur": "اے ٹی ایم"
+  },
+  {
+    "id": 1481,
+    "de": "der Notdienst",
+    "p": "",
+    "en": "emergency service",
+    "ur": "ہنگامی سروس"
+  },
+  {
+    "de": "Können Sie mir helfen?",
+    "p": "KUR-nen zee meer HEL-fen",
+    "en": "Can you help me?",
+    "ur": "کیا آپ میری مدد کر سکتے ہیں؟",
+    "id": 1298
+  },
+  {
+    "de": "der Boss",
+    "p": "",
+    "en": "boss",
+    "ur": "باس",
+    "id": 1299
+  },
+  {
+    "id": 1446,
+    "de": "die Nebenkosten",
+    "p": "",
+    "en": "additional housing costs",
+    "ur": "اضافی رہائشی اخراجات"
+  },
+  {
+    "de": "die Dienstleistung",
+    "p": "dee DEENST-lice-toong",
+    "en": "service",
+    "ur": "خدمت",
+    "id": 1300
+  },
+  {
+    "id": 1420,
+    "de": "die Warteschlange",
+    "p": "",
+    "en": "queue; line",
+    "ur": "قطار"
+  },
+  {
+    "de": "neunzig",
+    "p": "NOYN-tsikh",
+    "en": "ninety",
+    "ur": "نوّے",
+    "id": 1301
+  },
+  {
+    "de": "Ich bin einverstanden",
+    "p": "ikh bin INE-fer-shtan-den",
+    "en": "I agree",
+    "ur": "میں متفق ہوں",
+    "id": 1302
+  },
+  {
+    "id": 1456,
+    "de": "die Hausordnung",
+    "p": "",
+    "en": "house rules",
+    "ur": "عمارت کے قواعد"
+  },
+  {
+    "de": "Gute Besserung",
+    "p": "GOO-teh BES-se-roong",
+    "en": "Get well soon",
+    "ur": "جلد صحت یاب ہوں",
+    "id": 1303
+  },
+  {
+    "de": "Ich muss gehen",
+    "p": "ikh moos GAY-en",
+    "en": "I have to go",
+    "ur": "مجھے جانا ہے",
+    "id": 1304
+  },
+  {
+    "de": "die Stadtmitte",
+    "p": "dee SHTAT-mit-teh",
+    "en": "city center",
+    "ur": "شہر کا مرکز",
+    "id": 1305
+  },
+  {
+    "de": "die Besorgung",
+    "p": "dee be-ZOR-goong",
+    "en": "errand",
+    "ur": "گھریلو کام / خریداری",
+    "id": 1306
+  },
+  {
+    "de": "herunterladen",
+    "p": "he-ROON-ter-lah-den",
+    "en": "to download",
+    "ur": "ڈاؤن لوڈ کرنا",
+    "id": 1307
+  },
+  {
+    "de": "die E-Mail",
+    "p": "dee EE-mayl",
+    "en": "email",
+    "ur": "ای میل",
+    "id": 1308
+  },
+  {
+    "de": "stoßen",
+    "p": "",
+    "en": "push; bump",
+    "ur": "دھکیلنا؛ ٹکرانا",
+    "id": 1309
+  },
+  {
+    "de": "Das schmeckt gut",
+    "p": "dass shmekt goot",
+    "en": "That tastes good",
+    "ur": "یہ مزیدار ہے",
+    "id": 1310
+  },
+  {
+    "de": "die Mehrwertsteuer",
+    "p": "dee MAIR-vairt-shtoy-er",
+    "en": "VAT / sales tax",
+    "ur": "ویلیو ایڈڈ ٹیکس",
+    "id": 1311
+  },
+  {
+    "de": "Pass auf",
+    "p": "pas owf",
+    "en": "Watch out",
+    "ur": "خبردار",
+    "id": 1312
+  },
+  {
+    "id": 1381,
+    "de": "sich anmelden",
+    "p": "",
+    "en": "register",
+    "ur": "رجسٹر کرنا"
+  },
+  {
+    "de": "die Öffnungszeiten",
+    "p": "dee URF-noongs-tsy-ten",
+    "en": "opening hours",
+    "ur": "کھلنے کے اوقات",
+    "id": 1313
+  },
+  {
+    "de": "müssen",
+    "p": "MÜ-ssen",
+    "en": "must, have to",
+    "ur": "پڑنا / ضروری ہونا",
+    "id": 1314
+  },
+  {
+    "de": "Das ist mir egal",
+    "p": "dass ist meer ay-GAHL",
+    "en": "I don’t mind / I don’t care",
+    "ur": "مجھے کوئی فرق نہیں پڑتا",
+    "id": 1315
+  },
+  {
+    "de": "Sprechen Sie Englisch?",
+    "p": "SHPRE-khen zee ENG-lish",
+    "en": "Do you speak English?",
+    "ur": "کیا آپ انگریزی بولتے ہیں؟",
+    "id": 1316
+  },
+  {
+    "de": "Ich habe eine Frage",
+    "p": "ikh HAH-beh INE-eh FRAH-geh",
+    "en": "I have a question",
+    "ur": "میرا ایک سوال ہے",
+    "id": 1317
+  },
+  {
+    "de": "Wie komme ich zum …?",
+    "p": "vee KOM-meh ikh tsoom",
+    "en": "How do I get to …?",
+    "ur": "میں … تک کیسے پہنچوں؟",
+    "id": 1318
+  },
+  {
+    "de": "der Abschluss",
+    "p": "dair AP-shloos",
+    "en": "degree / graduation",
+    "ur": "ڈگری / گریجویشن",
+    "id": 1319
+  },
+  {
+    "de": "der Umtausch",
+    "p": "dair OOM-towsh",
+    "en": "exchange",
+    "ur": "تبادلہ",
+    "id": 1320
+  },
+  {
+    "de": "der Stress",
+    "p": "dair stres",
+    "en": "stress",
+    "ur": "دباؤ / تناؤ",
+    "id": 1321
+  },
+  {
+    "de": "der Kopfschmerz",
+    "p": "",
+    "en": "headache",
+    "ur": "سر درد",
+    "id": 1322
+  },
+  {
+    "de": "Wie spät ist es?",
+    "p": "vee shpayt ist es",
+    "en": "What time is it?",
+    "ur": "کیا وقت ہوا ہے؟",
+    "id": 1323
+  },
+  {
+    "id": 1391,
+    "de": "sich verspäten",
+    "p": "",
+    "en": "be delayed",
+    "ur": "دیر سے پہنچنا"
+  },
+  {
+    "id": 1471,
+    "de": "der Kontoauszug",
+    "p": "",
+    "en": "bank statement",
+    "ur": "بینک اکاؤنٹ کی تفصیل"
+  },
+  {
+    "de": "Ich heiße …",
+    "p": "ikh HY-sseh",
+    "en": "My name is …",
+    "ur": "میرا نام … ہے",
+    "id": 1324
+  },
+  {
+    "id": 1472,
+    "de": "der Wasserkocher",
+    "p": "",
+    "en": "kettle",
+    "ur": "کیٹل"
+  },
+  {
+    "de": "der Kassenzettel",
+    "p": "dair KAS-sen-tset-tel",
+    "en": "receipt (shopping)",
+    "ur": "خریداری کی رسید",
+    "id": 1325
+  },
+  {
+    "de": "Urdu",
+    "p": "OOR-doo",
+    "en": "Urdu",
+    "ur": "اردو",
+    "id": 1326
+  },
+  {
+    "de": "Sprechen Sie langsamer",
+    "p": "SHPRE-khen zee LANG-za-mer",
+    "en": "Please speak slower",
+    "ur": "آہستہ بولیے",
+    "id": 1327
+  },
+  {
+    "id": 1405,
+    "de": "der Anschluss",
+    "p": "",
+    "en": "connection; transfer",
+    "ur": "اگلی سواری کا رابطہ"
+  },
+  {
+    "id": 1396,
+    "de": "reklamieren",
+    "p": "",
+    "en": "complain about; return faulty goods",
+    "ur": "خرابی کی شکایت کرنا"
+  },
+  {
+    "de": "Wie alt bist du?",
+    "p": "vee alt bist doo",
+    "en": "How old are you?",
+    "ur": "تمہاری عمر کیا ہے؟",
+    "id": 1328
+  },
+  {
+    "de": "sich verirren",
+    "p": "",
+    "en": "get lost",
+    "ur": "راستہ بھول جانا",
+    "id": 1329
+  },
+  {
+    "de": "Ich habe Durst",
+    "p": "ikh HAH-beh doorst",
+    "en": "I’m thirsty",
+    "ur": "مجھے پیاس لگی ہے",
+    "id": 1330
+  },
+  {
+    "de": "fliegen",
+    "p": "FLEE-gen",
+    "en": "to fly",
+    "ur": "اڑنا",
+    "id": 1331
+  },
+  {
+    "de": "dreißig",
+    "p": "DRY-ssikh",
+    "en": "thirty",
+    "ur": "تیس",
+    "id": 1332
+  },
+  {
+    "id": 1409,
+    "de": "die Monatskarte",
+    "p": "",
+    "en": "monthly travel pass",
+    "ur": "ماہانہ سفری پاس"
+  },
+  {
+    "de": "Was gibt’s Neues?",
+    "p": "vas gipts NOY-es",
+    "en": "What’s new?",
+    "ur": "کیا نیا ہے؟",
+    "id": 1333
+  },
+  {
+    "de": "Ich lerne Deutsch",
+    "p": "ikh LAIR-neh doych",
+    "en": "I’m learning German",
+    "ur": "میں جرمن سیکھ رہا ہوں",
+    "id": 1334
+  },
+  {
+    "de": "finden",
+    "p": "FIN-den",
+    "en": "to find",
+    "ur": "ڈھونڈنا",
+    "id": 1335
+  },
+  {
+    "de": "Wie heißt du?",
+    "p": "vee hyst doo",
+    "en": "What’s your name?",
+    "ur": "تمہارا نام کیا ہے؟",
+    "id": 1336
+  },
+  {
+    "de": "das Erdgeschoss",
+    "p": "dass AIRT-ge-shoss",
+    "en": "ground floor",
+    "ur": "گراؤنڈ فلور",
+    "id": 1337
+  },
+  {
+    "de": "Einen Tisch für zwei",
+    "p": "INE-en tish für tsvy",
+    "en": "A table for two",
+    "ur": "دو افراد کے لیے میز",
+    "id": 1338
+  },
+  {
+    "id": 1459,
+    "de": "die Krankmeldung",
+    "p": "",
+    "en": "sick notice",
+    "ur": "بیماری کی اطلاع"
+  },
+  {
+    "de": "Ich bin hier neu",
+    "p": "ikh bin heer noy",
+    "en": "I’m new here",
+    "ur": "میں یہاں نیا ہوں",
+    "id": 1339
+  },
+  {
+    "de": "Frohes neues Jahr",
+    "p": "FROH-es NOY-es yahr",
+    "en": "Happy New Year",
+    "ur": "نیا سال مبارک",
+    "id": 1340
+  },
+  {
+    "id": 1389,
+    "de": "abbuchen",
+    "p": "",
+    "en": "debit; deduct",
+    "ur": "اکاؤنٹ سے رقم کاٹنا"
+  },
+  {
+    "de": "Mit Karte oder bar?",
+    "p": "mit KAR-teh OH-der bar",
+    "en": "By card or cash?",
+    "ur": "کارڈ سے یا نقد؟",
+    "id": 1341
+  },
+  {
+    "de": "Wie viel kostet das?",
+    "p": "vee feel KOS-tet dass",
+    "en": "How much is this?",
+    "ur": "یہ کتنے کا ہے؟",
+    "id": 1342
+  },
+  {
+    "id": 1495,
+    "de": "der Feierabendverkehr",
+    "p": "",
+    "en": "rush-hour traffic",
+    "ur": "دفتری اوقات کے بعد کا ٹریفک"
+  },
+  {
+    "id": 1382,
+    "de": "sich abmelden",
+    "p": "",
+    "en": "sign off; deregister",
+    "ur": "نام خارج کرانا"
+  },
+  {
+    "de": "der Reisepass",
+    "p": "dair RY-zeh-pas",
+    "en": "passport",
+    "ur": "پاسپورٹ",
+    "id": 1343
+  },
+  {
+    "de": "Wie schreibt man das?",
+    "p": "vee shrypt man dass",
+    "en": "How do you spell that?",
+    "ur": "یہ کیسے لکھتے ہیں؟",
+    "id": 1344
+  },
+  {
+    "de": "Wo ist die Toilette?",
+    "p": "voh ist dee to-a-LET-teh",
+    "en": "Where is the toilet?",
+    "ur": "بیت الخلا کہاں ہے؟",
+    "id": 1345
+  },
+  {
+    "id": 1411,
+    "de": "die Öffnungszeit",
+    "p": "",
+    "en": "opening time",
+    "ur": "کھلنے کا وقت"
+  },
+  {
+    "id": 1423,
+    "de": "das Bürgeramt",
+    "p": "",
+    "en": "citizens’ office",
+    "ur": "شہری خدمات کا دفتر"
+  },
+  {
+    "de": "Wie heißen Sie?",
+    "p": "vee HY-ssen zee",
+    "en": "What’s your name? (formal)",
+    "ur": "آپ کا نام کیا ہے؟",
+    "id": 1346
+  },
+  {
+    "de": "das Wissen",
+    "p": "dass VIS-sen",
+    "en": "knowledge",
+    "ur": "علم",
+    "id": 1347
+  },
+  {
+    "de": "wissen",
+    "p": "VIS-sen",
+    "en": "to know (a fact)",
+    "ur": "جاننا",
+    "id": 1348
+  },
+  {
+    "de": "Mir ist heiß",
+    "p": "meer ist hice",
+    "en": "I’m hot",
+    "ur": "مجھے گرمی لگ رہی ہے",
+    "id": 1349
+  },
+  {
+    "de": "Können Sie das wiederholen?",
+    "p": "KUR-nen zee dass vee-der-HOH-len",
+    "en": "Can you repeat that?",
+    "ur": "کیا آپ دہرا سکتے ہیں؟",
+    "id": 1350
+  },
+  {
+    "de": "lassen",
+    "p": "LAS-sen",
+    "en": "to let / leave",
+    "ur": "چھوڑنا / اجازت دینا",
+    "id": 1351
+  },
+  {
+    "de": "der Schlüssel",
+    "p": "dair SHLÜS-sel",
+    "en": "key",
+    "ur": "چابی",
+    "id": 1352
+  },
+  {
+    "de": "fliehen",
+    "p": "",
+    "en": "flee",
+    "ur": "فرار ہونا",
+    "id": 1353
+  },
+  {
+    "id": 1410,
+    "de": "der Fahrkartenautomat",
+    "p": "",
+    "en": "ticket machine",
+    "ur": "ٹکٹ مشین"
+  },
+  {
+    "id": 1426,
+    "de": "die Meldebescheinigung",
+    "p": "",
+    "en": "registration certificate",
+    "ur": "رہائش کے اندراج کا سرٹیفکیٹ"
+  },
+  {
+    "de": "besser",
+    "p": "BES-ser",
+    "en": "better",
+    "ur": "بہتر",
+    "id": 1354
+  },
+  {
+    "de": "die Tasse",
+    "p": "dee TAS-seh",
+    "en": "cup",
+    "ur": "پیالی",
+    "id": 1355
+  },
+  {
+    "de": "der Ausflug",
+    "p": "dair OWS-flook",
+    "en": "excursion / outing",
+    "ur": "سیر / گھومنے جانا",
+    "id": 1356
+  },
+  {
+    "de": "höflich",
+    "p": "HURF-likh",
+    "en": "polite",
+    "ur": "مہذب",
+    "id": 1357
+  },
+  {
+    "de": "fotografieren",
+    "p": "fo-to-gra-FEE-ren",
+    "en": "to photograph",
+    "ur": "تصویر کھینچنا",
+    "id": 1358
+  },
+  {
+    "de": "fleißig",
+    "p": "FLY-ssikh",
+    "en": "hardworking",
+    "ur": "محنتی",
+    "id": 1359
+  },
+  {
+    "id": 1427,
+    "de": "der Aufenthaltstitel",
+    "p": "",
+    "en": "residence permit",
+    "ur": "رہائشی اجازت نامہ"
+  },
+  {
+    "id": 1453,
+    "de": "die Nebenkostenabrechnung",
+    "p": "",
+    "en": "additional-cost statement",
+    "ur": "اضافی اخراجات کا حساب"
+  },
+  {
+    "de": "Ich spreche ein bisschen Deutsch",
+    "p": "ikh SHPRE-kheh ine BIS-khen doych",
+    "en": "I speak a little German",
+    "ur": "میں تھوڑی جرمن بولتا ہوں",
+    "id": 1360
+  }
+]
