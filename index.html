@@ -1,9 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-audio="on">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
     <meta name="theme-color" content="#3b82f6" />
+    <meta
+      name="description"
+      content="Practise everyday German vocabulary and speaking with English and Urdu support."
+    />
     <title>Deutsch 80/20 - Daily German</title>
     <link rel="manifest" href="manifest.json" />
     <link rel="icon" type="image/svg+xml" href="icons/logo.svg" />
@@ -39,16 +43,25 @@
       </div>
 
       <nav id="nav" aria-label="Learning sections">
-        <button type="button" data-tab="today" class="on">Today</button>
-        <button type="button" data-tab="speak">Speak</button>
-        <button type="button" data-tab="all">All words</button>
-        <button type="button" data-tab="flash">Flashcards</button>
+        <button type="button" data-tab="today" class="on">Study today</button>
+        <button type="button" data-tab="speak">Practise speaking</button>
+        <button type="button" data-tab="all">Browse words</button>
+        <button type="button" data-tab="flash">Review flashcards</button>
       </nav>
 
       <div class="voice-controls">
         <label for="voiceRate">Voice speed</label>
         <input id="voiceRate" type="range" min="0.5" max="1" step="0.1" value="0.8" />
         <output id="voiceRateValue" for="voiceRate">0.8x</output>
+        <button
+          id="audioToggle"
+          class="audio-toggle"
+          type="button"
+          aria-pressed="true"
+          data-action="toggle-audio"
+        >
+          Mute speech
+        </button>
       </div>
 
       <section id="view" aria-live="polite" aria-busy="true"></section>

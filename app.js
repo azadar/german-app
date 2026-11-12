@@ -8,6 +8,7 @@ const elements = {
   view: document.querySelector("#view"),
   voiceRate: document.querySelector("#voiceRate"),
   voiceRateValue: document.querySelector("#voiceRateValue"),
+  audioToggle: document.querySelector("#audioToggle"),
 };
 
 const defaultAppState = {
@@ -18,6 +19,7 @@ const defaultAppState = {
   wordsPerDay: 5,
   phrases: {},
   wordDataVersion: 1,
+  audioEnabled: true,
 };
 
 let appState = loadAppState();
@@ -50,6 +52,18 @@ function saveAppState() {
     console.error("Could not save learning progress.", error);
   }
 }
+
+function updateAudioToggle() {
+  const audioEnabled = appState.audioEnabled !== false;
+
+  document.documentElement.dataset.audio = audioEnabled ? "on" : "off";
+  elements.audioToggle.setAttribute("aria-pressed", String(audioEnabled));
+  elements.audioToggle.textContent = audioEnabled
+    ? "Mute speech"
+    : "Enable speech";
+}
+
+updateAudioToggle();
 
 function todayKey() {
   return new Date().toISOString().slice(0, 10);
@@ -172,7 +186,10 @@ function getLearningStreak() {
 }
 
 function speakGerman(text) {
-  if (!("speechSynthesis" in window)) {
+  if (
+    document.documentElement.dataset.audio === "off" ||
+    !("speechSynthesis" in window)
+  ) {
     return;
   }
 
@@ -297,6 +314,7 @@ function renderStatistics() {
 }
 
 function renderApp() {
+  updateAudioToggle();
   renderStatistics();
   elements.navigation.querySelectorAll("button").forEach((button) => {
     const isActive = button.dataset.tab === activeTab;
@@ -749,6 +767,14 @@ function handleAppAction(eventTarget) {
   switch (actionElement.dataset.action) {
     case "speak-word":
       speakGerman(vocabularyWords[wordId].de);
+      break;
+    case "toggle-audio":
+      appState.audioEnabled = appState.audioEnabled === false;
+      saveAppState();
+      updateAudioToggle();
+      if (!appState.audioEnabled && "speechSynthesis" in window) {
+        speechSynthesis.cancel();
+      }
       break;
     case "recognize-word":
       recognizeGermanWord(
