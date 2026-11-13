@@ -979,10 +979,79 @@ fetch("phrases.json")
     }
   });
 
+function showUpdateBanner(waitingWorker) {
+  if (document.querySelector("#updateBanner")) {
+    return;
+  }
+
+  const banner = document.createElement("div");
+  banner.id = "updateBanner";
+  banner.className = "update-banner";
+  banner.setAttribute("role", "status");
+
+  const message = document.createElement("span");
+  message.textContent = "A new version is available.";
+
+  const reloadButton = document.createElement("button");
+  reloadButton.type = "button";
+  reloadButton.className = "primary";
+  reloadButton.textContent = "Update now";
+  reloadButton.addEventListener("click", () => {
+    reloadButton.disabled = true;
+    waitingWorker.postMessage({ type: "SKIP_WAITING" });
+  });
+
+  const dismissButton = document.createElement("button");
+  dismissButton.type = "button";
+  dismissButton.textContent = "Later";
+  dismissButton.addEventListener("click", () => banner.remove());
+
+  banner.append(message, reloadButton, dismissButton);
+  document.body.append(banner);
+}
+
 if ("serviceWorker" in navigator) {
+  const hadController = Boolean(navigator.serviceWorker.controller);
+  let isReloading = false;
+
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    // Skip the first install; only reload when an existing version is replaced.
+    if (hadController && !isReloading) {
+      isReloading = true;
+      window.location.reload();
+    }
+  });
+
   window.addEventListener("load", () => {
-    navigator.serviceWorker.register("sw.js").catch((error) => {
-      console.error("Could not register the offline service worker.", error);
-    });
+    navigator.serviceWorker
+      .register("sw.js")
+      .then((registration) => {
+        if (registration.waiting && navigator.serviceWorker.controller) {
+          showUpdateBanner(registration.waiting);
+        }
+
+        registration.addEventListener("updatefound", () => {
+          const installingWorker = registration.installing;
+
+          installingWorker?.addEventListener("statechange", () => {
+            if (
+              installingWorker.state === "installed" &&
+              navigator.serviceWorker.controller
+            ) {
+              showUpdateBanner(installingWorker);
+            }
+          });
+        });
+
+        // Installed PWAs stay open for long periods, so check again on return.
+        document.addEventListener("visibilitychange", () => {
+          if (document.visibilityState === "visible") {
+            registration.update().catch(() => {});
+          }
+        });
+      })
+      .catch((error) => {
+        console.error("Could not register the offline service worker.", error);
+      });
   });
 }

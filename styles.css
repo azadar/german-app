@@ -319,6 +319,29 @@ input[type="range"]:focus-visible {
   justify-self: end;
 }
 
+.update-banner {
+  position: fixed;
+  right: 16px;
+  bottom: calc(16px + env(safe-area-inset-bottom));
+  left: 16px;
+  z-index: 10;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 14px 18px;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--surface-elevated);
+  box-shadow: 0 8px 24px rgb(15 23 42 / 18%);
+}
+
+.update-banner span {
+  flex: 1 1 160px;
+}
+
 .voice-slider {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 44px;

@@ -1,4 +1,4 @@
-const CACHE_NAME = "deutsch-v16";
+const CACHE_NAME = "deutsch-v17";
 const APP_ASSETS = [
   "./",
   "index.html",
@@ -22,9 +22,15 @@ self.addEventListener("install", (event) => {
             (assetUrl) => new Request(assetUrl, { cache: "reload" }),
           ),
         ),
-      )
-      .then(() => self.skipWaiting()),
+      ),
   );
+});
+
+// The page asks for activation once the learner accepts the update prompt.
+self.addEventListener("message", (event) => {
+  if (event.data?.type === "SKIP_WAITING") {
+    self.skipWaiting();
+  }
 });
 
 self.addEventListener("activate", (event) => {

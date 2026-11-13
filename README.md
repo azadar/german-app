@@ -41,4 +41,4 @@ Add words as objects with stable `id`, `de`, `p`, `en`, and `ur` fields, keeping
 - `manifest.json`, `sw.js`, and `icons/`: installation metadata, offline caching, and app icons.
 - `.design/DESIGN.md`: the [Skylearn design system](https://designmd.ai/duanhdan/skylearn) reference.
 
-Increment the cache name in `sw.js` after changing app assets (currently `deutsch-v16`).
+Increment the cache name in `sw.js` after changing app assets (currently `deutsch-v17`). Installed apps show an "Update now" prompt when a new cache version is deployed.
