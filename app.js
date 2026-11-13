@@ -185,6 +185,27 @@ function getLearningStreak() {
   return streakLength;
 }
 
+// Edge lists both a robotic local "Katja" and "Katja Online (Natural)", so rank rather than take the first match.
+function scoreGermanVoice(voice) {
+  const name = voice.name.toLowerCase();
+  const isNatural = /natural|neural|online/.test(name);
+  const isKatja = name.includes("katja");
+
+  return (isKatja ? 2 : 0) + (isNatural ? 4 : 0);
+}
+
+function pickGermanVoice() {
+  const germanVoices = speechSynthesis
+    .getVoices()
+    .filter((voice) => voice.lang?.toLowerCase().replace("_", "-").startsWith("de"));
+
+  return germanVoices.reduce(
+    (best, voice) =>
+      !best || scoreGermanVoice(voice) > scoreGermanVoice(best) ? voice : best,
+    null,
+  );
+}
+
 function speakGerman(text) {
   if (
     document.documentElement.dataset.audio === "off" ||
@@ -197,9 +218,7 @@ function speakGerman(text) {
   utterance.lang = "de-DE";
   utterance.rate = Number(elements.voiceRate.value);
 
-  const germanVoice = speechSynthesis
-    .getVoices()
-    .find((voice) => voice.lang?.startsWith("de"));
+  const germanVoice = pickGermanVoice();
 
   if (germanVoice) {
     utterance.voice = germanVoice;

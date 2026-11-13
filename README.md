@@ -11,7 +11,7 @@ Deutsch 80/20 is a progressive web app for practising useful everyday German wit
 - Practise 166 phrases by situation: recall the German from its meaning, then reveal and listen.
 - Review vocabulary with flashcards.
 - Track word progress, practice phrases, and a daily streak in the browser. Progress is stored locally on the device and is not synced between devices.
-- Adjust voice speed or mute speech. Speech recognition depends on browser support and microphone permission.
+- Adjust voice speed or mute speech. Pronunciation prefers the natural (online) German Katja voice when the browser provides one (for example, in Edge), then any natural German voice; otherwise it uses the first available German voice or the browser default. Speech recognition depends on browser support and microphone permission.
 - Use a responsive interface with light and dark colors, keyboard focus indicators, reduced-motion and forced-colors support.
 
 ## Run and install
@@ -41,4 +41,4 @@ Add words as objects with stable `id`, `de`, `p`, `en`, and `ur` fields, keeping
 - `manifest.json`, `sw.js`, and `icons/`: installation metadata, offline caching, and app icons.
 - `.design/DESIGN.md`: the [Skylearn design system](https://designmd.ai/duanhdan/skylearn) reference.
 
-Increment the cache name in `sw.js` after changing app assets (currently `deutsch-v14`).
+Increment the cache name in `sw.js` after changing app assets (currently `deutsch-v16`).
